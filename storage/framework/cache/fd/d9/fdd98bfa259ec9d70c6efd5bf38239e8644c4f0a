@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1519890130a:1:{s:15:"site/header.htm";a:5:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:1224:"<!-- Nav -->
+=======
+1519889850a:1:{s:15:"site/header.htm";a:5:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:1246:"<!-- Nav -->
+>>>>>>> 6c566583a725a9e7e9db6403740b3873c459f071
 <nav id="layout-nav" class="navbar navbar-inverse navbar-fixed-top navbar-autohide" role="navigation">
     <div class="container">
         <div class="navbar-header">
@@ -20,7 +24,7 @@
         </div>
     </div>
 </nav>
-";s:5:"mtime";i:1519888455;s:6:"markup";s:1223:"<!-- Nav -->
+";s:5:"mtime";i:1519888735;s:6:"markup";s:1244:"<!-- Nav -->
 <nav id="layout-nav" class="navbar navbar-inverse navbar-fixed-top navbar-autohide" role="navigation">
     <div class="container">
         <div class="navbar-header">

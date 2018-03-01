@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1519889866a:1:{i:0;O:8:"stdClass":5:{s:2:"id";i:3;s:9:"namespace";s:6:"system";s:5:"group";s:4:"core";s:4:"item";s:5:"build";s:5:"value";s:5:""434"";}}
+=======
+1519889665a:1:{i:0;O:8:"stdClass":5:{s:2:"id";i:3;s:9:"namespace";s:6:"system";s:5:"group";s:4:"core";s:4:"item";s:5:"build";s:5:"value";s:5:""434"";}}
+>>>>>>> 6c566583a725a9e7e9db6403740b3873c459f071
