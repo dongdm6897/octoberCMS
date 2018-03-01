@@ -1,4 +1,4 @@
-1519889979a:1:{s:12:"site/nav.htm";a:8:{s:8:"fileName";s:12:"site/nav.htm";s:7:"content";s:2266:"description = "Nav with Dropdown"
+1519900827a:1:{s:12:"site/nav.htm";a:8:{s:8:"fileName";s:12:"site/nav.htm";s:7:"content";s:2271:"description = "Nav with Dropdown"
 
 [viewBag]
 
@@ -6,11 +6,11 @@
 code = "mainmenu"
 ==
 <!--Navbar-->
-<nav class="navbar navbar-expand-lg navbar-dark nav-blue">
+<nav class="navbar navbar-expand-lg navbar-dark bg-green">
 
     <!-- Navbar brand -->
-    <a class="navbar-brand" href="#">Navbar</a>
-
+    <a class="navbar-brand" href="#">Farm Up</a>
+    
     <!-- Collapse button -->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
         aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -55,12 +55,12 @@ code = "mainmenu"
     <!-- Collapsible content -->
 
 </nav>
-<!--/.Navbar-->";s:5:"mtime";i:1519889065;s:6:"markup";s:2186:"<!--Navbar-->
-<nav class="navbar navbar-expand-lg navbar-dark nav-blue">
+<!--/.Navbar-->";s:5:"mtime";i:1519900216;s:6:"markup";s:2191:"<!--Navbar-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-green">
 
     <!-- Navbar brand -->
-    <a class="navbar-brand" href="#">Navbar</a>
-
+    <a class="navbar-brand" href="#">Farm Up</a>
+    
     <!-- Collapse button -->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
         aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>

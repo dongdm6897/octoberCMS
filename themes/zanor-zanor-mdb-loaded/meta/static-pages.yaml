@@ -10,7 +10,8 @@ static-pages:
         layouts-half-page-carousel: {  }
         layouts-jumbotron: {  }
         layouts-team-profiles: {  }
-    subpages:
-        subpages-child-one: {  }
-        subpages-child-two: {  }
-        subpages-child-three: {  }
+    tim-kiem-hoat-dong: {  }
+    tao-hoat-dong: {  }
+    tro-thanh-doi-tac: {  }
+    ve-chung-toi: {  }
+    dieu-khoan: {  }

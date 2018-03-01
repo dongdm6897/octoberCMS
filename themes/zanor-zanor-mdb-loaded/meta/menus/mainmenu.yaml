@@ -15,9 +15,13 @@ items:
             isExternal: '0'
     -
         title: 'Blog Pages'
+        nesting: ''
         type: cms-page
+        url: ''
         code: ''
         reference: blog-homepage
+        cmsPage: ''
+        replace: ''
         viewBag:
             isHidden: '0'
             cssClass: ''
@@ -25,36 +29,52 @@ items:
         items:
             -
                 title: 'Blog Homepage'
+                nesting: ''
                 type: cms-page
+                url: ''
                 code: ''
                 reference: blog-homepage
+                cmsPage: ''
+                replace: ''
                 viewBag:
                     isHidden: '0'
                     cssClass: ''
                     isExternal: '0'
             -
                 title: '1 Column'
+                nesting: ''
                 type: cms-page
+                url: ''
                 code: ''
                 reference: blog
+                cmsPage: ''
+                replace: ''
                 viewBag:
                     isHidden: '0'
                     cssClass: ''
                     isExternal: '0'
             -
                 title: '2 Column'
+                nesting: ''
                 type: cms-page
+                url: ''
                 code: ''
                 reference: blog2
+                cmsPage: ''
+                replace: ''
                 viewBag:
                     isHidden: '0'
                     cssClass: ''
                     isExternal: '0'
             -
                 title: '3 Column'
+                nesting: ''
                 type: cms-page
+                url: ''
                 code: ''
                 reference: blog3
+                cmsPage: ''
+                replace: ''
                 viewBag:
                     isHidden: '0'
                     cssClass: ''

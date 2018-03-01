@@ -17,11 +17,11 @@ class __TwigTemplate_bc2d344962152c79493648d0aa2c7e97b72c83e6777f463c7de4965c99a
     {
         // line 1
         echo "<!--Navbar-->
-<nav class=\"navbar navbar-expand-lg navbar-dark nav-blue\">
+<nav class=\"navbar navbar-expand-lg navbar-dark bg-green\">
 
     <!-- Navbar brand -->
-    <a class=\"navbar-brand\" href=\"#\">Navbar</a>
-
+    <a class=\"navbar-brand\" href=\"#\">Farm Up</a>
+    
     <!-- Collapse button -->
     <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\"
         aria-expanded=\"false\" aria-label=\"Toggle navigation\"><span class=\"navbar-toggler-icon\"></span></button>
@@ -152,11 +152,11 @@ class __TwigTemplate_bc2d344962152c79493648d0aa2c7e97b72c83e6777f463c7de4965c99a
     public function getSourceContext()
     {
         return new Twig_Source("<!--Navbar-->
-<nav class=\"navbar navbar-expand-lg navbar-dark nav-blue\">
+<nav class=\"navbar navbar-expand-lg navbar-dark bg-green\">
 
     <!-- Navbar brand -->
-    <a class=\"navbar-brand\" href=\"#\">Navbar</a>
-
+    <a class=\"navbar-brand\" href=\"#\">Farm Up</a>
+    
     <!-- Collapse button -->
     <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\"
         aria-expanded=\"false\" aria-label=\"Toggle navigation\"><span class=\"navbar-toggler-icon\"></span></button>
