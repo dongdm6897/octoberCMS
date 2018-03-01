@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 1519890130a:1:{s:15:"site/header.htm";a:5:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:1224:"<!-- Nav -->
 =======
 1519889850a:1:{s:15:"site/header.htm";a:5:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:1246:"<!-- Nav -->
 >>>>>>> 6c566583a725a9e7e9db6403740b3873c459f071
+=======
+1519889850a:1:{s:15:"site/header.htm";a:5:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:1246:"<!-- Nav -->
+>>>>>>> 70ccffc13d77600c9d658eb0500d8300d2c0b2c6
 <nav id="layout-nav" class="navbar navbar-inverse navbar-fixed-top navbar-autohide" role="navigation">
     <div class="container">
         <div class="navbar-header">

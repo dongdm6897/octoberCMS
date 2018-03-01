@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1519890919a:1:{s:8:"home.htm";a:8:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:4419:"title = "Demonstration"
+=======
+1519889850a:1:{s:8:"home.htm";a:8:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:4539:"title = "Demonstration"
+>>>>>>> 70ccffc13d77600c9d658eb0500d8300d2c0b2c6
 url = "/"
 layout = "default"
 ==
@@ -118,7 +122,7 @@ layout = "default"
     </div>
 
 </div>
-";s:5:"mtime";i:1519888455;s:6:"markup";s:4362:"<div class="jumbotron">
+";s:5:"mtime";i:1519888735;s:6:"markup";s:4477:"<div class="jumbotron">
     <div class="container">
         {% content "welcome.htm" %}
     </div>
