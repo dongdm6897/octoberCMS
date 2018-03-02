@@ -22,6 +22,7 @@ code = "mainmenu"
         <!-- Links -->
         <ul class="navbar-nav mr-auto">
             {% for item in items %}
+
                 <li class="nav-item {{ item.isActive or item.isChildActive ? 'active' : '' }}
                     {{ item.items ? 'dropdown btn-group' : '' }}"
                 >

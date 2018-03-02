@@ -43,58 +43,60 @@ class __TwigTemplate_bc2d344962152c79493648d0aa2c7e97b72c83e6777f463c7de4965c99a
             $context['_seq'] = twig_ensure_traversable(($context["items"] ?? null));
             foreach ($context['_seq'] as $context["_key"] => $context["item"]) {
                 // line 18
-                echo "                <li class=\"nav-item ";
+                echo "
+                <li class=\"nav-item ";
+                // line 19
                 echo (((twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "isActive", array()) || twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "isChildActive", array()))) ? ("active") : (""));
                 echo "
                     ";
-                // line 19
+                // line 20
                 echo ((twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "items", array())) ? ("dropdown btn-group") : (""));
                 echo "\"
                 >
                     <a class=\"nav-link ";
-                // line 21
+                // line 22
                 if (twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "items", array())) {
                     echo "'dropdown-toggle' ";
                 }
                 echo "\"
                             ";
-                // line 22
+                // line 23
                 if (twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "items", array())) {
                     echo " id=\"dropdownMenu";
                     echo twig_escape_filter($this->env, twig_replace_filter(twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "title", array()), array(" " => "-")), "html", null, true);
                     echo "\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\"";
                 }
-                // line 23
+                // line 24
                 echo "                       href=\"";
                 echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "url", array()), "html", null, true);
                 echo "\"
                     >
                         ";
-                // line 25
+                // line 26
                 echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "title", array()), "html", null, true);
                 echo "
 
                         ";
-                // line 27
+                // line 28
                 if (twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "items", array())) {
                     echo "<span class=\"sr-only\">(current)</span>";
                 }
-                // line 28
+                // line 29
                 echo "                    </a>
 
                     ";
-                // line 30
+                // line 31
                 if (twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "items", array())) {
-                    // line 31
+                    // line 32
                     echo "                        <div class=\"dropdown-menu dropdown\" aria-labelledby=\"dropdownMenu";
                     echo twig_escape_filter($this->env, twig_replace_filter(twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "title", array()), array(" " => "-")), "html", null, true);
                     echo "\">
                             ";
-                    // line 32
+                    // line 33
                     $context['_parent'] = $context;
                     $context['_seq'] = twig_ensure_traversable(twig_get_attribute($this->env, $this->getSourceContext(), $context["item"], "items", array()));
                     foreach ($context['_seq'] as $context["_key"] => $context["child"]) {
-                        // line 33
+                        // line 34
                         echo "                                <a class=\"dropdown-item\" href=\"";
                         echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->getSourceContext(), $context["child"], "url", array()), "html", null, true);
                         echo "\">";
@@ -105,21 +107,21 @@ class __TwigTemplate_bc2d344962152c79493648d0aa2c7e97b72c83e6777f463c7de4965c99a
                     $_parent = $context['_parent'];
                     unset($context['_seq'], $context['_iterated'], $context['_key'], $context['child'], $context['_parent'], $context['loop']);
                     $context = array_intersect_key($context, $_parent) + $_parent;
-                    // line 35
+                    // line 36
                     echo "                        </div>
                     ";
                 }
-                // line 37
+                // line 38
                 echo "                </li>
             ";
             }
             $_parent = $context['_parent'];
             unset($context['_seq'], $context['_iterated'], $context['_key'], $context['item'], $context['_parent'], $context['loop']);
             $context = array_intersect_key($context, $_parent) + $_parent;
-            // line 39
+            // line 40
             echo "        ";
         }
-        // line 40
+        // line 41
         echo "        </ul>
         <!-- Links -->
 
@@ -146,7 +148,7 @@ class __TwigTemplate_bc2d344962152c79493648d0aa2c7e97b72c83e6777f463c7de4965c99a
 
     public function getDebugInfo()
     {
-        return array (  123 => 40,  120 => 39,  113 => 37,  109 => 35,  98 => 33,  94 => 32,  89 => 31,  87 => 30,  83 => 28,  79 => 27,  74 => 25,  68 => 23,  62 => 22,  56 => 21,  51 => 19,  46 => 18,  42 => 17,  38 => 15,  35 => 14,  33 => 13,  19 => 1,);
+        return array (  125 => 41,  122 => 40,  115 => 38,  111 => 36,  100 => 34,  96 => 33,  91 => 32,  89 => 31,  85 => 29,  81 => 28,  76 => 26,  70 => 24,  64 => 23,  58 => 22,  53 => 20,  49 => 19,  46 => 18,  42 => 17,  38 => 15,  35 => 14,  33 => 13,  19 => 1,);
     }
 
     public function getSourceContext()
@@ -168,6 +170,7 @@ class __TwigTemplate_bc2d344962152c79493648d0aa2c7e97b72c83e6777f463c7de4965c99a
         <!-- Links -->
         <ul class=\"navbar-nav mr-auto\">
             {% for item in items %}
+
                 <li class=\"nav-item {{ item.isActive or item.isChildActive ? 'active' : '' }}
                     {{ item.items ? 'dropdown btn-group' : '' }}\"
                 >

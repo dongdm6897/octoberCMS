@@ -1,4 +1,4 @@
-1519900358a:1:{s:19:"footer/4-column.htm";a:7:{s:8:"fileName";s:19:"footer/4-column.htm";s:7:"content";s:1516:"description = "4 Column Footer"
+1520002454a:1:{s:19:"footer/4-column.htm";a:7:{s:8:"fileName";s:19:"footer/4-column.htm";s:7:"content";s:1516:"description = "4 Column Footer"
 
 [viewBag]
 ==
@@ -49,7 +49,7 @@
     <!--/.Copyright-->
 
 </footer>
-<!--/.Footer-->";s:5:"mtime";i:1519889065;s:6:"markup";s:1470:"<!--Footer-->
+<!--/.Footer-->";s:5:"mtime";i:1519912124;s:6:"markup";s:1470:"<!--Footer-->
 <footer class="page-footer center-on-small-only">
 
     <!--Footer links-->

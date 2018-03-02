@@ -79,3 +79,16 @@ items:
                     isHidden: '0'
                     cssClass: ''
                     isExternal: '0'
+    -
+        title: 'Tìm Kiếm Hoạt Động'
+        nesting: ''
+        type: cms-page
+        url: ''
+        code: ''
+        reference: search-events
+        cmsPage: ''
+        replace: ''
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'

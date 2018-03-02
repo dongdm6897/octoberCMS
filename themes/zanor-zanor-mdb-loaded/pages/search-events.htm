@@ -1,0 +1,53 @@
+title = "Search Events"
+url = "/search-events"
+layout = "noSidebar"
+is_hidden = 0
+==
+<?php
+function onStart()
+{
+    $this->addCss('assets/css/list_group_horizotal.css');
+}
+?>
+==
+<main>
+    <!--google map-->
+        <div class="container">
+            <div id="map" style="width: 100%;height: 400px"></div>
+            {% scripts %}
+
+            <script>
+                function myMap() {
+                    var mapOptions = {
+                        center: new google.maps.LatLng(20.993099, 105.849653),
+                        zoom: 13
+
+                    };
+                    var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
+                }
+            </script>
+
+            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqOZsc-3AlMLBbpBW5uLFfEmDyq1XLtMs&callback=myMap"></script>
+            
+        </div>
+
+        <br>
+        <hr >
+    <!--Filter-->
+        <div>
+            <ul class="list-group-horizontal">
+                <li class="list-group-item active">Tất cả</li>
+                <li class="list-group-item">Phượt</li>
+                <li class="list-group-item">Học hỏi</li>
+                <li class="list-group-item">Tình Nguyện</li>
+                <li class="list-group-item">Du lich</li>
+                <li class="list-group-item">WorkShop</li>
+                <li class="list-group-item">Filter</li>
+            </ul>
+            <hr >
+        </div>
+
+    <!--Card-->
+        {% partial 'topic/topic_detail' %}
+</main>
