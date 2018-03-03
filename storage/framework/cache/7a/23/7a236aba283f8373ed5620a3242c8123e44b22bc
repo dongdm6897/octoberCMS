@@ -1,4 +1,4 @@
-1519889979a:1:{s:11:"sidebar.htm";a:7:{s:8:"fileName";s:11:"sidebar.htm";s:7:"content";s:328:"description = "The Sidebar"
+1520060638a:1:{s:11:"sidebar.htm";a:7:{s:8:"fileName";s:11:"sidebar.htm";s:7:"content";s:328:"description = "The Sidebar"
 
 [viewBag]
 ==
@@ -12,7 +12,7 @@
     {# Other side bar components #}
     {# can be added here as well #}
     {# Add as many as you like #}
-</div>";s:5:"mtime";i:1519889065;s:6:"markup";s:286:"<div id="sidebar" class="p-2">
+</div>";s:5:"mtime";i:1519923932;s:6:"markup";s:286:"<div id="sidebar" class="p-2">
     {% if this.page.id == 'post' %}
         {% partial 'getBlogCategories' %}
     {% else %}

@@ -1,0 +1,12 @@
+[viewBag]
+==
+{% if answer %}
+<span class="lead">
+The result is <span class="label label-success">{{answer}} </span>
+</span>
+{% else %}
+ <span class="text-muted">
+     Click the button to find out the answer {{answer}}
+     
+ </span>
+ {% endif %}

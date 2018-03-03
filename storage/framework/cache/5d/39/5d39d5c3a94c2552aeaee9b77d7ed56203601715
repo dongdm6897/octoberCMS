@@ -1,0 +1,21 @@
+1520060638a:1:{s:14:"calcresult.htm";a:6:{s:8:"fileName";s:14:"calcresult.htm";s:7:"content";s:256:"[viewBag]
+==
+{% if answer %}
+<span class="lead">
+The result is <span class="label label-success">{{answer}} </span>
+</span>
+{% else %}
+ <span class="text-muted">
+     Click the button to find out the answer {{answer}}
+     
+ </span>
+ {% endif %}";s:5:"mtime";i:1519931519;s:6:"markup";s:241:"{% if answer %}
+<span class="lead">
+The result is <span class="label label-success">{{answer}} </span>
+</span>
+{% else %}
+ <span class="text-muted">
+     Click the button to find out the answer {{answer}}
+     
+ </span>
+ {% endif %}";s:4:"code";N;s:7:"viewBag";a:0:{}}}

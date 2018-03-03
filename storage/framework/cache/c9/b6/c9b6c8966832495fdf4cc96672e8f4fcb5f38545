@@ -1,0 +1,19 @@
+1519933000a:1:{s:9:"Login.htm";a:9:{s:8:"fileName";s:9:"Login.htm";s:7:"content";s:337:"title = "Welcome to farmup"
+url = "/welcome-farmup"
+layout = "fullImageBg"
+is_hidden = 0
+==
+<?php
+url ="/calculator"
+layout=""
+==
+<h3> This is a calculator</h3>
+<form class ="form-inline" data-request="onTest" data-request-updat="calcresult: '#result'">
+<select name="operation" class ="form-control" style ="width"
+?>
+==
+<";s:5:"mtime";i:1519928514;s:6:"markup";s:191:"<h3> This is a calculator</h3>
+<form class ="form-inline" data-request="onTest" data-request-updat="calcresult: '#result'">
+<select name="operation" class ="form-control" style ="width"
+?>";s:4:"code";s:29:"url ="/calculator"
+layout=""";s:5:"title";s:17:"Welcome to farmup";s:3:"url";s:15:"/welcome-farmup";s:6:"layout";s:11:"fullImageBg";s:9:"is_hidden";s:1:"0";}}

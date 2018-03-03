@@ -1,4 +1,4 @@
-1519889979a:1:{s:24:"subpages-child-three.htm";a:7:{s:8:"fileName";s:24:"subpages-child-three.htm";s:7:"content";s:748:"[viewBag]
+1520060638a:1:{s:24:"subpages-child-three.htm";a:7:{s:8:"fileName";s:24:"subpages-child-three.htm";s:7:"content";s:748:"[viewBag]
 title = "Child Three"
 url = "/subpages/child-three"
 layout = "withSidebar"
@@ -13,7 +13,7 @@ navigation_hidden = 0
 
 <p>Then set the menu item type to a <strong>StaticPage</strong>, and ensure <strong>"Allow nested items"</strong> and <strong>"Replace this item with its generated children"</strong> are selected.&nbsp;</p>
 
-<p>The Sidebar Menu should then be automatically generated when visiting any of the child pages.</p>";s:5:"mtime";i:1519889065;s:6:"markup";s:624:"<p>This is a sample child page for the Parent page item SubPages.&nbsp;</p>
+<p>The Sidebar Menu should then be automatically generated when visiting any of the child pages.</p>";s:5:"mtime";i:1519923932;s:6:"markup";s:624:"<p>This is a sample child page for the Parent page item SubPages.&nbsp;</p>
 
 <p>The sidebar menu is automatically generated when creating a menu item with the same name as the parent page.&nbsp;</p>
 

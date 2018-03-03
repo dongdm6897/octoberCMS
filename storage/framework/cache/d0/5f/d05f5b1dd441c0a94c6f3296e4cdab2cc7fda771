@@ -1,4 +1,4 @@
-1519889979a:1:{s:15:"fullImageBg.htm";a:7:{s:8:"fileName";s:15:"fullImageBg.htm";s:7:"content";s:1716:"description = "Full Image Background"
+1520060638a:1:{s:15:"fullImageBg.htm";a:7:{s:8:"fileName";s:15:"fullImageBg.htm";s:7:"content";s:1761:"description = "Full Image Background"
 
 [staticPage]
 useContent = 0
@@ -43,7 +43,7 @@ function onStart()
 </div>
 <!--/.Mask-->
 
-{% partial 'site/footer' %}";s:5:"mtime";i:1519889065;s:6:"markup";s:1550:"{% partial 'site/head' %}
+{% partial 'site/footer' %}";s:5:"mtime";i:1519927212;s:6:"markup";s:1582:"{% partial 'site/head' %}
 {% partial 'site/scrollingNavbar' %}
 
 {variable name="introTitle" label="Intro Title" tab="Intro" type="text"}{/variable}
@@ -75,7 +75,7 @@ function onStart()
 </div>
 <!--/.Mask-->
 
-{% partial 'site/footer' %}";s:4:"code";s:71:"function onStart()
+{% partial 'site/footer' %}";s:4:"code";s:74:"function onStart()
 {
     $this->addCss('assets/css/fullImageBg.css');
 }";s:11:"description";s:21:"Full Image Background";s:10:"staticPage";a:2:{s:10:"useContent";s:1:"0";s:7:"default";s:1:"0";}}}

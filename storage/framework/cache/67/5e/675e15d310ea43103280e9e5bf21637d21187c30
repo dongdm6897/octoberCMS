@@ -1,4 +1,4 @@
-1519889979a:1:{s:19:"blog/pagination.htm";a:7:{s:8:"fileName";s:19:"blog/pagination.htm";s:7:"content";s:1387:"description = "Blog Pagination"
+1520060638a:1:{s:19:"blog/pagination.htm";a:7:{s:8:"fileName";s:19:"blog/pagination.htm";s:7:"content";s:1387:"description = "Blog Pagination"
 
 [viewBag]
 ==
@@ -30,7 +30,7 @@
             {% endif %}
         </ul>
     </nav>
-{% endif %}";s:5:"mtime";i:1519889065;s:6:"markup";s:1341:"{% if posts.lastPage > 1 %}
+{% endif %}";s:5:"mtime";i:1519923932;s:6:"markup";s:1341:"{% if posts.lastPage > 1 %}
     <nav class="my-4 d-flex justify-content-center wow fadeIn" data-wow-delay="0.2s">
         <ul class="pagination">
             {% if posts.currentPage > 1 %}

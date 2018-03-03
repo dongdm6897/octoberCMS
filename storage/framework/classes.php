@@ -31,4 +31,9 @@
   'RainLab\\Blog\\Models\\PostImport' => 'plugins\\rainlab\\blog\\models\\PostImport.php',
   'RainLab\\Blog\\Models\\PostExport' => 'plugins\\rainlab\\blog\\models\\PostExport.php',
   'RainLab\\Blog\\Models\\Post' => 'plugins\\rainlab\\blog\\models\\Post.php',
+  'RainLab\\Pages\\Classes\\Snippet' => 'plugins\\rainlab\\pages\\classes\\Snippet.php',
+  'RainLab\\Pages\\Classes\\MenuItem' => 'plugins\\rainlab\\pages\\classes\\MenuItem.php',
+  'RainLab\\Pages\\Classes\\MenuItemReference' => 'plugins\\rainlab\\pages\\classes\\MenuItemReference.php',
+  'system\\Controllers\\updates' => 'modules\\system\\controllers\\updates.php',
+  'RainLab\\Blog\\Models\\Category' => 'plugins\\rainlab\\blog\\models\\Category.php',
 );

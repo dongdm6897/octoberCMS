@@ -1,4 +1,4 @@
-1519889979a:1:{s:26:"blogCategories/default.htm";a:7:{s:8:"fileName";s:26:"blogCategories/default.htm";s:7:"content";s:874:"description = "Blog Categories"
+1520060638a:1:{s:26:"blogCategories/default.htm";a:7:{s:8:"fileName";s:26:"blogCategories/default.htm";s:7:"content";s:874:"description = "Blog Categories"
 
 [viewBag]
 ==
@@ -21,7 +21,7 @@
         {% endfor %}
     </div>
 </div>
-{% endif %}";s:5:"mtime";i:1519889065;s:6:"markup";s:828:"{% if __SELF__.categories %}
+{% endif %}";s:5:"mtime";i:1519923932;s:6:"markup";s:828:"{% if __SELF__.categories %}
 <div class="widget-wrapper wow fadeIn" data-wow-delay="0.4s">
     <h4 class="font-bold dark-grey-text">Categories:</h4>
     <br>
