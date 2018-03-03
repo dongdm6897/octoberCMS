@@ -1,5 +1,8 @@
 <?php 
-class Cms5a99b60828cb6390353627_4e719a34f0d00f53e8ef39159e349f00Class extends \Cms\Classes\PageCode
+class Cms5a9a720780131986185579_ff251b4662357718e43ee2eafbb366eaClass extends \Cms\Classes\PageCode
 {
-
+public function onStart()
+    {
+        $this->addCss('assets/css/login.css');
+    }
 }

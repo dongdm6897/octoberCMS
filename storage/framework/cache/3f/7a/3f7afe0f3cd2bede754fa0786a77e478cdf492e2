@@ -1,4 +1,4 @@
-1520060638a:1:{s:14:"Calculator.htm";a:8:{s:8:"fileName";s:14:"Calculator.htm";s:7:"content";s:1262:"title = "Calculator"
+1520071645a:1:{s:14:"Calculator.htm";a:8:{s:8:"fileName";s:14:"Calculator.htm";s:7:"content";s:1262:"title = "Calculator"
 url = "/calculator"
 is_hidden = 0
 ==
@@ -43,7 +43,7 @@ function onTest(){
 <div id="result">
 
 {% partial "calcresult" %}
-</div>";s:5:"mtime";i:1519931676;s:6:"markup";s:681:"<h3> This is a calculator</h3>
+</div>";s:5:"mtime";i:1520069476;s:6:"markup";s:681:"<h3> This is a calculator</h3>
    
 <form class ="form-inline" 
         data-request="onTest" 

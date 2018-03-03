@@ -1,4 +1,4 @@
-1520023090a:1:{s:15:"dong_layout.htm";a:6:{s:8:"fileName";s:15:"dong_layout.htm";s:7:"content";s:131:"==
+1520071645a:1:{s:15:"dong_layout.htm";a:6:{s:8:"fileName";s:15:"dong_layout.htm";s:7:"content";s:131:"==
 {% partial 'adong/head' %}
 {% partial 'adong/simpleNav' %}
 
@@ -6,7 +6,7 @@
     
     {% page %}
     
-</div>";s:5:"mtime";i:1519933113;s:6:"markup";s:127:"{% partial 'adong/head' %}
+</div>";s:5:"mtime";i:1520069476;s:6:"markup";s:127:"{% partial 'adong/head' %}
 {% partial 'adong/simpleNav' %}
 
 <div class="container py-5">
