@@ -1,4 +1,4 @@
-1520002454a:1:{s:22:"topic/topic_detail.htm";a:5:{s:8:"fileName";s:22:"topic/topic_detail.htm";s:7:"content";s:6622:"
+1520152267a:1:{s:22:"topic/topic_detail.htm";a:5:{s:8:"fileName";s:22:"topic/topic_detail.htm";s:7:"content";s:6622:"
 {% set imgTest = '/octoberCMS/storage/app/media/topic/subject.png' %}
 {% set content = 'This is Content' %}
 
@@ -199,7 +199,7 @@
     </div>
     <!--/Pagination dark grey-->
 </div>
-";s:5:"mtime";i:1519980982;s:6:"markup";s:6618:"{% set imgTest = '/octoberCMS/storage/app/media/topic/subject.png' %}
+";s:5:"mtime";i:1520151593;s:6:"markup";s:6618:"{% set imgTest = '/octoberCMS/storage/app/media/topic/subject.png' %}
 {% set content = 'This is Content' %}
 
 

@@ -1,4 +1,4 @@
-1520002454a:1:{s:15:"site/footer.htm";a:7:{s:8:"fileName";s:15:"site/footer.htm";s:7:"content";s:359:"description = "Footer"
+1520152267a:1:{s:15:"site/footer.htm";a:7:{s:8:"fileName";s:15:"site/footer.htm";s:7:"content";s:359:"description = "Footer"
 
 [viewBag]
 ==
@@ -19,7 +19,7 @@
 </script>
 
 </body>
-</html>";s:5:"mtime";i:1519889065;s:6:"markup";s:322:"{% partial 'footer/4-column' %}
+</html>";s:5:"mtime";i:1519923932;s:6:"markup";s:322:"{% partial 'footer/4-column' %}
 
 <script src="{{ [
         'assets/js/jquery-3.2.1.min.js',

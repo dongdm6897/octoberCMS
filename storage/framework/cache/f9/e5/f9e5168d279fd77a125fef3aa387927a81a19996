@@ -1,4 +1,4 @@
-1520002457a:1:{s:27:"site/simpleScrollingNav.htm";a:8:{s:8:"fileName";s:27:"site/simpleScrollingNav.htm";s:7:"content";s:1459:"description = "Scrolling Nav - No Dropdown"
+1520152267a:1:{s:27:"site/simpleScrollingNav.htm";a:8:{s:8:"fileName";s:27:"site/simpleScrollingNav.htm";s:7:"content";s:1459:"description = "Scrolling Nav - No Dropdown"
 
 [viewBag]
 
@@ -38,7 +38,7 @@ code = "mainmenu"
     <!-- Collapsible content -->
 
 </nav>
-<!--/.Navbar-->";s:5:"mtime";i:1519978395;s:6:"markup";s:1369:"<!--Navbar-->
+<!--/.Navbar-->";s:5:"mtime";i:1519923932;s:6:"markup";s:1369:"<!--Navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
 
     <!-- Navbar brand -->

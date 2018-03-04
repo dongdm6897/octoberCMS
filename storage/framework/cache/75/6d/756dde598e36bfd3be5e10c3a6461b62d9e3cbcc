@@ -1,4 +1,4 @@
-1520002454a:1:{s:13:"site/head.htm";a:7:{s:8:"fileName";s:13:"site/head.htm";s:7:"content";s:627:"description = "Head"
+1520152267a:1:{s:13:"site/head.htm";a:7:{s:8:"fileName";s:13:"site/head.htm";s:7:"content";s:650:"description = "Head"
 
 [viewBag]
 ==
@@ -21,7 +21,7 @@
     
     {% styles %}
 </head>
-<body>";s:5:"mtime";i:1519889065;s:6:"markup";s:592:"<html lang="en">
+<body>";s:5:"mtime";i:1520150298;s:6:"markup";s:611:"<html lang="en">
 <head>  
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
