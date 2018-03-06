@@ -230,7 +230,7 @@ return [
         'delete_confirm' => 'Apagar ficheiros ou directorias selecionadas?',
         'path' => 'Caminho',
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Componentes',
         'unnamed' => 'Sem nome',
         'no_description' => 'Nenhuma descrição fornecida',

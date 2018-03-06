@@ -40,7 +40,7 @@ class Snippet
     protected $properties;
 
     /**
-     * @var string Snippet component class name.
+     * @var string Snippet components class name.
      */
     protected $componentClass = null;
 
@@ -50,7 +50,7 @@ class Snippet
     protected static $pageSnippetMap = [];
 
     /**
-     * @var \Cms\Classes\ComponentBase Snippet component object.
+     * @var \Cms\Classes\ComponentBase Snippet components object.
      */
     protected $componentObj = null;
 
@@ -73,9 +73,9 @@ class Snippet
     }
 
     /**
-     * Initializes the snippet from a CMS component information.
-     * @param string $componentClass Specifies the component class.
-     * @param string $componentCode Specifies the component code.
+     * Initializes the snippet from a CMS components information.
+     * @param string $componentClass Specifies the components class.
+     * @param string $componentCode Specifies the components code.
      */
     public function initFromComponentInfo($componentClass, $componentCode)
     {
@@ -124,9 +124,9 @@ class Snippet
     }
 
     /**
-     * Returns the snippet component class name.
+     * Returns the snippet components class name.
      * If the snippet is a partial snippet, returns NULL.
-     * @return string Returns the snippet component class name
+     * @return string Returns the snippet components class name
      */
     public function getComponentClass()
     {
@@ -147,10 +147,10 @@ class Snippet
     }
 
     /**
-     * Returns a list of component definitions declared on the page.
+     * Returns a list of components definitions declared on the page.
      * @param string $pageName Specifies the static page file name (the name of the corresponding content block file).
      * @param \Cms\Classes\Theme $theme Specifies a parent theme.
-     * @return array Returns an array of component definitions
+     * @return array Returns an array of components definitions
      */
     public static function listPageComponents($pageName, $theme, $markup)
     {
@@ -159,12 +159,12 @@ class Snippet
         $result = [];
 
         foreach ($map as $snippetDeclaration => $snippetInfo) {
-            if (!isset($snippetInfo['component'])) {
+            if (!isset($snippetInfo['components'])) {
                 continue;
             }
 
             $result[] = [
-                'class'      => $snippetInfo['component'],
+                'class'      => $snippetInfo['components'],
                 'alias'      => $snippetInfo['code'],
                 'properties' => $snippetInfo['properties']
             ];
@@ -266,7 +266,7 @@ class Snippet
     }
 
     /**
-     * Returns a component corresponding to the snippet.
+     * Returns a components corresponding to the snippet.
      * This method should not be used in the front-end request handling code.
      * @return \Cms\Classes\ComponentBase
      */
@@ -306,7 +306,7 @@ class Snippet
         foreach ($map as $snippetDeclaration => $snippetInfo) {
             $snippetCode = $snippetInfo['code'];
 
-            if (!isset($snippetInfo['component'])) {
+            if (!isset($snippetInfo['components'])) {
                 if (!array_key_exists($snippetCode, $partialSnippetMap)) {
                     throw new ApplicationException(sprintf('Partial for the snippet %s is not found', $snippetCode));
                 }
@@ -493,7 +493,7 @@ class Snippet
                 $componentMatch = [];
                 $componentClass = null;
 
-                if (preg_match('/data\-component\s*=\s*"([^"]+)"/', $snippetDeclaration, $componentMatch)) {
+                if (preg_match('/data\-components\s*=\s*"([^"]+)"/', $snippetDeclaration, $componentMatch)) {
                     $componentClass = $componentMatch[1];
                 }
 
@@ -503,7 +503,7 @@ class Snippet
 
                 $map[$snippetDeclaration] = [
                     'code'       => $snippetCode,
-                    'component'  => $componentClass,
+                    'components'  => $componentClass,
                     'properties' => $properties
                 ];
             }

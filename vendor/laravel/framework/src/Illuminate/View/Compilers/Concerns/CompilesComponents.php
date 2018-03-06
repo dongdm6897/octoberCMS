@@ -5,7 +5,7 @@ namespace Illuminate\View\Compilers\Concerns;
 trait CompilesComponents
 {
     /**
-     * Compile the component statements into valid PHP.
+     * Compile the components statements into valid PHP.
      *
      * @param  string  $expression
      * @return string
@@ -16,7 +16,7 @@ trait CompilesComponents
     }
 
     /**
-     * Compile the end-component statements into valid PHP.
+     * Compile the end-components statements into valid PHP.
      *
      * @return string
      */

@@ -229,7 +229,7 @@ return [
         'delete_confirm' => 'Trinti pasirinktus failus ar direktorijas?',
         'path' => 'Kelias'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Komponentai',
         'unnamed' => 'Neužvadintas',
         'no_description' => 'Nėra aprašymo',

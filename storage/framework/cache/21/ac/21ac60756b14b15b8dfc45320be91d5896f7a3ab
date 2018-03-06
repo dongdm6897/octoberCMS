@@ -1,7 +1,0 @@
-1520002454a:1:{s:17:"event-details.htm";a:9:{s:8:"fileName";s:17:"event-details.htm";s:7:"content";s:103:"title = "event-details"
-url = "/event-details/:event_id?"
-layout = "noSidebar"
-is_hidden = 0
-==
-
-";s:5:"mtime";i:1520000205;s:6:"markup";s:0:"";s:4:"code";N;s:5:"title";s:13:"event-details";s:3:"url";s:25:"/event-details/:event_id?";s:6:"layout";s:9:"noSidebar";s:9:"is_hidden";s:1:"0";}}

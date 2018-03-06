@@ -12,7 +12,7 @@ use October\Rain\Support\Collection as CollectionBase;
 class CmsObjectCollection extends CollectionBase
 {
     /**
-     * Returns objects that use the supplied component.
+     * Returns objects that use the supplied components.
      * @param  string|array $components
      * @param null|callback $callback
      * @return static
@@ -60,7 +60,7 @@ class CmsObjectCollection extends CollectionBase
     }
 
     /**
-     * Returns objects whose component properties match the supplied value.
+     * Returns objects whose components properties match the supplied value.
      * @param mixed $components
      * @param string $property
      * @param string $value

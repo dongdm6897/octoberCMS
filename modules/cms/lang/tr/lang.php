@@ -221,7 +221,7 @@ return [
         'error_deleting_directory' => ':dir klasörü silinirken hatayla karşılaşıldı',
         'path' => 'Yol'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => "Bileşenler",
         'unnamed' => "İsimsiz",
         'no_description' => "Açıklama girilmedi.",

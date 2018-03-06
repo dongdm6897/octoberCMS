@@ -21,45 +21,45 @@ abstract class ComponentBase extends Extendable
     use \System\Traits\PropertyContainer;
 
     /**
-     * @var string A unique identifier for this component.
+     * @var string A unique identifier for this components.
      */
     public $id;
 
     /**
-     * @var string Alias used for this component.
+     * @var string Alias used for this components.
      */
     public $alias;
 
     /**
-     * @var string Component class name or class alias used in the component declaration in a template.
+     * @var string Component class name or class alias used in the components declaration in a template.
      */
     public $name;
 
     /**
-     * @var boolean Determines whether the component is hidden from the back-end UI.
+     * @var boolean Determines whether the components is hidden from the back-end UI.
      */
     public $isHidden = false;
 
     /**
-     * @var string Icon of the plugin that defines the component.
+     * @var string Icon of the plugin that defines the components.
      * This field is used by the CMS internally.
      */
     public $pluginIcon;
 
     /**
-     * @var string Component CSS class name for the back-end page/layout component list.
+     * @var string Component CSS class name for the back-end page/layout components list.
      * This field is used by the CMS internally.
      */
     public $componentCssClass;
 
     /**
-     * @var boolean Determines whether Inspector can be used with the component.
+     * @var boolean Determines whether Inspector can be used with the components.
      * This field is used by the CMS internally.
      */
     public $inspectorEnabled = true;
 
     /**
-     * @var string Specifies the component directory name.
+     * @var string Specifies the components directory name.
      */
     protected $dirName;
 
@@ -74,7 +74,7 @@ abstract class ComponentBase extends Extendable
     protected $page;
 
     /**
-     * @var array A collection of external property names used by this component.
+     * @var array A collection of external property names used by this components.
      */
     protected $externalPropertyNames = [];
 
@@ -101,12 +101,12 @@ abstract class ComponentBase extends Extendable
     }
 
     /**
-     * Returns information about this component, including name and description.
+     * Returns information about this components, including name and description.
      */
     abstract public function componentDetails();
 
     /**
-     * Returns the absolute component path.
+     * Returns the absolute components path.
      */
     public function getPath()
     {
@@ -114,14 +114,14 @@ abstract class ComponentBase extends Extendable
     }
 
     /**
-     * Executed when this component is first initialized, before AJAX requests.
+     * Executed when this components is first initialized, before AJAX requests.
      */
     public function init()
     {
     }
 
     /**
-     * Executed when this component is bound to a page or layout, part of
+     * Executed when this components is bound to a page or layout, part of
      * the page life cycle.
      */
     public function onRun()
@@ -129,14 +129,14 @@ abstract class ComponentBase extends Extendable
     }
 
     /**
-     * Executed when this component is rendered on a page or layout.
+     * Executed when this components is rendered on a page or layout.
      */
     public function onRender()
     {
     }
 
     /**
-     * Renders a requested partial in context of this component,
+     * Renders a requested partial in context of this components,
      * see Cms\Classes\Controller@renderPartial for usage.
      */
     public function renderPartial()
@@ -156,7 +156,7 @@ abstract class ComponentBase extends Extendable
         /*
          * Extensibility
          */
-        if ($event = $this->fireSystemEvent('cms.component.beforeRunAjaxHandler', [$handler])) {
+        if ($event = $this->fireSystemEvent('cms.components.beforeRunAjaxHandler', [$handler])) {
             return $event;
         }
 
@@ -165,7 +165,7 @@ abstract class ComponentBase extends Extendable
         /*
          * Extensibility
          */
-        if ($event = $this->fireSystemEvent('cms.component.runAjaxHandler', [$handler, $result])) {
+        if ($event = $this->fireSystemEvent('cms.components.runAjaxHandler', [$handler, $result])) {
             return $event;
         }
 
@@ -268,14 +268,14 @@ abstract class ComponentBase extends Extendable
             return call_user_func_array([$this->controller, $method], $parameters);
         }
 
-        throw new BadMethodCallException(Lang::get('cms::lang.component.method_not_found', [
+        throw new BadMethodCallException(Lang::get('cms::lang.components.method_not_found', [
             'name' => get_class($this),
             'method' => $method
         ]));
     }
 
     /**
-     * Returns the component's alias, used by __SELF__
+     * Returns the components's alias, used by __SELF__
      */
     public function __toString()
     {

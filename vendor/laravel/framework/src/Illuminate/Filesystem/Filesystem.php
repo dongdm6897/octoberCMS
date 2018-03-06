@@ -245,7 +245,7 @@ class Filesystem
     }
 
     /**
-     * Extract the trailing name component from a file path.
+     * Extract the trailing name components from a file path.
      *
      * @param  string  $path
      * @return string

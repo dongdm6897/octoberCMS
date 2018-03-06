@@ -6,9 +6,9 @@ use Twig_TokenParser;
 use Twig_Error_Syntax;
 
 /**
- * Parser for the `{% component %}` Twig tag.
+ * Parser for the `{% components %}` Twig tag.
  *
- *     {% component "pluginComponent" %}
+ *     {% components "pluginComponent" %}
  *
  * @package october\cms
  * @author Alexey Bobkov, Samuel Georges
@@ -47,7 +47,7 @@ class ComponentTokenParser extends Twig_TokenParser
 
                 default:
                     throw new Twig_Error_Syntax(
-                        sprintf('Invalid syntax in the component tag. Line %s', $lineno),
+                        sprintf('Invalid syntax in the components tag. Line %s', $lineno),
                         $stream->getCurrent()->getLine(),
                         $stream->getSourceContext()
                     );
@@ -65,6 +65,6 @@ class ComponentTokenParser extends Twig_TokenParser
      */
     public function getTag()
     {
-        return 'component';
+        return 'components';
     }
 }

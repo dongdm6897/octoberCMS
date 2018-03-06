@@ -213,14 +213,14 @@ return [
         'error_deleting_directory' => 'Kļūda dzēšot oriģinālo mapi :dir',
         'path' => 'Ceļš'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Komponenti',
         'unnamed' => 'Nenosaukts',
         'no_description' => 'Apraksts nav norādīts',
         'alias' => 'Saīsinājums',
         'alias_description' => 'Unikāls nosaukums šim komponentam kad tas tiek izmantots lapas vai izkārtojuma kodā.',
         'validation_message' => 'Komponenta saīsinājums ir obligāts un var sastāvēt tikai no Latīņu simboliem, skaitļiem un apakšsvītrām. Saīsinājumiem vajadzētu sākties ar Latīņu simbolu.',
-        'invalid_request' => 'The template cannot be saved because of invalid component data.',
+        'invalid_request' => 'The template cannot be saved because of invalid components data.',
         'no_records' => 'Nav komponentu',
         'not_found' => "Komponents ':name' netika atrasts.",
         'method_not_found' => "Komponents ':name' nesatur metodi ':method'."

@@ -221,7 +221,7 @@ return [
         'error_deleting_directory' => 'Σφάλμα κατά την διαγραφή του αρχικού καταλόγου :dir',
         'path' => 'Διαδρομή',
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Συστατικά',
         'unnamed' => 'Χωρίς Όνομα',
         'no_description' => 'Δεν παρέχεται περιγραφή',

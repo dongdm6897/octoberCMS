@@ -213,7 +213,7 @@ return [
         'error_deleting_directory' => '刪除原始目錄 :dir 錯誤',
         'path' => '路徑'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => '組件',
         'unnamed' => '未命名的',
         'no_description' => '沒有描述',

@@ -231,17 +231,17 @@ return [
         'delete_confirm' => 'Verwijder geselecteerde bestanden of mappen?',
         'path' => 'Pad',
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Componenten',
         'unnamed' => 'Naamloos',
         'no_description' => 'Geen beschrijving opgegeven',
         'alias' => 'Alias',
-        'alias_description' => 'Een unieke naam voor dit component voor gebruik in de code van een pagina of layout.',
-        'validation_message' => 'Een alias voor het component is verplicht en mag alleen bestaan uit letters, cijfers en underscores. De alias moet beginnen met een letter.',
+        'alias_description' => 'Een unieke naam voor dit components voor gebruik in de code van een pagina of layout.',
+        'validation_message' => 'Een alias voor het components is verplicht en mag alleen bestaan uit letters, cijfers en underscores. De alias moet beginnen met een letter.',
         'invalid_request' => 'De template kan niet worden opgeslagen vanwege ongeldige componentgegevens.',
         'no_records' => 'Geen componenten gevonden',
-        'not_found' => 'Het component \':name\' is niet gevonden.',
-        'method_not_found' => 'Het component \':name\' bevat geen \':method\' methode.',
+        'not_found' => 'Het components \':name\' is niet gevonden.',
+        'method_not_found' => 'Het components \':name\' bevat geen \':method\' methode.',
     ],
     'template' => [
         'invalid_type' => 'Onbekend type template.',

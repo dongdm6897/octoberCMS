@@ -311,7 +311,7 @@ class Util
     }
 
     /**
-     * Returns the trailing name component of the path.
+     * Returns the trailing name components of the path.
      *
      * @param string $path
      *

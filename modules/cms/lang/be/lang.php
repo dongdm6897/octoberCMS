@@ -224,7 +224,7 @@ return [
         'delete_confirm' => "Выдаліць абраныя файлы альбо каталогі?",
         'path' => "Шлях"
     ],
-    'component' => [
+    'components' => [
         'menu_label' => "Кампаненты",
         'unnamed' => "Неназваны",
         'no_description' => "Няма апісання",

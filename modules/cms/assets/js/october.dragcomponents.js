@@ -34,14 +34,14 @@
             editorPos
 
         $el.mousedown(function(event){
-            if ($el.data('component-attached')) return
+            if ($el.data('components-attached')) return
 
             startDrag(event)
             return false
         })
 
         $el.on('touchstart', function(event){
-            if ($el.data('component-attached')) return
+            if ($el.data('components-attached')) return
 
             var touchEvent = event.originalEvent;
             if (touchEvent.touches.length == 1) {
@@ -81,7 +81,7 @@
                     position: 'absolute',
                     pointerEvents: 'none'
                 })
-                .addClass('draggable-component-item')
+                .addClass('draggable-components-item')
                 .width($el.width())
                 .height($el.height())
                 .hide()
@@ -169,19 +169,19 @@
         function finishDrag() {
             // Dragged to the code editor
             if (collision($clone, $editorArea)) {
-                // Add the component to the page
+                // Add the components to the page
                 $el.click()
 
                 // Can only attach to page or layouts
                 if ($componentList.length && $editor) {
-                    // Inject {% component %} tag
+                    // Inject {% components %} tag
                     var alias = $('input[name="component_aliases[]"]', $el).val()
-                    $editor.insert("{% component '" + alias + "' %}")
+                    $editor.insert("{% components '" + alias + "' %}")
                 }
             }
-            // Dragged to the component list
+            // Dragged to the components list
             else if (collision($clone, $componentList)) {
-                // Add the component to the page
+                // Add the components to the page
                 $el.click()
             }
 

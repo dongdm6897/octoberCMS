@@ -9,7 +9,7 @@ use Request;
 use Url;
 
 /**
- * The static breadcrumbs component.
+ * The static breadcrumbs components.
  *
  * @package rainlab\pages
  * @author Alexey Bobkov, Samuel Georges
@@ -24,8 +24,8 @@ class StaticBreadcrumbs extends ComponentBase
     public function componentDetails()
     {
         return [
-            'name'        => 'rainlab.pages::lang.component.static_breadcrumbs_name',
-            'description' => 'rainlab.pages::lang.component.static_breadcrumbs_description'
+            'name'        => 'rainlab.pages::lang.components.static_breadcrumbs_name',
+            'description' => 'rainlab.pages::lang.components.static_breadcrumbs_description'
         ];
     }
 

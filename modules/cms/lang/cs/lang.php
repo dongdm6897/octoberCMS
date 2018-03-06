@@ -233,7 +233,7 @@ return [
         'delete_confirm' => 'Opravdu chcete smazat vybrané soubory nebo adresáře?',
         'path' => 'Cesta'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Komponenty',
         'unnamed' => 'Bez jména',
         'no_description' => 'Popis nevyplněn',

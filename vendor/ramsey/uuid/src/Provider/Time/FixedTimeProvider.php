@@ -45,7 +45,7 @@ class FixedTimeProvider implements TimeProviderInterface
     }
 
     /**
-     * Sets the `usec` component of the timestamp
+     * Sets the `usec` components of the timestamp
      *
      * @param int $value The `usec` value to set
      */
@@ -55,7 +55,7 @@ class FixedTimeProvider implements TimeProviderInterface
     }
 
     /**
-     * Sets the `sec` component of the timestamp
+     * Sets the `sec` components of the timestamp
      *
      * @param int $value The `sec` value to set
      */

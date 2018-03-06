@@ -231,7 +231,7 @@ return [
         'delete_confirm' => 'Удалить выбранные файлы или каталоги?',
         'path' => 'Путь'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Компоненты',
         'unnamed' => 'Безымянный',
         'no_description' => 'Без описания',

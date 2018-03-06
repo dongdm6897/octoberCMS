@@ -231,7 +231,7 @@ return [
         'delete_confirm' => 'Valóban törölni akarja a fájlokat és a könyvtárakat?',
         'path' => 'Elérési út'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Komponensek',
         'unnamed' => 'Névtelen',
         'no_description' => 'Nincs megadott leírás',

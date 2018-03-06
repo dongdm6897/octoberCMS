@@ -295,7 +295,7 @@ return (function(modules) { // webpackBootstrap
        pushComponent: function pushComponent(components, added, removed) {
         var last = components[components.length - 1];
         if (last && last.added === added && last.removed === removed) {
-          // We need to clone here as the component clone operation is just
+          // We need to clone here as the components clone operation is just
           // as shallow array clone
           components[components.length - 1] = { count: last.count + 1, added: added, removed: removed };
         } else {

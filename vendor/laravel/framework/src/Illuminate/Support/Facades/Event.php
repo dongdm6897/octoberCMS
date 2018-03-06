@@ -24,7 +24,7 @@ class Event extends Facade
     }
 
     /**
-     * Get the registered name of the component.
+     * Get the registered name of the components.
      *
      * @return string
      */

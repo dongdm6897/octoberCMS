@@ -221,7 +221,7 @@ return [
         'error_deleting_directory' => 'Kunne ikke slette original mappe :dir',
         'path' => 'Mål'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Komponenter',
         'unnamed' => 'Navnløs',
         'no_description' => 'Ingen beskrivelse spesifisert',

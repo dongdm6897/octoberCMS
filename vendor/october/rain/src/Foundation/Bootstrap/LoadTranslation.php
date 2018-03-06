@@ -21,7 +21,7 @@ class LoadTranslation
         $app->singleton('translator', function($app) {
             $loader = $app['translation.loader'];
 
-            // When registering the translator component, we'll need to set the default
+            // When registering the translator components, we'll need to set the default
             // locale as well as the fallback locale. So, we'll grab the application
             // configuration so we can easily get both of these values from there.
             $locale = $app['config']['app.locale'];

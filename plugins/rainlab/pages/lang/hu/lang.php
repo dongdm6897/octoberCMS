@@ -113,7 +113,7 @@ return [
         'property_format_error' => 'A kód latin karakterrel kezdődhet és csak latin karaktereket és számokat tartalmazhat.',
         'invalid_option_key' => 'Érvénytelen formátum: :key. Csak számokat, latin betűket és a következő szimbólumokat tartalmazhatja: _-'
     ],
-    'component' => [
+    'components' => [
         'static_page_name' => 'Statikus lap',
         'static_page_description' => 'Lapok megjelenítése.',
         'static_page_use_content_name' => 'Tartalom mező használata',

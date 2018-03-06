@@ -6,7 +6,7 @@ use Cms\Classes\ComponentBase;
 class UnknownComponent extends ComponentBase
 {
     /**
-     * @var string Error message that is shown with this error component.
+     * @var string Error message that is shown with this error components.
      */
     protected $errorMessage;
 
@@ -16,7 +16,7 @@ class UnknownComponent extends ComponentBase
     public function __construct($cmsObject, $properties, $errorMessage)
     {
         $this->errorMessage = $errorMessage;
-        $this->componentCssClass = 'error-component';
+        $this->componentCssClass = 'error-components';
         $this->inspectorEnabled = false;
 
         parent::__construct($cmsObject, $properties);
@@ -28,7 +28,7 @@ class UnknownComponent extends ComponentBase
     public function componentDetails()
     {
         return [
-            'name'        => 'Unknown component',
+            'name'        => 'Unknown components',
             'description' => $this->errorMessage
         ];
     }

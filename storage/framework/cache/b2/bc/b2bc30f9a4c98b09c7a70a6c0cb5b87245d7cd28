@@ -1,0 +1,17 @@
+1520321815a:1:{s:23:"event/event-details.htm";a:9:{s:8:"fileName";s:23:"event/event-details.htm";s:7:"content";s:241:"title = "event-details"
+url = "/event-details/:event_id?"
+layout = "noSidebar"
+is_hidden = 0
+==
+
+<?php
+   function onStart(){
+     $this->addCss('assets/css/list_group_horizotal.css');
+   }
+?>
+==
+{% partial 'event/details' %}
+
+";s:5:"mtime";i:1520069966;s:6:"markup";s:29:"{% partial 'event/details' %}";s:4:"code";s:88:"   function onStart(){
+     $this->addCss('assets/css/list_group_horizotal.css');
+   }";s:5:"title";s:13:"event-details";s:3:"url";s:25:"/event-details/:event_id?";s:6:"layout";s:9:"noSidebar";s:9:"is_hidden";s:1:"0";}}

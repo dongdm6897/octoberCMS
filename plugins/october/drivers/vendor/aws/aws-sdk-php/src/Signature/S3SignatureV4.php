@@ -56,7 +56,7 @@ class S3SignatureV4 extends SignatureV4
     }
 
     /**
-     * Amazon S3 does not double-encode the path component in the canonical request
+     * Amazon S3 does not double-encode the path components in the canonical request
      */
     protected function createCanonicalizedPath($path)
     {

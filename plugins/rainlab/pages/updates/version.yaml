@@ -1,4 +1,4 @@
-1.0.1: Implemented the static pages management and the Static Page component.
+1.0.1: Implemented the static pages management and the Static Page components.
 1.0.2: Fixed the page preview URL.
 1.0.3: Implemented menus.
 1.0.4: Implemented the content block management and placeholder support.
@@ -14,9 +14,9 @@
   - Adds meta title and description to pages. Adds |staticPage filter.
   - snippets_rename_viewbag_properties.php
 1.1.1: Add support for Syntax Fields.
-1.1.2: Static Breadcrumbs component now respects the hide from navigation setting.
+1.1.2: Static Breadcrumbs components now respects the hide from navigation setting.
 1.1.3: Minor back-end styling fix.
-1.1.4: Minor fix to the StaticPage component API.
+1.1.4: Minor fix to the StaticPage components API.
 1.1.5: Fixes bug when using syntax fields.
 1.1.6: Minor styling fix to the back-end UI.
 1.1.7: Improved menu item form to include CSS class, open in a new window and hidden flag.

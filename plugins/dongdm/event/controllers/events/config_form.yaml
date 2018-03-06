@@ -1,0 +1,10 @@
+name: Events
+form: $/dongdm/event/models/events/fields.yaml
+modelClass: dongdm\Event\Models\Events
+defaultRedirect: dongdm/event/events
+create:
+    redirect: 'dongdm/event/events/update/:id'
+    redirectClose: dongdm/event/events
+update:
+    redirect: dongdm/event/events
+    redirectClose: dongdm/event/events

@@ -81,11 +81,20 @@ items:
                     isExternal: '0'
     -
         title: 'Tìm Kiếm Hoạt Động'
+        type: cms-page
+        code: ''
+        reference: event/search-events
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: 'Tạo Hoạt Động'
         nesting: ''
         type: cms-page
         url: ''
         code: ''
-        reference: search-events
+        reference: event/create-event
         cmsPage: ''
         replace: ''
         viewBag:

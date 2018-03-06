@@ -118,7 +118,7 @@ return [
         'posts_except_post' => 'Harici gönderi',
         'posts_except_post_description' => 'Hariç tutmak istediğiniz gönderinin ID/URL sini girin',
         'rssfeed_blog' => 'Blog sayfası',
-        'rssfeed_blog_description' => 'Linkleri üretmek için blog sayfasının adını girin. Bu bilgi, ana component için kullanılacak.',
+        'rssfeed_blog_description' => 'Linkleri üretmek için blog sayfasının adını girin. Bu bilgi, ana components için kullanılacak.',
         'rssfeed_title' => 'RSS Beslemesi',
         'rssfeed_description' => 'Blog içerisindeki gönderileri veren RSS beslemesi oluşturur.'
     ]

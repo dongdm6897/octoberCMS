@@ -4,15 +4,15 @@
     - create_categories_table.php
     - seed_all_tables.php
 1.0.2: Added the processed HTML content column to the posts table.
-1.0.3: Category component has been merged with Posts component.
+1.0.3: Category components has been merged with Posts components.
 1.0.4: Improvements to the Posts list management UI.
 1.0.5: Removes the Author column from blog post list.
-1.0.6: Featured images now appear in the Post component.
+1.0.6: Featured images now appear in the Post components.
 1.0.7: Added support for the Static Pages menus.
 1.0.8: Added total posts to category list.
 1.0.9: Added support for the Sitemap plugin.
 1.0.10: Added permission to prevent users from seeing posts they did not create.
-1.0.11: Deprecate "idParam" component property in favour of "slug" property.
+1.0.11: Deprecate "idParam" components property in favour of "slug" property.
 1.0.12: Fixes issue where images cannot be uploaded caused by latest Markdown library.
 1.0.13: Fixes problem with providing pages to Sitemap and Pages plugins.
 1.0.14: Add support for CSRF protection feature added to core.
@@ -31,16 +31,16 @@
     - update_timestamp_nullable.php
 1.2.5: Added translation support for blog posts.
 1.2.6: The published field can now supply a time with the date.
-1.2.7: Introduced a new RSS feed component.
+1.2.7: Introduced a new RSS feed components.
 1.2.8: Fixes issue with translated `content_html` attribute on blog posts.
 1.2.9: Added translation support for blog categories.
 1.2.10: Added translation support for post slugs.
 1.2.11: Fixes bug where excerpt is not translated.
 1.2.12: Description field added to category form.
 1.2.13: Improved support for Static Pages menus, added a blog post and all blog posts.
-1.2.14: Added post exception property to the post list component, useful for showing related posts.
+1.2.14: Added post exception property to the post list components, useful for showing related posts.
 1.2.15: Back-end navigation sort order updated.
-1.2.16: Added `nextPost` and `previousPost` to the blog post component.
+1.2.16: Added `nextPost` and `previousPost` to the blog post components.
 1.2.17: Improved the next and previous logic to sort by the published date.
 1.2.18: Minor change to internals.
 1.2.19: Improved support for Build 420+

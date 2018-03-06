@@ -6,7 +6,7 @@ use Cms\Classes\ComponentBase;
 use RainLab\Pages\Classes\Router;
 
 /**
- * The static page component.
+ * The static page components.
  *
  * @package rainlab\pages
  * @author Alexey Bobkov, Samuel Georges
@@ -36,8 +36,8 @@ class StaticPage extends ComponentBase
     public function componentDetails()
     {
         return [
-            'name'        => 'rainlab.pages::lang.component.static_page_name',
-            'description' => 'rainlab.pages::lang.component.static_page_description'
+            'name'        => 'rainlab.pages::lang.components.static_page_name',
+            'description' => 'rainlab.pages::lang.components.static_page_description'
         ];
     }
     
@@ -45,22 +45,22 @@ class StaticPage extends ComponentBase
     {
         return [
             'useContent' => [
-                'title'             => 'rainlab.pages::lang.component.static_page_use_content_name',
-                'description'       => 'rainlab.pages::lang.component.static_page_use_content_description',
+                'title'             => 'rainlab.pages::lang.components.static_page_use_content_name',
+                'description'       => 'rainlab.pages::lang.components.static_page_use_content_description',
                 'default'           => 1,
                 'type'              => 'checkbox',
                 'showExternalParam' => false
             ],
             'default' => [
-                'title'             => 'rainlab.pages::lang.component.static_page_default_name',
-                'description'       => 'rainlab.pages::lang.component.static_page_default_description',
+                'title'             => 'rainlab.pages::lang.components.static_page_default_name',
+                'description'       => 'rainlab.pages::lang.components.static_page_default_description',
                 'default'           => 0,
                 'type'              => 'checkbox',
                 'showExternalParam' => false
             ],
             'childLayout' => [
-                'title'             => 'rainlab.pages::lang.component.static_page_child_layout_name',
-                'description'       => 'rainlab.pages::lang.component.static_page_child_layout_description',
+                'title'             => 'rainlab.pages::lang.components.static_page_child_layout_name',
+                'description'       => 'rainlab.pages::lang.components.static_page_child_layout_description',
                 'type'              => 'string',
                 'showExternalParam' => false
             ]
@@ -104,7 +104,7 @@ class StaticPage extends ComponentBase
     {
         // Evaluate the content property only when it's requested in the
         // render time. Calling the page's getProcessedMarkup() method in the
-        // onRun() handler is too early as it triggers rendering component-based
+        // onRun() handler is too early as it triggers rendering components-based
         // snippets defined on the static page too early in the page life cycle. -ab
 
         if ($this->contentCached !== false) {
@@ -120,7 +120,7 @@ class StaticPage extends ComponentBase
 
     /**
      * Find foreign view bag values and add them to
-     * the component and page vars.
+     * the components and page vars.
      */
     protected function defineExtraData()
     {

@@ -139,7 +139,7 @@ return [
         'error_deleting_directory' => 'Eroare la stergerea directorului original :dir',
         'path' => 'Cale'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => "Componente",
         'unnamed' => "Fara nume",
         'no_description' => "Nicio descriere furnizata",

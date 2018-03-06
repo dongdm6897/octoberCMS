@@ -231,7 +231,7 @@ return [
         'delete_confirm' => 'Poista valitut tiedostot tai hakemistot?',
         'path' => 'Polku'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Komponentit',
         'unnamed' => 'Nimetön',
         'no_description' => 'Kuvausta ei annettu',

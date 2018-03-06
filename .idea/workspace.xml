@@ -2,100 +2,181 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e979570-3570-4022-a621-dd2d3a4b87be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/css/list_group_horizotal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/event-details/details.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/details.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.htm" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/4a/b6/calcresult.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/58/a2/default.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/69/e7/footer.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/6d/8d/header.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/73/63/404.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/81/44/ajax.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/b0/38/ajax.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/b0/54/fullImageBg.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/d7/47/scrollingNavbar.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/f7/f6/home.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/0d/0d02216965e89c7586e50fd1091cf1e2558cdd640bd1302e068951136eafa433.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/17/170c239281cd6042852823ca3fe5b462c118cf5776d48a12f4a1cd3fc88eec99.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/18/186064207374c71e40a996bdab2ba48ff039eb1c60743be0061c59f27d2172ed.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/33/332f9e2147d9e59597f93ea5dd925fc40298600ef63e535b572df3b248e91c95.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/3f/3f913a22658e2c03e12b1d5759512f98c609986d792569b97c2f8ddc574f435c.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/4f/4fd1c2c33a8c2f5b93ed00bba7241f5c203ced4c75d1f57fdbc80fb768b6a06c.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/5e/5ef2257bdb6a07bebf7e0f9950cc692c3e23b0a500a222c33a619361019ad4ba.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/77/77aa6daebf90c20a4b3a9caa61e5e9eb1ee8cb28edb6ce2c9bbf068e680f7e22.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/80/8008f18dd932c5b0cfe2bb331bdfc618f620da2965ceb2658c3a04bd58e5c0d6.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/8b/8be95c9b97155ecd646537d584a577fdfade67eb5e20cecbb40c05f5dbe7d4ed.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/8e/8e666bd57b8ef7658db6bcd1a743e470ce810b19ea372be36c97f32826d6b999.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/94/94af46b4be5a164d7c2600ff04226d91457214a2d12cc5aa7a83bde1aa5dd216.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/9c/9c2b968522767dd93a7eca17a3642276523e244cc3573eb9a2832d1ec5c38bf7.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/b4/b47ac7f166bcc769251552cc642c000c0f31b6b518dcb27034c405cf5298c358.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/d9/d9c7acbe2c80f5c7fbcfc6b682d15b905bf4befc1414d8c9d035d962f12416a6.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/ec/ec825010c2be596838f7bcc9e8d0aa6d982a72a2ff087fce3b2aa125f9a2f772.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/02/11/0211ee5aff8992c9a09004beca37806d1b0f4b50" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/05/39/053953baf568029fdaa75cd8630359aa60c2b9aa" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/06/b8/06b8b74dd1f138698279de2e118e869d4cc60f55" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/08/df/08dfdfd922681bba7ab5215d56b7da8dd8d64c53" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/13/76/1376de90187b78c36a9372fe74ecbb465ca70934" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/1a/a0/1aa0570f66530441fd59d66297135cf78ef031d7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/22/3f/223f3228859b36252603ca771a7e09fce69c3bf3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/22/b0/22b0d9e117a997e766b8f9c88ee949640f7d2e49" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/29/67/296738e849c64ad3a4b39a6e8ff991e4aeb74cf2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/2d/c7/2dc78e0834877b5464113c071f4cbf8aacd29cb3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/44/c1/44c123acaf24e8b9e1ef8cb691944c55034404df" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/46/f9/46f913c9ca1e8e085c1ea1b4f6a1bc20ff2ad263" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/51/05/510594a3e6b5c6be5b81e5c997775a6365121f0a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/5b/67/5b67aa377911aa89f4008920395e153715b3abc5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/66/33/663395027cbca7aba61878b6ff61126d64771faa" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/67/2b/672b06ce5209cce5ab1a223f54a25ce61c978d99" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/6a/ac/6aac5fcf1fb6191f5443ec309cec9f3e6f4fd8be" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/74/39/7439de67fdd61b968518378f80941af578d80bbf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/79/90/7990a9a5f9ffc6e6b42de4119e09b0f68c20eb95" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/7f/a5/7fa5d8bfe9ac7df01bf9b5557beb2f38f4506d61" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/81/08/81088ee972be9acbd8e1be71ecc4b3b3a0d95aaf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/8d/95/8d95fe9ddf0ed76756982b6268c1da79ffd91246" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/8d/c7/8dc7ebe2d1d5bff05f5158a60149436bdba6f02c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/99/01/9901f87c69b4762a9d0d943d44bef647f5e91837" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/9a/45/9a459dac31266a215db8d1f71e4705e1b2865c29" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/9c/06/9c06cc3bd064641c11c37a45da033319bbf9ee73" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/aa/2c/aa2cac6904ab1dd2062785fd8c9f099604c8c206" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/af/e9/afe9f8ef649cf11c33c87becf1ca327a9142caba" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/b1/37/b13757c184c971433c04601f02f1180a1d94b21b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/b6/ff/b6ff1af8338e676f1a1a5d8157974928fa56b53e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/b9/71/b97106d741e6cb7b0641ddffc1c9a1830a0d143e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/bd/f6/bdf6ee3a074a5b276b0a74b9f09bb6b2ee3ad674" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/be/5a/be5a46ae15ae1d2ec0158fe627794a7d92d0873f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/c2/2b/c22be3cfe67550ee70c22afa03f95e7f6abee464" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/d0/5f/d05f5b1dd441c0a94c6f3296e4cdab2cc7fda771" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/d3/61/d361a34b3cb1411c720dd85d4a94a160cbd854c1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/d9/06/d906a5597504713894cb6a6a3ffa5ecc434fe9f4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/da/fa/dafa84ce99f5f6e8ac10a0cc5e8f5b0c912558ab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/dd/59/dd5937628eaf5312e674468d52060da742c20024" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/eb/74/eb741258505ed78e38225640a7a3d4d6626bb9ba" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/ee/a9/eea9b46bb82098131d4f5b8df319c0f50f58a036" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/ef/f6/eff678004f5d9e1f8eda4497b128f310118da7c3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/f4/e1/f4e1b782f701632e7e6c89fa3050e46015240ced" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/f8/30/f8303e0cbe36663f9daabc27c4e4693bef758f96" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/fc/9b/fc9bebdb3e3fc74bcc9ec3d66e6413540d0bf142" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/fd/b6/fdb6fa521aec177d9ddf01d2e470c12785417be9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/fd/d9/fdd95f73e8a7b38da98ce16df1b7dca5a86fc03a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/fd/d9/fdd98bfa259ec9d70c6efd5bf38239e8644c4f0a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/fd/da/fdda5d6aa5c2defd762747caa96ef794f478d143" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/AXXvCqNYNB4TAogVHEdOs3gU6pQgQG37EA2sj2hq" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/dieu-khoan.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/tao-hoat-dong.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/tim-kiem-hoat-dong.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/tro-thanh-doi-tac.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/ve-chung-toi.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/HalfpageCarousel.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/basicLandingPage.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/corporate.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/fullImageBg.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/fullImageCarousel.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/menus/subpages.yaml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/location.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/event-details.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/event/details.htm" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/07/a5/1column.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/0c/bd/post.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/19/b3/blog-homepage.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/2b/ee/blog3.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/38/26/2column.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/42/3e/event-details.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/55/a2/blog.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/5b/d7/pagination.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/7d/59/blog2.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/8c/0e/getBlogCategories.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/bb/52/3column.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/c0/fe/topic_detail.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/c8/7b/post.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/f1/93/default.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/f1/b1/search-events.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/0c/0c19cf22261ca4e2885fec06a32d250461d89107abbd7c3a799b604fc28e1c72.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/14/14addf62b9c97b7591041ce4cf120470ab703f5b6934eb090a4941cfb6629921.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/21/218df41f4b5db51058ad73e9ef9eeb8288df59ffc6c8c5340cd7dc9313c245fa.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/2e/2ee74d4282e46589983bb9f85f4a3b0430ac66da7bb02277cb745c826bffc2d2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/58/58f244bea5b8106fd02da76081c50d5d8fefe7a3c1ce51308788a3cfe0ba1aef.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/5e/5eec13e24ce0901c1a263a1360d8262a626c7349d8e7996ef687d8fb3162f170.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/78/7814d62bdbd8d378c60f1ddf6b1564726faf36196d8ef35b907475ebb8e63458.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/7c/7c28bf826a18f03135c4d51053538d459a513455395e3459f8e2c88634afd2f4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/85/8556dc60c69d642abc355c6d17d98663e6bd8bcbca24465cc231208403b38a6e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/b5/b5791f454ccaa59536843a5d46d8104198dda4f86a5c162649f5168b240812a9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/d0/d0289612799512df447a5886afd89bf9b7d272818546e108bdd3b1256493d623.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/d0/d0d835584e1f390064d934d3a011ecb8baae20070a7f32d5248779015831786c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/e2/e23a93dd750432c12a5237fb938675955b9767147d2c4ef92647ecb966125aa3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/ee/ee387e87fe5f716c7ba0954ceda2f78fba85aade70684711258bc51147dbf3ae.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/f5/f54e2f4d68af473f90b3f0bd31c9673cfaf9feb48ac5a478be5fb244b99eda8f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/fe/fe6cb0299146fb2069a3c06f193889a852b02218683739177106a703441b8a69.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/21/ac/21ac60756b14b15b8dfc45320be91d5896f7a3ab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/46/3e/463e3e4cbfed2d677cc3c1ef2c1ae3a50b45e1da" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/68/14/681441af38ac2f05a56d7118130f932163789338" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/8d/61/8d6179a92166aeb80ab736315b8b3674cd86b7ce" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/a0/1b/a01bd6c14f9e4c035be9335000509a70d6f9acf5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/d6/67/d6670647561aa458f48e0d78f0ffa18d049dc5b5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/e5/22/e522375aeb1fd945924c26d202d2ca414749f440" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/e8/76/e8760620babd3c77ce68743ac936cda164d34598" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/ff/ef/ffef028e3f080ce785935d167e0c594e5703547d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/wbfgKfoYbffeg04Ap8KLyVqbmECyIHCWgkTERruZ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event-details.htm" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/search-events.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/search-events.htm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/details.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/form/register-info.htm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/event/topic_detail.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/backend/facades/Backend.php" afterPath="$PROJECT_DIR$/modules/backend/facades/Backend.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/backend/facades/BackendAuth.php" afterPath="$PROJECT_DIR$/modules/backend/facades/BackendAuth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/backend/facades/BackendMenu.php" afterPath="$PROJECT_DIR$/modules/backend/facades/BackendMenu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/backend/formwidgets/codeeditor/assets/js/build-min.js" afterPath="$PROJECT_DIR$/modules/backend/formwidgets/codeeditor/assets/js/build-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/backend/formwidgets/codeeditor/assets/vendor/ace/mode-php.js" afterPath="$PROJECT_DIR$/modules/backend/formwidgets/codeeditor/assets/vendor/ace/mode-php.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/backend/formwidgets/codeeditor/assets/vendor/ace/worker-javascript.js" afterPath="$PROJECT_DIR$/modules/backend/formwidgets/codeeditor/assets/vendor/ace/worker-javascript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/ServiceProvider.php" afterPath="$PROJECT_DIR$/modules/cms/ServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/assets/js/october.cmspage.js" afterPath="$PROJECT_DIR$/modules/cms/assets/js/october.cmspage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/assets/js/october.dragcomponents.js" afterPath="$PROJECT_DIR$/modules/cms/assets/js/october.dragcomponents.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/assets/js/october.tokenexpander.js" afterPath="$PROJECT_DIR$/modules/cms/assets/js/october.tokenexpander.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/assets/less/october.components.less" afterPath="$PROJECT_DIR$/modules/cms/assets/less/october.components.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/assets/vendor/jsdiff/diff.js" afterPath="$PROJECT_DIR$/modules/cms/assets/vendor/jsdiff/diff.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/classes/CmsCompoundObject.php" afterPath="$PROJECT_DIR$/modules/cms/classes/CmsCompoundObject.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/classes/CmsObjectCollection.php" afterPath="$PROJECT_DIR$/modules/cms/classes/CmsObjectCollection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/classes/ComponentBase.php" afterPath="$PROJECT_DIR$/modules/cms/classes/ComponentBase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/classes/ComponentHelpers.php" afterPath="$PROJECT_DIR$/modules/cms/classes/ComponentHelpers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/classes/ComponentManager.php" afterPath="$PROJECT_DIR$/modules/cms/classes/ComponentManager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/classes/ComponentPartial.php" afterPath="$PROJECT_DIR$/modules/cms/classes/ComponentPartial.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/classes/Controller.php" afterPath="$PROJECT_DIR$/modules/cms/classes/Controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/classes/PartialStack.php" afterPath="$PROJECT_DIR$/modules/cms/classes/PartialStack.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/components/Resources.php" afterPath="$PROJECT_DIR$/modules/cms/components/Resources.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/components/UnknownComponent.php" afterPath="$PROJECT_DIR$/modules/cms/components/UnknownComponent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/components/ViewBag.php" afterPath="$PROJECT_DIR$/modules/cms/components/ViewBag.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/controllers/Index.php" afterPath="$PROJECT_DIR$/modules/cms/controllers/Index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/facades/Cms.php" afterPath="$PROJECT_DIR$/modules/cms/facades/Cms.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/formwidgets/Components.php" afterPath="$PROJECT_DIR$/modules/cms/formwidgets/Components.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/helpers/File.php" afterPath="$PROJECT_DIR$/modules/cms/helpers/File.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/be/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/be/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/bg/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/bg/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/cs/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/cs/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/da/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/da/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/de/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/de/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/el/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/el/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/en/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/en/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/es-ar/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/es-ar/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/es/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/es/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/et/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/et/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/fa/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/fa/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/fi/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/fi/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/fr/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/fr/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/hu/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/hu/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/id/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/id/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/it/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/it/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/ja/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/ja/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/kr/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/kr/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/lt/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/lt/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/lv/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/lv/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/nb-no/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/nb-no/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/nl/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/nl/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/pl/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/pl/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/pt-br/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/pt-br/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/pt-pt/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/pt-pt/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/ro/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/ro/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/ru/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/ru/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/sk/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/sk/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/sv/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/sv/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/tr/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/tr/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/uk/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/uk/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/zh-cn/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/zh-cn/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/lang/zh-tw/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/zh-tw/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/traits/UrlMaker.php" afterPath="$PROJECT_DIR$/modules/cms/traits/UrlMaker.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/twig/ComponentNode.php" afterPath="$PROJECT_DIR$/modules/cms/twig/ComponentNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/twig/ComponentTokenParser.php" afterPath="$PROJECT_DIR$/modules/cms/twig/ComponentTokenParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/twig/Extension.php" afterPath="$PROJECT_DIR$/modules/cms/twig/Extension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cms/widgets/ComponentList.php" afterPath="$PROJECT_DIR$/modules/cms/widgets/ComponentList.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/dropdown.base.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/dropdown.base.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/list.variables.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/list.variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/october/drivers/vendor/aws/aws-sdk-php/src/Signature/S3SignatureV4.php" afterPath="$PROJECT_DIR$/plugins/october/drivers/vendor/aws/aws-sdk-php/src/Signature/S3SignatureV4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/october/drivers/vendor/aws/aws-sdk-php/src/data/data.iot/2015-05-28/api-2.json.php" afterPath="$PROJECT_DIR$/plugins/october/drivers/vendor/aws/aws-sdk-php/src/data/data.iot/2015-05-28/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/october/drivers/vendor/aws/aws-sdk-php/src/data/iot/2015-05-28/api-2.json.php" afterPath="$PROJECT_DIR$/plugins/october/drivers/vendor/aws/aws-sdk-php/src/data/iot/2015-05-28/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/october/drivers/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/plugins/october/drivers/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/october/drivers/vendor/guzzle/guzzle/src/Guzzle/Http/Mimetypes.php" afterPath="$PROJECT_DIR$/plugins/october/drivers/vendor/guzzle/guzzle/src/Guzzle/Http/Mimetypes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/october/drivers/vendor/guzzle/guzzle/src/Guzzle/Http/Url.php" afterPath="$PROJECT_DIR$/plugins/october/drivers/vendor/guzzle/guzzle/src/Guzzle/Http/Url.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/october/drivers/vendor/psr/http-message/src/RequestInterface.php" afterPath="$PROJECT_DIR$/plugins/october/drivers/vendor/psr/http-message/src/RequestInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/october/drivers/vendor/psr/http-message/src/UriInterface.php" afterPath="$PROJECT_DIR$/plugins/october/drivers/vendor/psr/http-message/src/UriInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/october/drivers/vendor/psr/log/Psr/Log/AbstractLogger.php" afterPath="$PROJECT_DIR$/plugins/october/drivers/vendor/psr/log/Psr/Log/AbstractLogger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/october/drivers/vendor/psr/log/Psr/Log/LoggerInterface.php" afterPath="$PROJECT_DIR$/plugins/october/drivers/vendor/psr/log/Psr/Log/LoggerInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/october/drivers/vendor/psr/log/Psr/Log/LoggerTrait.php" afterPath="$PROJECT_DIR$/plugins/october/drivers/vendor/psr/log/Psr/Log/LoggerTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/bg/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/lang/bg/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/cs/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/lang/cs/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/en/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/lang/en/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/nb-no/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/lang/nb-no/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/pl/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/lang/pl/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/tr/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/lang/tr/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/updates/version.yaml" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/updates/version.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/installers/src/Composer/Installers/JoomlaInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/installers/src/Composer/Installers/JoomlaInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/installers/tests/Composer/Installers/Test/InstallerTest.php" afterPath="$PROJECT_DIR$/plugins/rainlab/blog/vendor/composer/installers/tests/Composer/Installers/Test/InstallerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/builder/lang/cs/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/builder/lang/cs/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/builder/lang/en/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/builder/lang/en/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/builder/lang/es/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/builder/lang/es/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/builder/updates/version.yaml" afterPath="$PROJECT_DIR$/plugins/rainlab/builder/updates/version.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/src/Composer/Installers/EliasisInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/src/Composer/Installers/EliasisInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/src/Composer/Installers/JoomlaInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/src/Composer/Installers/JoomlaInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/tests/Composer/Installers/Test/InstallerTest.php" afterPath="$PROJECT_DIR$/plugins/rainlab/builder/vendor/composer/installers/tests/Composer/Installers/Test/InstallerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/assets/js/pages-snippets.js" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/assets/js/pages-snippets.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/classes/Snippet.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/classes/Snippet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/classes/SnippetManager.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/classes/SnippetManager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/components/StaticBreadcrumbs.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/components/StaticBreadcrumbs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/components/StaticMenu.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/components/StaticMenu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/components/StaticPage.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/components/StaticPage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/controllers/Index.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/controllers/Index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/lang/el/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/lang/el/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/lang/en/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/lang/en/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/lang/fr/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/lang/fr/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/lang/hu/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/lang/hu/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/lang/lv/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/lang/lv/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/lang/pl/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/lang/pl/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/lang/ru/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/lang/ru/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/lang/tr/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/lang/tr/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/lang/zh-cn/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/lang/zh-cn/lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/updates/version.yaml" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/updates/version.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/installers/src/Composer/Installers/JoomlaInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/installers/src/Composer/Installers/JoomlaInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/installers/tests/Composer/Installers/Test/InstallerTest.php" afterPath="$PROJECT_DIR$/plugins/rainlab/pages/vendor/composer/installers/tests/Composer/Installers/Test/InstallerTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/04/9a/4-column.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/04/9a/4-column.htm.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/20/bb/nav.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/20/bb/nav.htm.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/46/28/footer.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/46/28/footer.htm.php" />
@@ -106,15 +187,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/99/99/sideMenu.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/99/99/sideMenu.htm.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/c2/a7/sidebar.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/c2/a7/sidebar.htm.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/f6/35/pages.php" afterPath="$PROJECT_DIR$/storage/cms/cache/f6/35/pages.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/17/17e115b28bf544ca31f40bbe2275b711dd13d89a3b3e66181b693e2c22bd9a3c.php" afterPath="$PROJECT_DIR$/storage/cms/twig/17/17e115b28bf544ca31f40bbe2275b711dd13d89a3b3e66181b693e2c22bd9a3c.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/01/ef/01efd809b432ac62594b82d7e0d32633994a4ba1" afterPath="$PROJECT_DIR$/storage/framework/cache/01/ef/01efd809b432ac62594b82d7e0d32633994a4ba1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/02/f2/02f209bf2ef7c7864e8697ba1c3d973da1c71a23" afterPath="$PROJECT_DIR$/storage/framework/cache/02/f2/02f209bf2ef7c7864e8697ba1c3d973da1c71a23" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" afterPath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/2a/c0/2ac042b542926eb7dab3afb5bcc90f8c18f406ec" afterPath="$PROJECT_DIR$/storage/framework/cache/2a/c0/2ac042b542926eb7dab3afb5bcc90f8c18f406ec" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/2d/77/2d776c59a42b9592073b789ae2eb1928dc03c9ba" afterPath="$PROJECT_DIR$/storage/framework/cache/2d/77/2d776c59a42b9592073b789ae2eb1928dc03c9ba" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/38/0d/380dd56477bb1f6608e1be557713f49f92d1c4df" afterPath="$PROJECT_DIR$/storage/framework/cache/38/0d/380dd56477bb1f6608e1be557713f49f92d1c4df" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/3a/52/3a5252326f53a76e3851a69eb1ea4954647d9465" afterPath="$PROJECT_DIR$/storage/framework/cache/3a/52/3a5252326f53a76e3851a69eb1ea4954647d9465" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/46/3e/463e3e4cbfed2d677cc3c1ef2c1ae3a50b45e1da" afterPath="$PROJECT_DIR$/storage/framework/cache/46/3e/463e3e4cbfed2d677cc3c1ef2c1ae3a50b45e1da" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/47/38/47383e1eb2e94dcabb5d1b2c7dddb2e32e952d89" afterPath="$PROJECT_DIR$/storage/framework/cache/47/38/47383e1eb2e94dcabb5d1b2c7dddb2e32e952d89" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/48/fb/48fbba13bfe0d30d3443e0117a9fa1770846a44b" afterPath="$PROJECT_DIR$/storage/framework/cache/48/fb/48fbba13bfe0d30d3443e0117a9fa1770846a44b" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/4b/81/4b819bb0c6bbc95791a497652cd66a2a3a738ad0" afterPath="$PROJECT_DIR$/storage/framework/cache/4b/81/4b819bb0c6bbc95791a497652cd66a2a3a738ad0" />
@@ -123,7 +203,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/59/68/59688d39a242246da748a6d1c8f35ba2f7820d87" afterPath="$PROJECT_DIR$/storage/framework/cache/59/68/59688d39a242246da748a6d1c8f35ba2f7820d87" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" afterPath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/67/5e/675e15d310ea43103280e9e5bf21637d21187c30" afterPath="$PROJECT_DIR$/storage/framework/cache/67/5e/675e15d310ea43103280e9e5bf21637d21187c30" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/68/14/681441af38ac2f05a56d7118130f932163789338" afterPath="$PROJECT_DIR$/storage/framework/cache/68/14/681441af38ac2f05a56d7118130f932163789338" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/6c/76/6c76788ac414b41c8899796d64aafca0519caae0" afterPath="$PROJECT_DIR$/storage/framework/cache/6c/76/6c76788ac414b41c8899796d64aafca0519caae0" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterPath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/75/6d/756dde598e36bfd3be5e10c3a6461b62d9e3cbcc" afterPath="$PROJECT_DIR$/storage/framework/cache/75/6d/756dde598e36bfd3be5e10c3a6461b62d9e3cbcc" />
@@ -145,18 +224,171 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/c2/50/c250b92df1eb8e4181ca655b83e473d5025c7138" afterPath="$PROJECT_DIR$/storage/framework/cache/c2/50/c250b92df1eb8e4181ca655b83e473d5025c7138" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" afterPath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d1/7d/d17d4ccdbb8cf6f0a492e319aad7ceed3207f1e9" afterPath="$PROJECT_DIR$/storage/framework/cache/d1/7d/d17d4ccdbb8cf6f0a492e319aad7ceed3207f1e9" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" afterPath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d4/a6/d4a62c7111d87c4575519ac847b025c769c52d64" afterPath="$PROJECT_DIR$/storage/framework/cache/d4/a6/d4a62c7111d87c4575519ac847b025c769c52d64" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d6/67/d6670647561aa458f48e0d78f0ffa18d049dc5b5" afterPath="$PROJECT_DIR$/storage/framework/cache/d6/67/d6670647561aa458f48e0d78f0ffa18d049dc5b5" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/e3/79/e37936b091628624990cffbf27904797330d02a9" afterPath="$PROJECT_DIR$/storage/framework/cache/e3/79/e37936b091628624990cffbf27904797330d02a9" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/e6/b2/e6b28dffaee36052c117d048c0790fb444aaab3b" afterPath="$PROJECT_DIR$/storage/framework/cache/e6/b2/e6b28dffaee36052c117d048c0790fb444aaab3b" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/e8/2b/e82b01395a74fa4ea0cf213e08c4052f20f8ca2c" afterPath="$PROJECT_DIR$/storage/framework/cache/e8/2b/e82b01395a74fa4ea0cf213e08c4052f20f8ca2c" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/f9/e5/f9e5168d279fd77a125fef3aa387927a81a19996" afterPath="$PROJECT_DIR$/storage/framework/cache/f9/e5/f9e5168d279fd77a125fef3aa387927a81a19996" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/classes.php" afterPath="$PROJECT_DIR$/storage/framework/classes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/services.php" afterPath="$PROJECT_DIR$/storage/framework/services.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/css/list_group_horizotal.css" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/css/list_group_horizotal.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/sass/mdb/free/data/_variables-b4.scss" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/sass/mdb/free/data/_variables-b4.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/menus/mainmenu.yaml" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/menus/mainmenu.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/static-pages.yaml" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/static-pages.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/nav.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/nav.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/EliasisInstaller.php" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/EliasisInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/JoomlaInstaller.php" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/JoomlaInstaller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/InstallerTest.php" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/InstallerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FileCache.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FileCache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Util/Inflector.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Util/Inflector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/Preset.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/Preset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/React.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/React.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/Vue.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/Vue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/react-stubs/app.js" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/react-stubs/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Http/Testing/MimeType.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Http/Testing/MimeType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Mail/Markdown.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Mail/Markdown.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Queue/Capsule/Manager.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Queue/Capsule/Manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Translation/TranslationServiceProvider.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Translation/TranslationServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesComponents.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesComponents.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesComponents.php" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesComponents.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/leafo/scssphp/example/Server.php" afterPath="$PROJECT_DIR$/vendor/leafo/scssphp/example/Server.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/leafo/scssphp/src/Compiler.php" afterPath="$PROJECT_DIR$/vendor/leafo/scssphp/src/Compiler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/leafo/scssphp/src/Util.php" afterPath="$PROJECT_DIR$/vendor/leafo/scssphp/src/Util.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/Util.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/Util.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/DeduplicationHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/DeduplicationHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Logger.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Logger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Foundation/Bootstrap/LoadTranslation.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Foundation/Bootstrap/LoadTranslation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Scaffold/Console/CreateComponent.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Scaffold/Console/CreateComponent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Scaffold/ScaffoldServiceProvider.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Scaffold/ScaffoldServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Block.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Block.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Config.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/DbDongle.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/DbDongle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/File.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/File.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Flash.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Flash.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Form.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Html.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Http.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Http.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Ini.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Ini.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Markdown.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Markdown.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Str.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Str.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Twig.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Twig.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Yaml.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/Facades/Yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/october/rain/src/Translation/TranslationServiceProvider.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Translation/TranslationServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/AbstractLogger.php" afterPath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/AbstractLogger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/LoggerInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/LoggerInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/LoggerTrait.php" afterPath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/LoggerTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Util/Docblock.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Util/Docblock.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/mime_types.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/mime_types.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Command/LockableTrait.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Command/LockableTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/CssSelectorConverter.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/CssSelectorConverter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/ExceptionInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/ExceptionInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/ExpressionErrorException.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/ExpressionErrorException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/InternalErrorException.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/InternalErrorException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/ParseException.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/ParseException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/SyntaxErrorException.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Exception/SyntaxErrorException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/AbstractNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/AbstractNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/AttributeNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/AttributeNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/ClassNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/ClassNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/CombinedSelectorNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/CombinedSelectorNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/ElementNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/ElementNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/FunctionNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/FunctionNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/HashNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/HashNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/NegationNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/NegationNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/NodeInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/NodeInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/PseudoNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/PseudoNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/SelectorNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/SelectorNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/Specificity.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/Specificity.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/HandlerInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/HandlerInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/HashHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/HashHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/StringHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/StringHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Parser.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Parser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/ParserInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/ParserInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Reader.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Reader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Token.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Token.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/TokenStream.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/TokenStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Tokenizer/Tokenizer.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Tokenizer/Tokenizer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Tokenizer/TokenizerEscaping.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Tokenizer/TokenizerEscaping.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Tokenizer/TokenizerPatterns.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Parser/Tokenizer/TokenizerPatterns.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/ExtensionInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/ExtensionInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Translator.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Translator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/TranslatorInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/TranslatorInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/XPathExpr.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/XPathExpr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/debug/Debug.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/Debug.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/debug/Tests/FatalErrorHandler/UndefinedFunctionFatalErrorHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/Tests/FatalErrorHandler/UndefinedFunctionFatalErrorHandlerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/Exception/FileException.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/Exception/FileException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/MimeType/MimeTypeExtensionGuesser.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/MimeType/MimeTypeExtensionGuesser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Request.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Request.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Bundle/Bundle.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Bundle/Bundle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/DataCollector/DataCollector.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/DataCollector/DataCollector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/DataCollector/Util/ValueExporter.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/DataCollector/Util/ValueExporter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Event/KernelEvent.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Event/KernelEvent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/KernelEvents.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/KernelEvents.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/TestSessionListenerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/EventListener/TestSessionListenerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Generator/UrlGenerator.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Generator/UrlGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Loader/DependencyInjection/ServiceRouterLoader.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Loader/DependencyInjection/ServiceRouterLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Matcher/Dumper/PhpMatcherDumper.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Matcher/Dumper/PhpMatcherDumper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/routing/Matcher/UrlMatcher.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Matcher/UrlMatcher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/YamlFileDumper.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/YamlFileDumper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/Exception/ExceptionInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/ExceptionInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/Exception/InvalidArgumentException.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/InvalidArgumentException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/Exception/LogicException.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/LogicException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/Exception/RuntimeException.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/RuntimeException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/Loader/YamlFileLoader.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/YamlFileLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/yaml/Exception/ExceptionInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/Exception/ExceptionInterface.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -165,40 +397,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="search-events.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/search-events.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="51" column="40" lean-forward="false" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="topic_detail.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="event-details.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event-details.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4-column.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/footer/4-column.htm">
+      <file leaf-file-name="Container.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Container/Container.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -207,58 +420,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getBlogCategories.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/getBlogCategories.htm">
+      <file leaf-file-name="Plugin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/Plugin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Plugin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/october/demo/Plugin.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sideMenu.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/sideMenu.htm">
+      <file leaf-file-name="Plugin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/dongdm/resgiterpartner/Plugin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/sidebar.htm">
+      <file leaf-file-name="Todo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/october/demo/components/Todo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="17">
+              <caret line="3" column="25" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="3" selection-end-column="25" />
+              <folding>
+                <element signature="e#42#72#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog2.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog2.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog-homepage.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog-homepage.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog3.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog3.htm">
+      <file leaf-file-name="Categories.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/components/Categories.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -299,21 +504,42 @@
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/tao-hoat-dong.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/menus/mainmenu.yaml" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/blog/1column.htm" />
-        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/css/list_group_horizotal.css" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/jumbotron.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/static-pages.yaml" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/nav.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.html" />
-        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/search-events.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/event-details/details.html" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/simpleScrollingNav.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/event-details/details.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/Edetails.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/details.htm.html" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/envent-details.htm" />
-        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event-details.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/googlemap.html" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/googlemap.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/css/list_group_horizotal.css" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/location.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/search-events.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/details.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/form/regiter-info.html" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/create-event.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/search-events.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/event-details.htm" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/models/Events.php" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/controllers/Events.php" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/components/EventForm/default.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/create-event.htm" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/demo/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/october/event/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/october/event/components/EventForm.php" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/resgiterpartner/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/components/eventform/default.html" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/components/eventform/default.htm" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/components/EventForm.php" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/books.htm" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/Plugin.php" />
       </list>
     </option>
   </component>
@@ -346,8 +572,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -358,42 +582,43 @@
             <path>
               <item name="octoberCMS" type="b2602c69:ProjectViewProjectNode" />
               <item name="octoberCMS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="octoberCMS" type="b2602c69:ProjectViewProjectNode" />
               <item name="octoberCMS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="zanor-zanor-mdb-loaded" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dongdm" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="octoberCMS" type="b2602c69:ProjectViewProjectNode" />
               <item name="octoberCMS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="zanor-zanor-mdb-loaded" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="octoberCMS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="octoberCMS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="zanor-zanor-mdb-loaded" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="footer" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dongdm" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="event" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../install" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\octoberCMS\plugins\october" />
+      <recent name="C:\xampp\htdocs\octoberCMS\plugins\dongdm" />
+      <recent name="C:\xampp\htdocs\octoberCMS\plugins\s" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\octoberCMS\themes\zanor-zanor-mdb-loaded\pages\event" />
       <recent name="C:\xampp\htdocs\octoberCMS\themes\zanor-zanor-mdb-loaded\content\event-details" />
       <recent name="C:\xampp\htdocs\octoberCMS\themes\zanor-zanor-mdb-loaded\assets\img\topic" />
     </key>
@@ -423,22 +648,27 @@
       <workItem from="1519900514795" duration="1862000" />
       <workItem from="1519908737349" duration="13877000" />
       <workItem from="1519959278897" duration="14781000" />
-      <workItem from="1519997271192" duration="2728000" />
+      <workItem from="1519997271192" duration="13361000" />
+      <workItem from="1520044519946" duration="1667000" />
+      <workItem from="1520069903179" duration="768000" />
+      <workItem from="1520086920398" duration="5608000" />
+      <workItem from="1520147234784" duration="9708000" />
+      <workItem from="1520308767085" duration="4155000" />
+      <workItem from="1520320788929" duration="2127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33248000" />
+    <option name="totallyTimeSpent" value="67914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="2" width="1378" height="780" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26100153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29590288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -467,124 +697,56 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/overlays/06.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/overlays/07.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/overlays/08.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/overlays/09.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/overlays/01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/lightbox/default-skin.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/lightbox/default-skin.svg">
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog3.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/lightbox/preloader.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/dashboard-icon.svg">
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog2.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/favicon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/october-logo.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cms/assets/images/default-theme-preview.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cms/assets/images/cms-icon.svg">
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/blog/3column.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/treeview-icons.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/treeview-submenu-tabs.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/october-logo-text.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/images/theme-preview.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/images/subject.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/app/media/topic/subject.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/menus/mainmenu.yaml">
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/footer.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/static-pages.yaml">
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/sidebar.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/blog/pagination.htm">
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/css/list_group_horizotal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/location.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/footer/4-column.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -598,67 +760,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/blog/1column.htm">
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/create-event.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="9" />
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/blogCategories/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/blog/post.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-253">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/simpleNav.htm">
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/theme.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/simpleScrollingNav.htm">
+    <entry file="file://$PROJECT_DIR$/plugins/ddm/event/updates/builder_table_create_ddm_event_create.php" />
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/search-events.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/event/details.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/event-details.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/form/register-info.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/event/topic_detail.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="95" lean-forward="false" selection-start-line="24" selection-start-column="95" selection-end-line="24" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/head.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/footer.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/event-details/Edetails.htm" />
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/test.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="2" />
+          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -669,123 +817,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/event-details/details.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/Edetails.htm" />
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column1.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/jumbotron.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="48" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/envent-details.htm" />
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/details.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog.htm">
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/head.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="19" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.htm">
+    <entry file="file://$PROJECT_DIR$/plugins/acme/library/Plugin.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/acme/library/updates/builder_table_create_acme_library_.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/acme/library/updates/version.yaml" />
+    <entry file="file://$PROJECT_DIR$/plugins/acme/library/controllers/Books.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/acme/library/lang/en/lang.php" />
+    <entry file="file://$PROJECT_DIR$/storage/app/uploads/public/5a9/ad5/d39/5a9ad5d39bf09500928681.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/controllers/Events.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/search-events.htm">
+    <entry file="file://$PROJECT_DIR$/../laravel/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="40" lean-forward="false" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+        <state relative-caret-position="-270">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/s/movies/lang/en/lang.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/test/movies/components/actorform/default.htm" />
+    <entry file="file://$PROJECT_DIR$/plugins/october/demo/components/todo/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/test/movies/Plugin.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/test/movies/components/actors/default.htm" />
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/create-event.htm" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/models/Events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="28" column="15" lean-forward="false" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog-homepage.htm">
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/pages/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Container/Container.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/resgiterpartner/components/EventForm.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/demo/updates/version.yaml" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/demo/Plugin.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/october/event/lang/en/lang.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/october/demo/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/october/event/components/EventForm.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/october/event/Plugin.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/resgiterpartner/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/october/demo/components/Todo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#42#72#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/components/eventform/default.html" />
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/components/Categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/components/eventform/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/books.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog2.htm">
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/components/EventForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog3.htm">
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/Plugin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event-details.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/footer/4-column.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/getBlogCategories.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/sideMenu.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/sidebar.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -43,7 +43,7 @@ class PartialStack
     }
 
     /**
-     * Adds a component to the active partial stack.
+     * Adds a components to the active partial stack.
      */
     public function addComponent($alias, $componentObj)
     {
@@ -54,7 +54,7 @@ class PartialStack
     }
 
     /**
-     * Returns a component by its alias from the partial stack.
+     * Returns a components by its alias from the partial stack.
      */
     public function getComponent($name)
     {
@@ -78,7 +78,7 @@ class PartialStack
     }
 
     /**
-     * Locates a component by its alias from the supplied stack.
+     * Locates a components by its alias from the supplied stack.
      */
     protected function findComponentFromStack($name, $stack)
     {

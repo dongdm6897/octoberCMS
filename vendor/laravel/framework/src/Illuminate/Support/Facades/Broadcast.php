@@ -10,7 +10,7 @@ use Illuminate\Contracts\Broadcasting\Factory as BroadcastingFactoryContract;
 class Broadcast extends Facade
 {
     /**
-     * Get the registered name of the component.
+     * Get the registered name of the components.
      *
      * @return string
      */

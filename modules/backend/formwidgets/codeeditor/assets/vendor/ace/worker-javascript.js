@@ -5021,7 +5021,7 @@ var JSHINT = (function() {
     nud: doTemplateLiteral,
     led: doTemplateLiteral,
     noSubst: true,
-    tail: true // mark as tail, since it's always the last component
+    tail: true // mark as tail, since it's always the last components
   }, baseTemplateSyntax);
 
   type("(regexp)", function() {

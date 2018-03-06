@@ -1,0 +1,46 @@
+columns:
+    nguoi_to_chuc:
+        label: 'dongdm.event::lang.event.nguoi_to_chuc'
+        type: text
+        searchable: true
+        sortable: true
+    thoi_gian:
+        label: 'dongdm.event::lang.event.thoi_gian'
+        type: datetime
+        searchable: true
+        sortable: true
+    so_nguoi_max:
+        label: 'dongdm.event::lang.event.so_nguoi_max'
+        type: number
+        searchable: true
+        sortable: true
+    da_tham_gia:
+        label: 'dongdm.event::lang.event.da_tham_gia'
+        type: number
+        searchable: true
+        sortable: true
+    diem_xuat_phat:
+        label: 'dongdm.event::lang.event.diem_xuat_phat'
+        type: text
+        searchable: true
+        sortable: true
+    dich_den:
+        label: 'dongdm.event::lang.event.dich_den'
+        type: text
+        searchable: true
+        sortable: true
+    cach_di_chuyen:
+        label: 'dongdm.event::lang.event.cach_di_chuyển'
+        type: text
+        searchable: true
+        sortable: true
+    chi_phi:
+        label: 'dongdm.event::lang.event.chi_phi'
+        type: text
+        searchable: true
+        sortable: true
+    nha_tai_tro:
+        label: 'dongdm.event::lang.event.nha_tai_tro'
+        type: text
+        searchable: true
+        sortable: true

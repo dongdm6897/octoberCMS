@@ -45,8 +45,8 @@ class Server
     /**
      * Join path components
      *
-     * @param string $left  Path component, left of the directory separator
-     * @param string $right Path component, right of the directory separator
+     * @param string $left  Path components, left of the directory separator
+     * @param string $right Path components, right of the directory separator
      *
      * @return string
      */

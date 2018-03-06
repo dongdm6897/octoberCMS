@@ -5,7 +5,7 @@ use October\Rain\Support\Facade;
 class Twig extends Facade
 {
     /**
-     * Get the registered name of the component.
+     * Get the registered name of the components.
      * 
      * Resolves to:
      * - October\Rain\Parse\Twig

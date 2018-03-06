@@ -1,0 +1,48 @@
+fields:
+    nguoi_to_chuc:
+        label: 'dongdm.event::lang.event.nguoi_to_chuc'
+        span: full
+        type: text
+    thoi_gian:
+        label: 'dongdm.event::lang.event.thoi_gian'
+        mode: datetime
+        span: full
+        type: datepicker
+    so_nguoi_max:
+        label: 'dongdm.event::lang.event.so_nguoi_max'
+        span: full
+        type: number
+    da_tham_gia:
+        label: 'dongdm.event::lang.event.da_tham_gia'
+        span: full
+        type: number
+    diem_xuat_phat:
+        label: 'dongdm.event::lang.event.diem_xuat_phat'
+        span: full
+        type: text
+    dich_den:
+        label: 'dongdm.event::lang.event.dich_den'
+        span: full
+        type: text
+    cach_di_chuyen:
+        label: 'dongdm.event::lang.event.cach_di_chuyển'
+        span: full
+        type: text
+    chi_phi:
+        label: 'dongdm.event::lang.event.chi_phi'
+        span: full
+        type: text
+    nha_tai_tro:
+        label: 'dongdm.event::lang.event.nha_tai_tro'
+        span: full
+        type: text
+    avatar:
+        label: 'File upload'
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        required: 0
+        type: fileupload

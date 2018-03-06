@@ -24,7 +24,7 @@ class Markdown
     protected $theme = 'default';
 
     /**
-     * The registered component paths.
+     * The registered components paths.
      *
      * @var array
      */
@@ -99,7 +99,7 @@ class Markdown
     }
 
     /**
-     * Get the HTML component paths.
+     * Get the HTML components paths.
      *
      * @return array
      */
@@ -111,7 +111,7 @@ class Markdown
     }
 
     /**
-     * Get the Markdown component paths.
+     * Get the Markdown components paths.
      *
      * @return array
      */
@@ -123,7 +123,7 @@ class Markdown
     }
 
     /**
-     * Get the component paths.
+     * Get the components paths.
      *
      * @return array
      */
@@ -135,7 +135,7 @@ class Markdown
     }
 
     /**
-     * Register new mail component paths.
+     * Register new mail components paths.
      *
      * @param  array  $paths
      * @return void

@@ -28,7 +28,7 @@ class ScaffoldServiceProvider extends ServiceProvider
             return new CreateController;
         });
 
-        $this->app->singleton('command.create.component', function() {
+        $this->app->singleton('command.create.components', function() {
             return new CreateComponent;
         });
 
@@ -43,7 +43,7 @@ class ScaffoldServiceProvider extends ServiceProvider
         $this->commands('command.create.plugin');
         $this->commands('command.create.model');
         $this->commands('command.create.controller');
-        $this->commands('command.create.component');
+        $this->commands('command.create.components');
         $this->commands('command.create.formwidget');
         $this->commands('command.create.command');
     }
@@ -58,7 +58,7 @@ class ScaffoldServiceProvider extends ServiceProvider
             'command.create.plugin',
             'command.create.model',
             'command.create.controller',
-            'command.create.component',
+            'command.create.components',
             'command.create.formwidget',
             'command.create.command'
         ];

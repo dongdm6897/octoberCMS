@@ -110,7 +110,7 @@ return [
         'property_format_error' => 'Kodam vajadzētu sākties ar latīņu alfabēta burtu un tas var saturēt latīņu alfabēta burtus un ciparus',
         'invalid_option_key' => 'Nekorekta dropdowna vērtība: :key.',
     ],
-    'component' => [
+    'components' => [
         'static_page_description' => 'Izvada statisku lapu CMS iegultnē.',
         'static_menu_description' => 'Izvada izvēlni CMS iegultnē.',
         'static_menu_menu_code' => 'Specificē komponentes kodu, ko izvadīt',

@@ -58,7 +58,7 @@ class Mimetypes
         'atom' => 'application/atom+xml',
         'atomcat' => 'application/atomcat+xml',
         'atomsvc' => 'application/atomsvc+xml',
-        'atx' => 'application/vnd.antix.game-component',
+        'atx' => 'application/vnd.antix.game-components',
         'au' => 'audio/basic',
         'avi' => 'video/x-msvideo',
         'aw' => 'application/applixware',

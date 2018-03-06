@@ -47,7 +47,7 @@
         var cursor = this.$selection.getCursor(),
             word = this.getActiveWord(cursor).toLowerCase()
 
-        if (word == 'component') {
+        if (word == 'components') {
             this.handleCursorOnToken(cursor, word)
         }
         else if (this.tokenName) {
@@ -116,7 +116,7 @@
 
     /**
      * Returns an array of [tokenString, startPos, endPos] or null
-     * Eg: ['{% component "thing" %}', 0, 23]
+     * Eg: ['{% components "thing" %}', 0, 23]
      */
     TokenExpander.prototype.getTwigTokenDefinition = function(token, str, pos, filter) {
 

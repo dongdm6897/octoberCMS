@@ -160,7 +160,7 @@ return [
         'error_deleting_directory' => 'Galat menghapus direktori asal :dir',
         'path' => 'Jalur'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Komponen',
         'unnamed' => 'Tak bernama',
         'no_description' => 'Tidak ada jabaran',

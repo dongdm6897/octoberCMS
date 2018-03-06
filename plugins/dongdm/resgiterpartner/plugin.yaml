@@ -1,0 +1,6 @@
+plugin:
+    name: 'dongdm.resgiterpartner::lang.plugin.name'
+    description: 'dongdm.resgiterpartner::lang.plugin.description'
+    author: dongdm
+    icon: oc-icon-adjust
+    homepage: ''

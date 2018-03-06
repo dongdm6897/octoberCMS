@@ -71,7 +71,7 @@ class CmsCompoundObject extends CmsObject
     protected $isCompoundObject = true;
 
     /**
-     * @var array|null Cache for component properties.
+     * @var array|null Cache for components properties.
      */
     protected static $objectComponentPropertyMap = null;
 
@@ -159,13 +159,13 @@ class CmsCompoundObject extends CmsObject
 
     /**
      * Runs components defined in the settings
-     * Process halts if a component returns a value
+     * Process halts if a components returns a value
      * @return void
      */
     public function runComponents()
     {
         foreach ($this->components as $component) {
-            if ($event = $component->fireEvent('component.beforeRun', [], true)) {
+            if ($event = $component->fireEvent('components.beforeRun', [], true)) {
                 return $event;
             }
 
@@ -173,15 +173,15 @@ class CmsCompoundObject extends CmsObject
                 return $result;
             }
 
-            if ($event = $component->fireEvent('component.run', [], true)) {
+            if ($event = $component->fireEvent('components.run', [], true)) {
                 return $event;
             }
         }
     }
 
     /**
-     * Parse component sections.
-     * Replace the multiple component sections with a single "components"
+     * Parse components sections.
+     * Replace the multiple components sections with a single "components"
      * element in the $settings property.
      * @return void
      */
@@ -207,11 +207,11 @@ class CmsCompoundObject extends CmsObject
     }
 
     /**
-     * Returns a component by its name.
+     * Returns a components by its name.
      * This method is used only in the back-end and for internal system needs when
      * the standard way to access components is not an option.
-     * @param string $componentName Specifies the component name.
-     * @return \Cms\Classes\ComponentBase Returns the component instance or null.
+     * @param string $componentName Specifies the components name.
+     * @return \Cms\Classes\ComponentBase Returns the components instance or null.
      */
     public function getComponent($componentName)
     {
@@ -227,9 +227,9 @@ class CmsCompoundObject extends CmsObject
     }
 
     /**
-     * Checks if the object has a component with the specified name.
-     * @param string $componentName Specifies the component name.
-     * @return mixed Return false or the full component name used on the page (it could include the alias).
+     * Checks if the object has a components with the specified name.
+     * @param string $componentName Specifies the components name.
+     * @return mixed Return false or the full components name used on the page (it could include the alias).
      */
     public function hasComponent($componentName)
     {
@@ -264,14 +264,14 @@ class CmsCompoundObject extends CmsObject
     }
 
     /**
-     * Returns component property names and values.
+     * Returns components property names and values.
      * This method implements caching and can be used in the run-time on the front-end.
-     * @param string $componentName Specifies the component name.
+     * @param string $componentName Specifies the components name.
      * @return array Returns an associative array with property names in the keys and property values in the values.
      */
     public function getComponentProperties($componentName)
     {
-        $key = md5($this->theme->getPath()).'component-properties';
+        $key = md5($this->theme->getPath()).'components-properties';
 
         if (self::$objectComponentPropertyMap !== null) {
             $objectComponentMap = self::$objectComponentPropertyMap;
@@ -338,7 +338,7 @@ class CmsCompoundObject extends CmsObject
      */
     public static function clearCache($theme)
     {
-        $key = md5($theme->getPath()).'component-properties';
+        $key = md5($theme->getPath()).'components-properties';
         Cache::forget($key);
     }
 
@@ -347,10 +347,10 @@ class CmsCompoundObject extends CmsObject
     //
 
     /**
-     * Returns the configured view bag component.
+     * Returns the configured view bag components.
      * This method is used only in the back-end and for internal system needs when
      * the standard way to access components is not an option.
-     * @return \Cms\Components\ViewBag Returns the view bag component instance.
+     * @return \Cms\Components\ViewBag Returns the view bag components instance.
      */
     public function getViewBag()
     {

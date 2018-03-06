@@ -220,7 +220,7 @@ return [
         'error_deleting_directory' => 'Erro ao excluir o diretório original :dir',
         'path' => 'Caminho',
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Componentes',
         'unnamed' => 'Sem nome',
         'no_description' => 'Nenhuma descrição fornecida',

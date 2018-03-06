@@ -221,14 +221,14 @@ return [
         'error_deleting_directory' => 'Błąd przy usuwaniu oryginalnego folderu :dir',
         'path' => 'Ścieżka'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Komponenty',
         'unnamed' => 'Bez nazwy',
         'no_description' => 'Brak opisu',
         'alias' => 'Alias',
-        'alias_description' => 'A unique name given to this component when using it in the page or layout code.',
+        'alias_description' => 'A unique name given to this components when using it in the page or layout code.',
         'validation_message' => 'Component aliases are required and can contain only Latin symbols, digits, and underscores. The aliases should start with a Latin symbol.',
-        'invalid_request' => 'The template cannot be saved because of invalid component data.',
+        'invalid_request' => 'The template cannot be saved because of invalid components data.',
         'no_records' => 'Nie znaleziono komponentów',
         'not_found' => "Komponent ':name' nie został znaleziony.",
         'method_not_found' => "Komponent ':name' nie zawiera metody ':method'."

@@ -113,7 +113,7 @@ return [
         'property_format_error' => 'Le code de la propriété devrait commencer par une lettre et ne peut contenir que des lettres et des chiffres',
         'invalid_option_key' => 'Clé de l’option de la liste déroulante invalide. Les clés des options ne peuvent contenir que des chiffres, des lettres et les symboles _ et -'
     ],
-    'component' => [
+    'components' => [
         'static_page_name' => 'Page Statique',
         'static_page_description' => 'Affiche une page statique dans une maquette du CMS.',
         'static_page_use_content_name' => 'Affiche l\' aide à la navigation dans une page statique.',

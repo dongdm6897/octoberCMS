@@ -11,19 +11,19 @@ use ApplicationException;
  * URL Maker Trait
  *
  * Useful in models for generating a "url" attribute, automatically linked
- * to a primary component used in the active theme. For example:
+ * to a primary components used in the active theme. For example:
  *
  *    use \Cms\Traits\UrlMaker;
  *
  *    protected $urlComponentName = 'blogPost';
  *
  * When declared in a model, the above will result in `$model->url` magically
- * linking to the component that declares `isPrimary = 1` in configuration.
+ * linking to the components that declares `isPrimary = 1` in configuration.
  *
  *    [blogPost]
  *    isPrimary = "1"
  *
- * The parameters passed to the component are supplied when overriding the
+ * The parameters passed to the components are supplied when overriding the
  * method `getUrlParams` also within the model.
  *
  *    public function getUrlParams()
@@ -44,12 +44,12 @@ trait UrlMaker
     //
 
     /**
-     * @var string The component to use for generating URLs.
+     * @var string The components to use for generating URLs.
      */
     // protected $urlComponentName = 'testArchive';
 
     /**
-     * @var string The property name to determine a primary component.
+     * @var string The property name to determine a primary components.
      */
     // protected $urlComponentProperty = 'isPrimary';
 
@@ -75,12 +75,12 @@ trait UrlMaker
     protected $url = null;
 
     /**
-     * @var string Page where detected component is found.
+     * @var string Page where detected components is found.
      */
     protected static $urlPageName = null;
 
     /**
-     * Changes the component used for generating the URLs dynamically.
+     * Changes the components used for generating the URLs dynamically.
      *
      * @param string $name
      * @param string $property
@@ -98,7 +98,7 @@ trait UrlMaker
     }
 
     /**
-     * Mutator for the "url" attribute. Returns the URL detected by the component.
+     * Mutator for the "url" attribute. Returns the URL detected by the components.
      * @return string
      */
     public function getUrlAttribute()
@@ -131,7 +131,7 @@ trait UrlMaker
     }
 
     /**
-     * Locates the page name where the detected component is found. This method
+     * Locates the page name where the detected components is found. This method
      * uses the Cache service to improve performance.
      * @return string
      */
@@ -175,7 +175,7 @@ trait UrlMaker
 
         if (!$page) {
             throw new ApplicationException(sprintf(
-                'Unable to a find a primary component "%s" for generating a URL in %s.',
+                'Unable to a find a primary components "%s" for generating a URL in %s.',
                 $this->urlComponentName,
                 get_class($this)
             ));
@@ -196,7 +196,7 @@ trait UrlMaker
     }
 
     /**
-     * Generates a real URL based on the page, detected by the primary component.
+     * Generates a real URL based on the page, detected by the primary components.
      * The CMS Controller is used for this process passing the declared params.
      * @return string
      */

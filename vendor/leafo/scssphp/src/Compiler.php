@@ -2683,10 +2683,10 @@ class Compiler
                 return $value[1];
 
             case Type::T_COLOR:
-                // [1] - red component (either number for a %)
-                // [2] - green component
-                // [3] - blue component
-                // [4] - optional alpha component
+                // [1] - red components (either number for a %)
+                // [2] - green components
+                // [3] - blue components
+                // [4] - optional alpha components
                 list(, $r, $g, $b) = $value;
 
                 $r = round($r);

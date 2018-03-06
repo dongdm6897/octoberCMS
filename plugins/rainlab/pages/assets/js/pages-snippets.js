@@ -50,7 +50,7 @@
             $textarea = $activeEditorTab.find('[data-control="richeditor"] textarea'),
             $richeditorNode = $textarea.closest('[data-control="richeditor"]'),
             $snippetNode = $('<figure contenteditable="false" data-inspector-css-class="hero">&nbsp;</figure>'),
-            componentClass = $sidebarItem.attr('data-component-class'),
+            componentClass = $sidebarItem.attr('data-components-class'),
             snippetCode = $sidebarItem.data('snippet')
 
         if (!$textarea.length) {
@@ -64,8 +64,8 @@
                 'data-inspector-class': componentClass
             })
 
-            // If a component-based snippet was added, make sure that
-            // its code is unique, as it will be used as a component 
+            // If a components-based snippet was added, make sure that
+            // its code is unique, as it will be used as a components
             // alias.
 
             snippetCode = this.generateUniqueComponentSnippetCode(componentClass, snippetCode, $pageForm)
@@ -96,7 +96,7 @@
                 var $textarea = $(this),
                     $codeDom = $('<div>' + $textarea.val() + '</div>')
 
-                if ($codeDom.find('[data-snippet="'+updatedCode+'"][data-component]').length > 0) {
+                if ($codeDom.find('[data-snippet="'+updatedCode+'"][data-components]').length > 0) {
                     snippetFound = true
                     updatedCode = originalCode + counter
                     counter++

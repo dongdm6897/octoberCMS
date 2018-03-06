@@ -160,7 +160,7 @@ return [
         'error_deleting_directory' => '移動元:dirディレクトリー削除エラー',
         'path' => 'パス',
     ],
-    'component' => [
+    'components' => [
         'menu_label' => "コンポーネント",
         'unnamed' => "名前なし",
         'no_description' => "説明なし",

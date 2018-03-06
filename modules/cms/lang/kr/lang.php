@@ -231,7 +231,7 @@ return [
         'delete_confirm' => '선택한 파일이나 폴더를 삭제하시겠습니까?',
         'path' => '경로',
     ],
-    'component' => [
+    'components' => [
         'menu_label' => "컴포넌트",
         'unnamed' => "이름없음",
         'no_description' => "설명없음",

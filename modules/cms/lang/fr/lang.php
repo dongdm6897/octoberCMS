@@ -229,7 +229,7 @@ return [
         'delete_confirm' => 'Supprimer les fichiers ou répertoires sélectionnés ?',
         'path' => 'Chemin'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => 'Composants',
         'unnamed' => 'Sans nom',
         'no_description' => 'Aucune description n’a été fournie',

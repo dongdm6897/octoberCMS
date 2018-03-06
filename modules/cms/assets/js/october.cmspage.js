@@ -57,7 +57,7 @@
         $document.on('hidden.oc.inspector', '[data-inspectable]', this.proxy(this.onInspectorHidden))
         $document.on('hiding.oc.inspector', '[data-inspectable]', this.proxy(this.onInspectorHiding))
         $document.on('click', '#cms-master-tabs > div.tab-content > .tab-pane.active .control-componentlist a.remove', this.proxy(this.onComponentRemove))
-        $document.on('click', '#cms-component-list [data-component]', this.proxy(this.onComponentClick))
+        $document.on('click', '#cms-components-list [data-components]', this.proxy(this.onComponentClick))
     }
 
     // EVENT HANDLERS
@@ -154,7 +154,7 @@
     CmsPage.prototype.onBeforeRequest = function(ev) {
         var $form = $(ev.target)
 
-        if ($('.components .layout-cell.error-component', $form).length > 0) {
+        if ($('.components .layout-cell.error-components', $form).length > 0) {
             if (!confirm('The form contains unknown components. Their properties will be lost on save. Do you want to save the form?'))
                 ev.preventDefault()
         }
@@ -403,7 +403,7 @@
 
             if ($input.val() == alias) {
                 ev.preventDefault()
-                alert('The component alias "'+alias+'" is already used.')
+                alert('The components alias "'+alias+'" is already used.')
                 return false
            }
         })
@@ -417,7 +417,7 @@
             component = $(element).closest('div.layout-cell')
 
         /*
-         * Remove any {% component %} tags in the editor for this component
+         * Remove any {% components %} tags in the editor for this components
          */
         var editor = $('[data-control=codeeditor]', pane)
         if (editor.length) {
@@ -425,7 +425,7 @@
                 codeEditor = editor.codeEditor('getEditorObject')
 
             codeEditor.replace('', {
-                needle: "{% component '" + alias + "' %}"
+                needle: "{% components '" + alias + "' %}"
             })
         }
 
@@ -448,12 +448,12 @@
         }
 
         var $component = $(ev.currentTarget).clone(),
-            $iconInput = $component.find('[data-component-icon]'),
+            $iconInput = $component.find('[data-components-icon]'),
             $componentContainer = $('.layout-relative', $component),
             $configInput = $component.find('[data-inspector-config]'),
-            $aliasInput = $component.find('[data-component-default-alias]'),
+            $aliasInput = $component.find('[data-components-default-alias]'),
             $valuesInput = $component.find('[data-inspector-values]'),
-            $nameInput = $component.find('[data-component-name]'),
+            $nameInput = $component.find('[data-components-name]'),
             $classInput = $component.find('[data-inspector-class]'),
             alias = $aliasInput.val(),
             originalAlias = alias,
@@ -472,7 +472,7 @@
         // Set the last alias used so dragComponents can use it
         $('input[name="component_aliases[]"]', $(ev.currentTarget)).val(alias)
 
-        $component.attr('data-component-attached', true)
+        $component.attr('data-components-attached', true)
         $componentContainer.addClass($iconInput.val())
         $iconInput.remove()
 
@@ -512,7 +512,7 @@
             $primaryTabContainer = $('.nav-tabs', $primaryPanel),
             hasComponents = $('.layout', $componentList).children(':not(.hidden)').length > 0
 
-        $primaryTabContainer.toggleClass('component-area', hasComponents)
+        $primaryTabContainer.toggleClass('components-area', hasComponents)
         $componentList.toggleClass('has-components', hasComponents)
     }
 

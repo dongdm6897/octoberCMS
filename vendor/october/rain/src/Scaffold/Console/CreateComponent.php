@@ -11,14 +11,14 @@ class CreateComponent extends GeneratorCommand
      *
      * @var string
      */
-    protected $name = 'create:component';
+    protected $name = 'create:components';
 
     /**
      * The console command description.
      *
      * @var string
      */
-    protected $description = 'Creates a new plugin component.';
+    protected $description = 'Creates a new plugin components.';
 
     /**
      * The type of class being generated.
@@ -33,8 +33,8 @@ class CreateComponent extends GeneratorCommand
      * @var array
      */
     protected $stubs = [
-        'component/component.stub'  => 'components/{{studly_name}}.php',
-        'component/default.stub' => 'components/{{lower_name}}/default.htm',
+        'components/components.stub'  => 'components/{{studly_name}}.php',
+        'components/default.stub' => 'components/{{lower_name}}/default.htm',
     ];
 
     /**
@@ -49,7 +49,7 @@ class CreateComponent extends GeneratorCommand
         $parts = explode('.', $pluginCode);
         $plugin = array_pop($parts);
         $author = array_pop($parts);
-        $component = $this->argument('component');
+        $component = $this->argument('components');
 
         return [
             'name' => $component,
@@ -67,7 +67,7 @@ class CreateComponent extends GeneratorCommand
     {
         return [
             ['plugin', InputArgument::REQUIRED, 'The name of the plugin to create. Eg: RainLab.Blog'],
-            ['component', InputArgument::REQUIRED, 'The name of the component. Eg: Posts'],
+            ['components', InputArgument::REQUIRED, 'The name of the components. Eg: Posts'],
         ];
     }
 

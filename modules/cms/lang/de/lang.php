@@ -198,7 +198,7 @@ return [
         'error_deleting_directory' => 'Fehler beim Löschen des Originalverzeichnisses :dir',
         'path' => 'Pfad'
     ],
-    'component' => [
+    'components' => [
         'menu_label' => "Komponenten",
         'unnamed' => "Unbenannt",
         'no_description' => "Keine Beschreibung angegeben",
