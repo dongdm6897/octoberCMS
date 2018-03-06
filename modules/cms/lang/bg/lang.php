@@ -206,7 +206,7 @@ return [
         'error_deleting_directory' => 'Грешка при изтриване на оригинална директория :dir',
         'path' => 'Път'
     ],
-    'components' => [
+    'component' => [
         'menu_label' => 'Компоненти',
         'unnamed' => 'Без име',
         'no_description' => 'Няма дадено описание',

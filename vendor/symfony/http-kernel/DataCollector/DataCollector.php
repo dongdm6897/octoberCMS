@@ -54,7 +54,7 @@ abstract class DataCollector implements DataCollectorInterface, \Serializable
      * Converts the variable into a serializable Data instance.
      *
      * This array can be displayed in the template using
-     * the VarDumper components.
+     * the VarDumper component.
      *
      * @param mixed $var
      *
@@ -71,7 +71,7 @@ abstract class DataCollector implements DataCollectorInterface, \Serializable
                 $this->cloner->setMaxItems(-1);
                 $this->cloner->addCasters($this->getCasters());
             } else {
-                @trigger_error(sprintf('Using the %s() method without the VarDumper components is deprecated since Symfony 3.2 and won\'t be supported in 4.0. Install symfony/var-dumper version 3.2 or above.', __METHOD__), E_USER_DEPRECATED);
+                @trigger_error(sprintf('Using the %s() method without the VarDumper component is deprecated since Symfony 3.2 and won\'t be supported in 4.0. Install symfony/var-dumper version 3.2 or above.', __METHOD__), E_USER_DEPRECATED);
                 $this->cloner = false;
             }
         }

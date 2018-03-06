@@ -1,0 +1,11 @@
+plugin:
+    name: 'dongdm.registerpartner::lang.plugin.name'
+    description: 'dongdm.registerpartner::lang.plugin.description'
+    author: dongdm
+    icon: oc-icon-binoculars
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: RegisterPartner
+        url: dongdm/registerpartner/register
+        icon: icon-group

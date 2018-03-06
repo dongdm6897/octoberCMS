@@ -231,7 +231,7 @@ return [
         'delete_confirm' => 'Видалити обрані файли або каталоги?',
         'path' => 'Шлях'
     ],
-    'components' => [
+    'component' => [
         'menu_label' => 'Компоненти',
         'unnamed' => 'Без назви',
         'no_description' => 'Без опису',

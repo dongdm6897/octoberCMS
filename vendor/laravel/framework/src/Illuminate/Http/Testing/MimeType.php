@@ -140,7 +140,7 @@ class MimeType
         'apk' => 'application/vnd.android.package-archive',
         'cii' => 'application/vnd.anser-web-certificate-issue-initiation',
         'fti' => 'application/vnd.anser-web-funds-transfer-initiation',
-        'atx' => 'application/vnd.antix.game-components',
+        'atx' => 'application/vnd.antix.game-component',
         'mpkg' => 'application/vnd.apple.installer+xml',
         'm3u8' => 'application/vnd.apple.mpegurl',
         'swi' => 'application/vnd.aristanetworks.swi',

@@ -6,7 +6,7 @@ use Cms\Classes\ComponentBase;
 use System\Classes\CombineAssets;
 
 /**
- * Resources components
+ * Resources component
  */
 class Resources extends ComponentBase
 {

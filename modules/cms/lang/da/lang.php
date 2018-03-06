@@ -220,7 +220,7 @@ return [
         'error_deleting_directory' => 'Fejl ved sletning af den originale mappe :dir',
         'path' => 'Sti'
     ],
-    'components' => [
+    'component' => [
         'menu_label' => 'Komponenter',
         'unnamed' => 'Unavngivet',
         'no_description' => 'Ingen beskrivelse tilgængelig',

@@ -1,0 +1,21 @@
+columns:
+    name:
+        label: 'dongdm.registerpartner::lang.RegiterPartner.name'
+        type: text
+        searchable: true
+        sortable: true
+    address:
+        label: 'dongdm.registerpartner::lang.RegiterPartner.address'
+        type: text
+        searchable: true
+        sortable: true
+    product:
+        label: 'dongdm.registerpartner::lang.RegiterPartner.product'
+        type: text
+        searchable: true
+        sortable: true
+    description:
+        label: 'dongdm.registerpartner::lang.plugin.description'
+        type: text
+        searchable: true
+        sortable: true

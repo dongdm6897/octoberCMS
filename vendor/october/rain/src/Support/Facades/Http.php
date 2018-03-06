@@ -11,7 +11,7 @@ use October\Rain\Support\Facade;
 class Http extends Facade
 {
     /**
-     * Get the registered name of the components.
+     * Get the registered name of the component.
      * 
      * Resolves to:
      * - October\Rain\Network\Http

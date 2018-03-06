@@ -113,7 +113,7 @@ return [
         'property_format_error' => 'Property code should start with a Latin letter and can contain only Latin letters and digits',
         'invalid_option_key' => 'Invalid drop-down option key: :key. Option keys can contain only digits, Latin letters and characters _ and -',
     ],
-    'components' => [
+    'component' => [
         'static_page_name' => 'Static page',
         'static_page_description' => 'Outputs a static page in a CMS layout.',
         'static_page_use_content_name' => 'Use page content field',
@@ -125,7 +125,7 @@ return [
         'static_menu_name' => 'Static menu',
         'static_menu_description' => 'Outputs a menu in a CMS layout.',
         'static_menu_code_name' => 'Menu',
-        'static_menu_code_description' => 'Specify a code of the menu the components should output.',
+        'static_menu_code_description' => 'Specify a code of the menu the component should output.',
         'static_breadcrumbs_name' => 'Static breadcrumbs',
         'static_breadcrumbs_description' => 'Outputs breadcrumbs for a static page.',
     ]

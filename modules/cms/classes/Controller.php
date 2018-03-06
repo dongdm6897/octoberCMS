@@ -105,7 +105,7 @@ class Controller
     protected static $instance = null;
 
     /**
-     * @var \Cms\Classes\ComponentBase Object of the active components, used internally.
+     * @var \Cms\Classes\ComponentBase Object of the active component, used internally.
      */
     protected $componentContext = null;
 
@@ -232,7 +232,7 @@ class Controller
     }
 
     /**
-     * Renders a page in its entirety, including components initialization.
+     * Renders a page in its entirety, including component initialization.
      * AJAX will be disabled for this process.
      * @param string $pageFile Specifies the CMS page file name to run.
      * @param array  $parameters  Routing parameters.
@@ -587,7 +587,7 @@ class Controller
     }
 
     /**
-     * Executes the page, layout, components and plugin AJAX handlers.
+     * Executes the page, layout, component and plugin AJAX handlers.
      * @return mixed Returns the AJAX Response object or null.
      */
     protected function execAjaxHandlers()
@@ -718,7 +718,7 @@ class Controller
             }
 
             /*
-             * Cycle each components to locate a usable handler
+             * Cycle each component to locate a usable handler
              */
             if (($componentObj = $this->findComponentByHandler($handler)) !== null) {
                 $this->componentContext = $componentObj;
@@ -814,7 +814,7 @@ class Controller
             else {
                 if (($componentObj = $this->findComponentByName($componentAlias)) === null) {
                     if ($throwException) {
-                        throw new CmsException(Lang::get('cms::lang.components.not_found', ['name'=>$componentAlias]));
+                        throw new CmsException(Lang::get('cms::lang.component.not_found', ['name'=>$componentAlias]));
                     }
                     else {
                         return false;
@@ -833,7 +833,7 @@ class Controller
             }
 
             /*
-             * Check the components partial
+             * Check the component partial
              */
             if ($partial === null) {
                 $partial = ComponentPartial::loadCached($componentObj, $partialName);
@@ -876,7 +876,7 @@ class Controller
             $manager = ComponentManager::instance();
 
             foreach ($partial->settings['components'] as $component => $properties) {
-                // Do not inject the viewBag components to the environment.
+                // Do not inject the viewBag component to the environment.
                 // Not sure if they're needed there by the requirements,
                 // but there were problems with array-typed properties used by Static Pages
                 // snippets and setComponentPropertiesFromParams(). --ab
@@ -889,7 +889,7 @@ class Controller
                     : [$component, $component];
 
                 if (!$componentObj = $manager->makeComponent($name, $this->pageObj, $properties)) {
-                    throw new CmsException(Lang::get('cms::lang.components.not_found', ['name'=>$name]));
+                    throw new CmsException(Lang::get('cms::lang.component.not_found', ['name'=>$name]));
                 }
 
                 $componentObj->alias = $alias;
@@ -988,10 +988,10 @@ class Controller
     }
 
     /**
-     * Renders a components's default content, preserves the previous components context.
+     * Renders a component's default content, preserves the previous component context.
      * @param $name
      * @param array $parameters
-     * @return string Returns the components default contents.
+     * @return string Returns the component default contents.
      */
     public function renderComponent($name, $parameters = [])
     {
@@ -1211,9 +1211,9 @@ class Controller
     //
 
     /**
-     * Adds a components to the page object
+     * Adds a component to the page object
      * @param mixed  $name        Component class name or short name
-     * @param string $alias       Alias to give the components
+     * @param string $alias       Alias to give the component
      * @param array  $properties  Component properties
      * @param bool   $addToLayout Add to layout, instead of page
      * @return ComponentBase Component object
@@ -1224,7 +1224,7 @@ class Controller
 
         if ($addToLayout) {
             if (!$componentObj = $manager->makeComponent($name, $this->layoutObj, $properties)) {
-                throw new CmsException(Lang::get('cms::lang.components.not_found', ['name'=>$name]));
+                throw new CmsException(Lang::get('cms::lang.component.not_found', ['name'=>$name]));
             }
 
             $componentObj->alias = $alias;
@@ -1232,7 +1232,7 @@ class Controller
         }
         else {
             if (!$componentObj = $manager->makeComponent($name, $this->pageObj, $properties)) {
-                throw new CmsException(Lang::get('cms::lang.components.not_found', ['name'=>$name]));
+                throw new CmsException(Lang::get('cms::lang.component.not_found', ['name'=>$name]));
             }
 
             $componentObj->alias = $alias;
@@ -1247,7 +1247,7 @@ class Controller
     /**
      * Searches the layout and page components by an alias
      * @param $name
-     * @return ComponentBase The components object, if found
+     * @return ComponentBase The component object, if found
      */
     public function findComponentByName($name)
     {
@@ -1270,7 +1270,7 @@ class Controller
     /**
      * Searches the layout and page components by an AJAX handler
      * @param string $handler
-     * @return ComponentBase The components object, if found
+     * @return ComponentBase The component object, if found
      */
     public function findComponentByHandler($handler)
     {
@@ -1292,7 +1292,7 @@ class Controller
     /**
      * Searches the layout and page components by a partial file
      * @param string $partial
-     * @return ComponentBase The components object, if found
+     * @return ComponentBase The component object, if found
      */
     public function findComponentByPartial($partial)
     {
@@ -1312,7 +1312,7 @@ class Controller
     }
 
     /**
-     * Set the components context manually, used by Components when calling renderPartial.
+     * Set the component context manually, used by Components when calling renderPartial.
      * @param ComponentBase $component
      * @return void
      */
@@ -1322,9 +1322,9 @@ class Controller
     }
 
     /**
-     * Sets components property values from partial parameters.
+     * Sets component property values from partial parameters.
      * The property values should be defined as {{ param }}.
-     * @param ComponentBase $component The components object.
+     * @param ComponentBase $component The component object.
      * @param array $parameters Specifies the partial parameters.
      */
     protected function setComponentPropertiesFromParams($component, $parameters = [])

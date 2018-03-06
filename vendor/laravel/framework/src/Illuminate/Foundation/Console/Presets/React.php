@@ -48,7 +48,7 @@ class React extends Preset
     }
 
     /**
-     * Update the example components.
+     * Update the example component.
      *
      * @return void
      */

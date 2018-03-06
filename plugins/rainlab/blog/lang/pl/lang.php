@@ -67,7 +67,7 @@ return [
         'category_title' => 'Lista kategorii',
         'category_description' => 'Wyświetla listę blogowych kategorii na stronie.',
         'category_slug' => 'Alias kategorii',
-        'category_slug_description' => "Look up the blog category using the supplied slug value. This property is used by the default components partial for marking the currently active category.",
+        'category_slug_description' => "Look up the blog category using the supplied slug value. This property is used by the default component partial for marking the currently active category.",
         'category_display_empty' => 'Pokaż puste kategorie',
         'category_display_empty_description' => 'Pokazuje kategorie, które nie posiadają postów',
         'category_page' => 'Strona kategorii',

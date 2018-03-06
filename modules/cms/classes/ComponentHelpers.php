@@ -3,7 +3,7 @@
 use Lang;
 
 /**
- * Defines some components helpers for the CMS UI.
+ * Defines some component helpers for the CMS UI.
  *
  * @package october\system
  * @author Alexey Bobkov, Samuel Georges
@@ -11,8 +11,8 @@ use Lang;
 class ComponentHelpers
 {
     /**
-     * Returns a components property configuration as a JSON string or array.
-     * @param mixed $component The components object
+     * Returns a component property configuration as a JSON string or array.
+     * @param mixed $component The component object
      * @param boolean $addAliasProperty Determines if the Alias property should be added to the result.
      * @param boolean $returnArray Determines if the method should return an array.
      * @return string
@@ -24,11 +24,11 @@ class ComponentHelpers
         if ($addAliasProperty) {
             $property = [
                 'property'              => 'oc.alias',
-                'title'                 => Lang::get('cms::lang.components.alias'),
-                'description'           => Lang::get('cms::lang.components.alias_description'),
+                'title'                 => Lang::get('cms::lang.component.alias'),
+                'description'           => Lang::get('cms::lang.component.alias_description'),
                 'type'                  => 'string',
                 'validationPattern'     => '^[a-zA-Z]+[0-9a-z\_]*$',
-                'validationMessage'     => Lang::get('cms::lang.components.validation_message'),
+                'validationMessage'     => Lang::get('cms::lang.component.validation_message'),
                 'required'              => true,
                 'showExternalParam'     => false
             ];
@@ -80,8 +80,8 @@ class ComponentHelpers
     }
 
     /**
-     * Returns a components property values.
-     * @param mixed $component The components object
+     * Returns a component property values.
+     * @param mixed $component The component object
      * @return mixed
      */
     public static function getComponentPropertyValues($component)
@@ -99,8 +99,8 @@ class ComponentHelpers
     }
 
     /**
-     * Returns a components name.
-     * @param mixed $component The components object
+     * Returns a component name.
+     * @param mixed $component The component object
      * @return string
      */
     public static function getComponentName($component)
@@ -108,14 +108,14 @@ class ComponentHelpers
         $details = $component->componentDetails();
         $name = (isset($details['name']))
             ? $details['name']
-            : 'cms::lang.components.unnamed';
+            : 'cms::lang.component.unnamed';
 
         return Lang::get($name);
     }
 
     /**
-     * Returns a components description.
-     * @param mixed $component The components object
+     * Returns a component description.
+     * @param mixed $component The component object
      * @return string
      */
     public static function getComponentDescription($component)
@@ -123,7 +123,7 @@ class ComponentHelpers
         $details = $component->componentDetails();
         $name = (isset($details['description']))
             ? $details['description']
-            : 'cms::lang.components.no_description';
+            : 'cms::lang.component.no_description';
 
         return Lang::get($name);
     }

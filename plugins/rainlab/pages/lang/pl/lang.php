@@ -112,7 +112,7 @@ return [
         'property_format_error' => 'Nazwa parametru musi się zaczynać od litery i może zawierać tylko litery oraz liczby',
         'invalid_option_key' => 'Nieprawidłowa opcja: :key. Opcja wyboru może zawierać tylko litery, cyfry, myślnik i podkreślnik',
     ],
-    'components' => [
+    'component' => [
         'static_page_description' => 'Zwraca stronę statycznę w układzie.',
         'static_menu_description' => 'Zwraca menu w układzie.',
         'static_menu_menu_code' => 'Podaj kod systemowy menu',

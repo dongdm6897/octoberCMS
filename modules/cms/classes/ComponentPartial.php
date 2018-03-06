@@ -8,7 +8,7 @@ use October\Rain\Extension\Extendable;
 use ApplicationException;
 
 /**
- * The CMS components partial class. These objects are read-only.
+ * The CMS component partial class. These objects are read-only.
  *
  * @package october\cms
  * @author Alexey Bobkov, Samuel Georges
@@ -16,12 +16,12 @@ use ApplicationException;
 class ComponentPartial extends Extendable implements CmsObjectContract
 {
     /**
-     * @var \Cms\Classes\ComponentBase A reference to the CMS components containing the object.
+     * @var \Cms\Classes\ComponentBase A reference to the CMS component containing the object.
      */
     protected $component;
 
     /**
-     * @var string The components partial file name.
+     * @var string The component partial file name.
      */
     public $fileName;
 
@@ -53,8 +53,8 @@ class ComponentPartial extends Extendable implements CmsObjectContract
     protected $defaultExtension = 'htm';
 
     /**
-     * Creates an instance of the object and associates it with a CMS components.
-     * @param \Cms\Classes\ComponentBase $component Specifies the components the object belongs to.
+     * Creates an instance of the object and associates it with a CMS component.
+     * @param \Cms\Classes\ComponentBase $component Specifies the component the object belongs to.
      */
     public function __construct(ComponentBase $component)
     {
@@ -66,7 +66,7 @@ class ComponentPartial extends Extendable implements CmsObjectContract
     /**
      * Loads the object from a file.
      * This method is used in the CMS back-end. It doesn't use any caching.
-     * @param \Cms\Classes\ComponentBase $component Specifies the components the object belongs to.
+     * @param \Cms\Classes\ComponentBase $component Specifies the component the object belongs to.
      * @param string $fileName Specifies the file name, with the extension.
      * The file name can contain only alphanumeric symbols, dashes and dots.
      * @return mixed Returns a CMS object instance or null if the object wasn't found.
@@ -77,7 +77,7 @@ class ComponentPartial extends Extendable implements CmsObjectContract
     }
 
     /**
-     * There is not much point caching a components partial, so this behavior
+     * There is not much point caching a component partial, so this behavior
      * reverts to a regular load call.
      * @param \Cms\Classes\ComponentBase $component
      * @param string $fileName
@@ -91,7 +91,7 @@ class ComponentPartial extends Extendable implements CmsObjectContract
     /**
      * Checks if a partial override exists in the supplied theme and returns it.
      * Since the beginning of time, October inconsistently checked for overrides
-     * using the components alias exactly, resulting in a folder with uppercase
+     * using the component alias exactly, resulting in a folder with uppercase
      * characters, subsequently this method checks for both variants.
      *
      * @param \Cms\Classes\Theme $theme
@@ -137,8 +137,8 @@ class ComponentPartial extends Extendable implements CmsObjectContract
     }
 
     /**
-     * Returns true if the specific components contains a matching partial.
-     * @param \Cms\Classes\ComponentBase $component Specifies a components the file belongs to.
+     * Returns true if the specific component contains a matching partial.
+     * @param \Cms\Classes\ComponentBase $component Specifies a component the file belongs to.
      * @param string $fileName Specifies the file name to check.
      * @return bool
      */

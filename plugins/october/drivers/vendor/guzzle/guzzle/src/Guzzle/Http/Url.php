@@ -85,7 +85,7 @@ class Url
             }
         }
 
-        // Add the path components if present
+        // Add the path component if present
         if (isset($parts['path']) && 0 !== strlen($parts['path'])) {
             // Always ensure that the path begins with '/' if set and something is before the path
             if ($url && $parts['path'][0] != '/' && substr($url, -1)  != '/') {

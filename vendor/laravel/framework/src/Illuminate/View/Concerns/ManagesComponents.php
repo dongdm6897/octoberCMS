@@ -14,14 +14,14 @@ trait ManagesComponents
     protected $componentStack = [];
 
     /**
-     * The original data passed to the components.
+     * The original data passed to the component.
      *
      * @var array
      */
     protected $componentData = [];
 
     /**
-     * The slot contents for the components.
+     * The slot contents for the component.
      *
      * @var array
      */
@@ -35,7 +35,7 @@ trait ManagesComponents
     protected $slotStack = [];
 
     /**
-     * Start a components rendering process.
+     * Start a component rendering process.
      *
      * @param  string  $name
      * @param  array  $data
@@ -53,7 +53,7 @@ trait ManagesComponents
     }
 
     /**
-     * Render the current components.
+     * Render the current component.
      *
      * @return string
      */
@@ -65,7 +65,7 @@ trait ManagesComponents
     }
 
     /**
-     * Get the data for the given components.
+     * Get the data for the given component.
      *
      * @param  string  $name
      * @return array
@@ -117,7 +117,7 @@ trait ManagesComponents
     }
 
     /**
-     * Get the index for the current components.
+     * Get the index for the current component.
      *
      * @return int
      */

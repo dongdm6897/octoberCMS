@@ -213,7 +213,7 @@ class ComponentList extends WidgetBase
 
     protected function updateList()
     {
-        return ['#'.$this->getId('components-list') => $this->makePartial('items', [
+        return ['#'.$this->getId('component-list') => $this->makePartial('items', [
             'items' => $this->getData()]
         )];
     }

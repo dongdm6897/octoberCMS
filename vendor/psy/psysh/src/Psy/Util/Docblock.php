@@ -123,7 +123,7 @@ class Docblock
     }
 
     /**
-     * Parse the comment into the components parts and set the state of the object.
+     * Parse the comment into the component parts and set the state of the object.
      *
      * @param string $comment The docblock
      */

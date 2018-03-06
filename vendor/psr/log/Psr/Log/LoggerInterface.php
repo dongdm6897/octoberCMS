@@ -45,7 +45,7 @@ interface LoggerInterface
     /**
      * Critical conditions.
      *
-     * Example: Application components unavailable, unexpected exception.
+     * Example: Application component unavailable, unexpected exception.
      *
      * @param string $message
      * @param array  $context

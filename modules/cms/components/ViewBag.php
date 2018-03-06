@@ -4,7 +4,7 @@ use Cms\Classes\ComponentBase;
 
 /**
  * The view bag stores custom template properties.
- * This is a hidden components ignored by the back-end UI.
+ * This is a hidden component ignored by the back-end UI.
  *
  * @package october\cms
  * @author Alexey Bobkov, Samuel Georges
@@ -12,7 +12,7 @@ use Cms\Classes\ComponentBase;
 class ViewBag extends ComponentBase
 {
     /**
-     * @var boolean This components is hidden from the back-end UI.
+     * @var boolean This component is hidden from the back-end UI.
      */
     public $isHidden = true;
 

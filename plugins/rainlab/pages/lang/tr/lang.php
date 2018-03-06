@@ -112,7 +112,7 @@ return [
         'property_format_error' => 'Kod sadece latin karakterle başlamalı ve latin karakter veya sayı içermelidir',
         'invalid_option_key' => 'Seçenek key i geçersiz: :key. Seçenek keyleri sadece sayı, Latin harfler ve karakter _ ve - içerebilir',
     ],
-    'components' => [
+    'component' => [
         'static_page_name' => 'Sabit sayfa',
         'static_page_description' => 'CMS bölümüne sabit sayfa içeriği ekler.',
         'static_menu_name' => 'Static menü',

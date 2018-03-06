@@ -7,7 +7,7 @@ use Illuminate\Filesystem\Filesystem;
 class Preset
 {
     /**
-     * Ensure the components directories we need exist.
+     * Ensure the component directories we need exist.
      *
      * @return void
      */

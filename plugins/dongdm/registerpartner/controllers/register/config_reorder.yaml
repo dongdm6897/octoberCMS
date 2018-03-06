@@ -1,0 +1,4 @@
+title: Register
+modelClass: Dongdm\Registerpartner\Models\Form
+toolbar:
+    buttons: reorder_toolbar

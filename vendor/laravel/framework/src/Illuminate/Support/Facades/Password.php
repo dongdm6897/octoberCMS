@@ -43,7 +43,7 @@ class Password extends Facade
     const INVALID_TOKEN = 'passwords.token';
 
     /**
-     * Get the registered name of the components.
+     * Get the registered name of the component.
      *
      * @return string
      */

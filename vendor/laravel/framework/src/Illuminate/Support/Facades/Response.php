@@ -10,7 +10,7 @@ use Illuminate\Contracts\Routing\ResponseFactory as ResponseFactoryContract;
 class Response extends Facade
 {
     /**
-     * Get the registered name of the components.
+     * Get the registered name of the component.
      *
      * @return string
      */

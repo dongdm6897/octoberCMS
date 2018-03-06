@@ -3,7 +3,7 @@
 1.0.3: Improved handling of the enum data type.
 1.0.4: Added user permissions to work with the Builder.
 1.0.5: Fixed permissions registration.
-1.0.6: Fixed front-end record ordering in the Record List components.
+1.0.6: Fixed front-end record ordering in the Record List component.
 1.0.7: Builder settings are now protected with user permissions. The database table column list is scrollable now. Minor code cleanup.
 1.0.8: Added the Reorder Controller behavior.
 1.0.9: Minor API and UI updates.
@@ -19,4 +19,4 @@
 1.0.19: Added a feature allowing to add all database columns to a list definition. Added max length validation for database table and column names.
 1.0.20: Fixes a bug where form the builder could trigger the "current.hasAttribute is not a function" error.
 1.0.21: Back-end navigation sort order updated.
-1.0.22: Added scopeValue property to the RecordList components.
+1.0.22: Added scopeValue property to the RecordList component.

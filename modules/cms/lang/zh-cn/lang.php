@@ -215,7 +215,7 @@ return [
         'error_deleting_directory' => '删除原始目录 :dir 错误',
         'path' => '路径'
     ],
-    'components' => [
+    'component' => [
         'menu_label' => '组件',
         'unnamed' => '未命名的',
         'no_description' => '没有描述',

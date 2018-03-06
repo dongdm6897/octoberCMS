@@ -1,4 +1,4 @@
-1520321815a:1:{s:23:"event/event-details.htm";a:9:{s:8:"fileName";s:23:"event/event-details.htm";s:7:"content";s:241:"title = "event-details"
+1520363330a:1:{s:23:"event/event-details.htm";a:9:{s:8:"fileName";s:23:"event/event-details.htm";s:7:"content";s:241:"title = "event-details"
 url = "/event-details/:event_id?"
 layout = "noSidebar"
 is_hidden = 0

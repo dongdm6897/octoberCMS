@@ -220,7 +220,7 @@ return [
         'error_deleting_directory' => 'Errore durante l\'eliminazione della cartella originale :dir',
         'path' => 'Percorso'
     ],
-    'components' => [
+    'component' => [
         'menu_label' => 'Componenti',
         'unnamed' => 'Senza nome',
         'no_description' => 'Nessuna descrizione fornita',

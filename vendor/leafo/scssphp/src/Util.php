@@ -55,7 +55,7 @@ class Util
     }
 
     /**
-     * Encode URI components
+     * Encode URI component
      *
      * @param string $string
      *

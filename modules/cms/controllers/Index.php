@@ -302,24 +302,24 @@ class Index extends Controller
     public function onExpandMarkupToken()
     {
         if (!$alias = post('tokenName')) {
-            throw new ApplicationException(trans('cms::lang.components.no_records'));
+            throw new ApplicationException(trans('cms::lang.component.no_records'));
         }
 
         // Can only expand components at this stage
-        if ((!$type = post('tokenType')) && $type != 'components') {
+        if ((!$type = post('tokenType')) && $type != 'component') {
             return;
         }
 
         if (!($names = (array) post('component_names')) || !($aliases = (array) post('component_aliases'))) {
-            throw new ApplicationException(trans('cms::lang.components.not_found', ['name' => $alias]));
+            throw new ApplicationException(trans('cms::lang.component.not_found', ['name' => $alias]));
         }
 
         if (($index = array_get(array_flip($aliases), $alias, false)) === false) {
-            throw new ApplicationException(trans('cms::lang.components.not_found', ['name' => $alias]));
+            throw new ApplicationException(trans('cms::lang.component.not_found', ['name' => $alias]));
         }
 
         if (!$componentName = array_get($names, $index)) {
-            throw new ApplicationException(trans('cms::lang.components.not_found', ['name' => $alias]));
+            throw new ApplicationException(trans('cms::lang.component.not_found', ['name' => $alias]));
         }
 
         $manager = ComponentManager::instance();
@@ -435,7 +435,7 @@ class Index extends Controller
     protected function upgradeSettings($settings)
     {
         /*
-         * Handle components usage
+         * Handle component usage
          */
         $componentProperties = post('component_properties');
         $componentNames = post('component_names');
@@ -443,12 +443,12 @@ class Index extends Controller
 
         if ($componentProperties !== null) {
             if ($componentNames === null || $componentAliases === null) {
-                throw new ApplicationException(trans('cms::lang.components.invalid_request'));
+                throw new ApplicationException(trans('cms::lang.component.invalid_request'));
             }
 
             $count = count($componentProperties);
             if (count($componentNames) != $count || count($componentAliases) != $count) {
-                throw new ApplicationException(trans('cms::lang.components.invalid_request'));
+                throw new ApplicationException(trans('cms::lang.component.invalid_request'));
             }
 
             for ($index = 0; $index < $count; $index++) {

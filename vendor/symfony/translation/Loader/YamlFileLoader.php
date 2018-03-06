@@ -32,7 +32,7 @@ class YamlFileLoader extends FileLoader
     {
         if (null === $this->yamlParser) {
             if (!class_exists('Symfony\Component\Yaml\Parser')) {
-                throw new LogicException('Loading translations from the YAML format requires the Symfony Yaml components.');
+                throw new LogicException('Loading translations from the YAML format requires the Symfony Yaml component.');
             }
 
             $this->yamlParser = new YamlParser();

@@ -231,7 +231,7 @@ return [
         'delete_confirm' => 'آیا از حذف فایل ها یا پوشه های انتخاب شده اطمینان دارید؟',
         'path' => 'محل قرار گیری'
     ],
-    'components' => [
+    'component' => [
         'menu_label' => "ابزارها",
         'unnamed' => "بدون نام",
         'no_description' => "توصیحات وجود ندارد",

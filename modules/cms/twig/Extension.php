@@ -44,7 +44,7 @@ class Extension extends Twig_Extension
             new Twig_SimpleFunction('page', [$this, 'pageFunction'], ['is_safe' => ['html']]),
             new Twig_SimpleFunction('partial', [$this, 'partialFunction'], ['is_safe' => ['html']]),
             new Twig_SimpleFunction('content', [$this, 'contentFunction'], ['is_safe' => ['html']]),
-            new Twig_SimpleFunction('components', [$this, 'componentFunction'], ['is_safe' => ['html']]),
+            new Twig_SimpleFunction('component', [$this, 'componentFunction'], ['is_safe' => ['html']]),
             new Twig_SimpleFunction('placeholder', [$this, 'placeholderFunction'], ['is_safe' => ['html']]),
         ];
     }
@@ -118,10 +118,10 @@ class Extension extends Twig_Extension
     }
 
     /**
-     * Renders a components's default content.
-     * @param string $name Specifies the components name.
-     * @param array $parameters A optional list of parameters to pass to the components.
-     * @return string Returns the components default contents.
+     * Renders a component's default content.
+     * @param string $name Specifies the component name.
+     * @param array $parameters A optional list of parameters to pass to the component.
+     * @return string Returns the component default contents.
      */
     public function componentFunction($name, $parameters = [])
     {
@@ -130,7 +130,7 @@ class Extension extends Twig_Extension
 
     /**
      * Renders registered assets of a given type
-     * @return string Returns the components default contents.
+     * @return string Returns the component default contents.
      */
     public function assetsFunction($type = null)
     {

@@ -63,7 +63,7 @@ class Manager
     }
 
     /**
-     * Register the default connectors that the components ships with.
+     * Register the default connectors that the component ships with.
      *
      * @return void
      */

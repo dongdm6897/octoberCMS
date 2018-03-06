@@ -24,7 +24,7 @@ namespace Psr\Http\Message;
 interface UriInterface
 {
     /**
-     * Retrieve the scheme components of the URI.
+     * Retrieve the scheme component of the URI.
      *
      * If no scheme is present, this method MUST return an empty string.
      *
@@ -40,7 +40,7 @@ interface UriInterface
     public function getScheme();
 
     /**
-     * Retrieve the authority components of the URI.
+     * Retrieve the authority component of the URI.
      *
      * If no authority information is present, this method MUST return an empty
      * string.
@@ -51,7 +51,7 @@ interface UriInterface
      * [user-info@]host[:port]
      * </pre>
      *
-     * If the port components is not set or is the standard port for the current
+     * If the port component is not set or is the standard port for the current
      * scheme, it SHOULD NOT be included.
      *
      * @see https://tools.ietf.org/html/rfc3986#section-3.2
@@ -60,7 +60,7 @@ interface UriInterface
     public function getAuthority();
 
     /**
-     * Retrieve the user information components of the URI.
+     * Retrieve the user information component of the URI.
      *
      * If no user information is present, this method MUST return an empty
      * string.
@@ -77,7 +77,7 @@ interface UriInterface
     public function getUserInfo();
 
     /**
-     * Retrieve the host components of the URI.
+     * Retrieve the host component of the URI.
      *
      * If no host is present, this method MUST return an empty string.
      *
@@ -90,7 +90,7 @@ interface UriInterface
     public function getHost();
 
     /**
-     * Retrieve the port components of the URI.
+     * Retrieve the port component of the URI.
      *
      * If a port is present, and it is non-standard for the current scheme,
      * this method MUST return it as an integer. If the port is the standard port
@@ -107,7 +107,7 @@ interface UriInterface
     public function getPort();
 
     /**
-     * Retrieve the path components of the URI.
+     * Retrieve the path component of the URI.
      *
      * The path can either be empty or absolute (starting with a slash) or
      * rootless (not starting with a slash). Implementations MUST support all
@@ -156,7 +156,7 @@ interface UriInterface
     public function getQuery();
 
     /**
-     * Retrieve the fragment components of the URI.
+     * Retrieve the fragment component of the URI.
      *
      * If no fragment is present, this method MUST return an empty string.
      *

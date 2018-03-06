@@ -2440,7 +2440,7 @@ var functionMap = {
     ],
     "basename": [
         "string basename(string path [, string suffix])",
-        "Returns the filename components of the path"
+        "Returns the filename component of the path"
     ],
     "bcadd": [
         "string bcadd(string left_operand, string right_operand [, int scale])",
@@ -3228,7 +3228,7 @@ var functionMap = {
     ],
     "dirname": [
         "string dirname(string path)",
-        "Returns the directory name components of the path"
+        "Returns the directory name component of the path"
     ],
     "disk_free_space": [
         "float disk_free_space(string path)",
@@ -6028,7 +6028,7 @@ var functionMap = {
     ],
     "ldap_explode_dn": [
         "array ldap_explode_dn(string dn, int with_attrib)",
-        "Splits DN into its components parts"
+        "Splits DN into its component parts"
     ],
     "ldap_first_attribute": [
         "string ldap_first_attribute(resource link, resource result_entry)",

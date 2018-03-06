@@ -142,7 +142,7 @@ return [
         'error_deleting_directory' => 'Error borrando el directorio original :dir',
         'path' => 'Path'
     ],
-    'components' => [
+    'component' => [
         'menu_label' => "Componentes",
         'unnamed' => "Sin nombre",
         'no_description' => "No se proporciona descripción",

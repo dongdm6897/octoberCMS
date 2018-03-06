@@ -7,7 +7,7 @@ use Composer\Util\Filesystem;
 /**
  * Installer for Bitrix Framework. Supported types of extensions:
  * - `bitrix-d7-module` — copy the module to directory `bitrix/modules/<vendor>.<name>`.
- * - `bitrix-d7-components` — copy the components to directory `bitrix/components/<vendor>/<name>`.
+ * - `bitrix-d7-component` — copy the component to directory `bitrix/components/<vendor>/<name>`.
  * - `bitrix-d7-template` — copy the template to directory `bitrix/templates/<vendor>_<name>`.
  * 
  * You can set custom path to directory with Bitrix kernel in `composer.json`:
@@ -27,10 +27,10 @@ class BitrixInstaller extends BaseInstaller
 {
     protected $locations = array(
         'module'    => '{$bitrix_dir}/modules/{$name}/',    // deprecated, remove on the major release (Backward compatibility will be broken)
-        'components' => '{$bitrix_dir}/components/{$name}/', // deprecated, remove on the major release (Backward compatibility will be broken)
+        'component' => '{$bitrix_dir}/components/{$name}/', // deprecated, remove on the major release (Backward compatibility will be broken)
         'theme'     => '{$bitrix_dir}/templates/{$name}/',  // deprecated, remove on the major release (Backward compatibility will be broken)
         'd7-module'    => '{$bitrix_dir}/modules/{$vendor}.{$name}/',
-        'd7-components' => '{$bitrix_dir}/components/{$vendor}/{$name}/',
+        'd7-component' => '{$bitrix_dir}/components/{$vendor}/{$name}/',
         'd7-template'     => '{$bitrix_dir}/templates/{$vendor}_{$name}/',
     );
 

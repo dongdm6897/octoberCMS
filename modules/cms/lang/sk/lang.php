@@ -154,17 +154,17 @@ return [
         'error_deleting_directory' => 'Error deleting the original directory :dir',
         'path' => 'Path'
     ],
-    'components' => [
+    'component' => [
         'menu_label' => 'Components',
         'unnamed' => 'Unnamed',
         'no_description' => 'No description provided',
         'alias' => 'Alias',
-        'alias_description' => 'A unique name given to this components when using it in the page or layout code.',
+        'alias_description' => 'A unique name given to this component when using it in the page or layout code.',
         'validation_message' => 'Component aliases are required and can contain only Latin symbols, digits, and underscores. The aliases should start with a Latin symbol.',
-        'invalid_request' => 'The template cannot be saved because of invalid components data.',
+        'invalid_request' => 'The template cannot be saved because of invalid component data.',
         'no_records' => 'No components found',
-        'not_found' => "The components ':name' is not found.",
-        'method_not_found' => "The components ':name' does not contain a method ':method'."
+        'not_found' => "The component ':name' is not found.",
+        'method_not_found' => "The component ':name' does not contain a method ':method'."
     ],
     'template' => [
         'invalid_type' => 'Unknown template type.',

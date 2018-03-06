@@ -112,7 +112,7 @@ return [
         'property_format_error' => '属性代码应以字母开头，只能包含字母和数字',
         'invalid_option_key' => '无效的下拉选项 key: :key。 选项键只能包含数字，字母和字符 _ 和 -',
     ],
-    'components' => [
+    'component' => [
         'static_page_name' => '静态页',
         'static_page_description' => '在 CMS 布局中输出静态页。',
         'static_page_use_content_name' => '使用页面内容字段',

@@ -266,7 +266,7 @@ class Index extends Controller
         $configuration = [];
 
         $snippetCode = Request::input('snippet');
-        $componentClass = Request::input('components');
+        $componentClass = Request::input('component');
 
         if (strlen($snippetCode)) {
             $snippet = SnippetManager::instance()->findByCodeOrComponent($this->theme, $snippetCode, $componentClass);

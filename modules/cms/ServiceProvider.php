@@ -159,7 +159,7 @@ class ServiceProvider extends ModuleServiceProvider
                             'counterLabel' => 'cms::lang.asset.unsaved_label'
                         ],
                         'components' => [
-                            'label'       => 'cms::lang.components.menu_label',
+                            'label'       => 'cms::lang.component.menu_label',
                             'icon'        => 'icon-puzzle-piece',
                             'url'         => 'javascript:;',
                             'attributes'  => ['data-menu-item' => 'components'],

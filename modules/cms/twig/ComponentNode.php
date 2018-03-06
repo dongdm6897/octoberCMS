@@ -4,14 +4,14 @@ use Twig_Node;
 use Twig_Compiler;
 
 /**
- * Represents a components node
+ * Represents a component node
  *
  * @package october\cms
  * @author Alexey Bobkov, Samuel Georges
  */
 class ComponentNode extends Twig_Node
 {
-    public function __construct(Twig_Node $nodes, $paramNames, $lineno, $tag = 'components')
+    public function __construct(Twig_Node $nodes, $paramNames, $lineno, $tag = 'component')
     {
         parent::__construct(['nodes' => $nodes], ['names' => $paramNames], $lineno, $tag);
     }

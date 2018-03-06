@@ -31,12 +31,12 @@ class ComponentManager
     protected $classMap;
 
     /**
-     * @var array An array containing references to a corresponding plugin for each components class.
+     * @var array An array containing references to a corresponding plugin for each component class.
      */
     protected $pluginMap;
 
     /**
-     * @var array A cached array of components details.
+     * @var array A cached array of component details.
      */
     protected $detailsCache;
 
@@ -72,7 +72,7 @@ class ComponentManager
     }
 
     /**
-     * Manually registers a components for consideration.
+     * Manually registers a component for consideration.
      * Usage:
      *
      *     ComponentManager::registerComponents(function($manager){
@@ -88,7 +88,7 @@ class ComponentManager
     }
 
     /**
-     * Registers a single components.
+     * Registers a single component.
      */
     public function registerComponent($className, $code = null, $plugin = null)
     {
@@ -106,7 +106,7 @@ class ComponentManager
 
         if ($code == 'viewBag' && $className != 'Cms\Components\ViewBag') {
             throw new SystemException(sprintf(
-                'The components code viewBag is reserved. Please use another code for the components class %s.',
+                'The component code viewBag is reserved. Please use another code for the component class %s.',
                 $className
             ));
         }
@@ -133,8 +133,8 @@ class ComponentManager
     }
 
     /**
-     * Returns an array of all components detail definitions.
-     * @return array Array keys are components codes, values are the details defined in the components.
+     * Returns an array of all component detail definitions.
+     * @return array Array keys are component codes, values are the details defined in the component.
      */
     public function listComponentDetails()
     {
@@ -151,7 +151,7 @@ class ComponentManager
     }
 
     /**
-     * Returns a class name from a components code
+     * Returns a class name from a component code
      * Normalizes a class name or converts an code to it's class name.
      * @return string The class name resolved, or null.
      */
@@ -172,9 +172,9 @@ class ComponentManager
     }
 
     /**
-     * Checks to see if a components has been registered.
-     * @param string $name A components class name or code.
-     * @return bool Returns true if the components is registered, otherwise false.
+     * Checks to see if a component has been registered.
+     * @param string $name A component class name or code.
+     * @return bool Returns true if the component is registered, otherwise false.
      */
     public function hasComponent($name)
     {
@@ -187,25 +187,25 @@ class ComponentManager
     }
 
     /**
-     * Makes a components object with properties set.
-     * @param string $name A components class name or code.
-     * @param CmsObject $cmsObject The Cms object that spawned this components.
+     * Makes a component object with properties set.
+     * @param string $name A component class name or code.
+     * @param CmsObject $cmsObject The Cms object that spawned this component.
      * @param array $properties The properties set by the Page or Layout.
-     * @return ComponentBase The components object.
+     * @return ComponentBase The component object.
      */
     public function makeComponent($name, $cmsObject = null, $properties = [])
     {
         $className = $this->resolve($name);
         if (!$className) {
             throw new SystemException(sprintf(
-                'Class name is not registered for the components "%s". Check the components plugin.',
+                'Class name is not registered for the component "%s". Check the component plugin.',
                 $name
             ));
         }
 
         if (!class_exists($className)) {
             throw new SystemException(sprintf(
-                'Component class not found "%s". Check the components plugin.',
+                'Component class not found "%s". Check the component plugin.',
                 $className
             ));
         }
@@ -217,8 +217,8 @@ class ComponentManager
     }
 
     /**
-     * Returns a parent plugin for a specific components object.
-     * @param mixed $component A components to find the plugin for.
+     * Returns a parent plugin for a specific component object.
+     * @param mixed $component A component to find the plugin for.
      * @return mixed Returns the plugin object or null.
      */
     public function findComponentPlugin($component)

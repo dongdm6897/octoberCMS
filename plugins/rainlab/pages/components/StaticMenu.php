@@ -7,7 +7,7 @@ use Request;
 use RainLab\Pages\Classes\Menu as PagesMenu;
 
 /**
- * The menu components.
+ * The menu component.
  *
  * @package rainlab\pages
  * @author Alexey Bobkov, Samuel Georges
@@ -23,8 +23,8 @@ class StaticMenu extends ComponentBase
     public function componentDetails()
     {
         return [
-            'name'        => 'rainlab.pages::lang.components.static_menu_name',
-            'description' => 'rainlab.pages::lang.components.static_menu_description'
+            'name'        => 'rainlab.pages::lang.component.static_menu_name',
+            'description' => 'rainlab.pages::lang.component.static_menu_description'
         ];
     }
 
@@ -32,8 +32,8 @@ class StaticMenu extends ComponentBase
     {
         return [
             'code' => [
-                'title'       => 'rainlab.pages::lang.components.static_menu_code_name',
-                'description' => 'rainlab.pages::lang.components.static_menu_code_description',
+                'title'       => 'rainlab.pages::lang.component.static_menu_code_name',
+                'description' => 'rainlab.pages::lang.component.static_menu_code_description',
                 'type'        => 'dropdown'
             ]
         ];

@@ -81,22 +81,22 @@ items:
                     isExternal: '0'
     -
         title: 'Tìm Kiếm Hoạt Động'
+        nesting: ''
         type: cms-page
+        url: ''
         code: ''
         reference: event/search-events
+        cmsPage: ''
+        replace: ''
         viewBag:
             isHidden: '0'
             cssClass: ''
             isExternal: '0'
     -
-        title: 'Tạo Hoạt Động'
-        nesting: ''
+        title: RegisterPartner
         type: cms-page
-        url: ''
         code: ''
-        reference: event/create-event
-        cmsPage: ''
-        replace: ''
+        reference: register-partner
         viewBag:
             isHidden: '0'
             cssClass: ''

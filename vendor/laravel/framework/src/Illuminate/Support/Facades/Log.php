@@ -10,7 +10,7 @@ use Psr\Log\LoggerInterface;
 class Log extends Facade
 {
     /**
-     * Get the registered name of the components.
+     * Get the registered name of the component.
      *
      * @return string
      */

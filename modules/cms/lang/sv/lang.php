@@ -213,7 +213,7 @@ return [
         'error_deleting_directory' => 'Ett fel uppstod vid radering av orginalmapp :dir',
         'path' => 'Sökväg'
     ],
-    'components' => [
+    'component' => [
         'menu_label' => "Komponenter",
         'unnamed' => "Ej namngiven",
         'no_description' => "Ingen beskrivning",

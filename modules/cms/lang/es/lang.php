@@ -230,7 +230,7 @@ return [
         'delete_confirm' => '¿Deseas eliminar los archivos o directorios seleccionados?',
         'path' => 'Ruta'
     ],
-    'components' => [
+    'component' => [
         'menu_label' => 'Componentes',
         'unnamed' => 'Sin nombre',
         'no_description' => 'No se proporcionó descripción',

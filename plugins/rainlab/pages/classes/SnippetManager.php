@@ -43,7 +43,7 @@ class SnippetManager
      * This method is used internally by the system.
      * @param \Cms\Classes\Theme $theme Specifies a parent theme.
      * @param string $code Specifies the snippet code.
-     * @param string $$componentClass Specifies the snippet components class, if available.
+     * @param string $$componentClass Specifies the snippet component class, if available.
      * @param boolean $allowCaching Specifies whether caching is allowed for the call.
      * @return array Returns an array of Snippet objects.
      */
@@ -91,11 +91,11 @@ class SnippetManager
             return $snippet;
         }
         else {
-            // If the snippet is a components snippet, initialize it
-            // from the components
+            // If the snippet is a component snippet, initialize it
+            // from the component
 
             if (!class_exists($componentClass)) {
-                throw new SystemException(sprintf('The snippet components class %s is not found.', $componentClass));
+                throw new SystemException(sprintf('The snippet component class %s is not found.', $componentClass));
             }
 
             $snippet = new Snippet;

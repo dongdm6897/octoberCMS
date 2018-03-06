@@ -11,7 +11,7 @@ class File
     /**
      * Validates a CMS object file or directory name.
      * CMS object file names can contain only alphanumeric symbols, dashes, underscores and dots.
-     * Name can also begin with a components name, eg: MyComponent::filename.
+     * Name can also begin with a component name, eg: MyComponent::filename.
      * @param string $fileName Specifies a path to validate
      * @return boolean Returns true if the file name is valid. Otherwise returns false.
      */
