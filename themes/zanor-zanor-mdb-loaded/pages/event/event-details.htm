@@ -1,0 +1,14 @@
+title = "event-details"
+url = "/event-details/:event_id?"
+layout = "noSidebar"
+is_hidden = 0
+==
+
+<?php
+   function onStart(){
+     $this->addCss('assets/css/list_group_horizotal.css');
+   }
+?>
+==
+{% partial 'topic/details' %}
+

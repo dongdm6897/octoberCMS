@@ -1,0 +1,22 @@
+<div class="container">
+    <div id="map" style="width: 100%;height: 400px"></div>
+    {% scripts %}
+
+    <script>
+        function myMap() {
+            var mapOptions = {
+                center: new google.maps.LatLng(20.993099, 105.849653),
+                zoom: 13
+
+            };
+            var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
+        }
+    </script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqOZsc-3AlMLBbpBW5uLFfEmDyq1XLtMs&callback=myMap"></script>
+
+</div>
+
+<br>
+<hr >

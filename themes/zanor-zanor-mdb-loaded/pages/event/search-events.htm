@@ -12,28 +12,7 @@ function onStart()
 ==
 <main>
     <!--google map-->
-        <div class="container">
-            <div id="map" style="width: 100%;height: 400px"></div>
-            {% scripts %}
-
-            <script>
-                function myMap() {
-                    var mapOptions = {
-                        center: new google.maps.LatLng(20.993099, 105.849653),
-                        zoom: 13
-
-                    };
-                    var map = new google.maps.Map(document.getElementById("map"), mapOptions);
-
-                }
-            </script>
-
-            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqOZsc-3AlMLBbpBW5uLFfEmDyq1XLtMs&callback=myMap"></script>
-            
-        </div>
-
-        <br>
-        <hr >
+      {% content 'googlemap/location.htm'%}
     <!--Filter-->
         <div>
             <ul class="list-group-horizontal">
@@ -45,7 +24,7 @@ function onStart()
                 <li class="list-group-item">WorkShop</li>
                 <li class="list-group-item">Filter</li>
             </ul>
-            <hr >
+            <hr class="hr-red">
         </div>
 
     <!--Card-->
