@@ -1,4 +1,4 @@
-1520443307a:1:{s:17:"event/details.htm";a:5:{s:8:"fileName";s:17:"event/details.htm";s:7:"content";s:3032:"
+1520446103a:1:{s:17:"event/details.htm";a:5:{s:8:"fileName";s:17:"event/details.htm";s:7:"content";s:3032:"
 {% set imgTest = '/octoberCMS/storage/app/media/topic/'~'test.png' %}
 {% set arrayImg = ['/octoberCMS/storage/app/media/topic/test1.png','/octoberCMS/storage/app/media/topic/test1.png','/octoberCMS/storage/app/media/topic/test1.png'] %}
 {% set icon_cor = '/octoberCMS/storage/app/media/topic/icon_cor.png' %}

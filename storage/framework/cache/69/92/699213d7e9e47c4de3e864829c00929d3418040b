@@ -1,7 +1,14 @@
-1520443549a:1:{s:9:"login.htm";a:9:{s:8:"fileName";s:9:"login.htm";s:7:"content";s:9259:"title = "Login"
+1520446312a:1:{s:9:"login.htm";a:9:{s:8:"fileName";s:9:"login.htm";s:7:"content";s:9349:"title = "Login"
 url = "/login"
 layout = "login-layout"
 is_hidden = 0
+==
+<?php
+function onStart()
+{
+    $this->addCss('assets/css/loginstyle.css');
+}
+?>
 ==
 <div class="container-login">
   <div id="login" class="login">
@@ -151,7 +158,7 @@ is_hidden = 0
                     }
                 
                 
-            </script>";s:5:"mtime";i:1520442331;s:6:"markup";s:9182:"<div class="container-login">
+            </script>";s:5:"mtime";i:1520445706;s:6:"markup";s:9182:"<div class="container-login">
   <div id="login" class="login">
     <div class="login-icon-field">
       <svg class="login-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="5.0 -10.0 100.0 135.0" enable-background="new 0 0 100 100" xml:space="preserve" height="160px" width="160px">
@@ -299,4 +306,7 @@ is_hidden = 0
                     }
                 
                 
-            </script>";s:4:"code";N;s:5:"title";s:5:"Login";s:3:"url";s:6:"/login";s:6:"layout";s:12:"login-layout";s:9:"is_hidden";s:1:"0";}}
+            </script>";s:4:"code";s:73:"function onStart()
+{
+    $this->addCss('assets/css/loginstyle.css');
+}";s:5:"title";s:5:"Login";s:3:"url";s:6:"/login";s:6:"layout";s:12:"login-layout";s:9:"is_hidden";s:1:"0";}}

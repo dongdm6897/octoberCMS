@@ -35,15 +35,15 @@ class __TwigTemplate_7c701d56b31396f962705ba2bc1c91c0a4c1ae59a2685f1e1fc28c88db2
         
     <link href=\"";
         // line 15
-        echo $this->env->getExtension('Cms\Twig\Extension')->themeFilter(array(0 => "assets/css/bootstrap.min.css", 1 => "assets/css/mdb.min.css", 2 => "assets/css/style.css", 3 => "assets/css/loginstyle.css"));
-        // line 21
+        echo $this->env->getExtension('Cms\Twig\Extension')->themeFilter(array(0 => "assets/css/bootstrap.min.css", 1 => "assets/css/mdb.min.css", 2 => "assets/css/style.css"));
+        // line 20
         echo "\" rel=\"stylesheet\">
     
     ";
-        // line 23
+        // line 22
         echo $this->env->getExtension('Cms\Twig\Extension')->assetsFunction('css');
         echo $this->env->getExtension('Cms\Twig\Extension')->displayBlock('styles');
-        // line 24
+        // line 23
         echo "</head>
 <body>";
     }
@@ -60,7 +60,7 @@ class __TwigTemplate_7c701d56b31396f962705ba2bc1c91c0a4c1ae59a2685f1e1fc28c88db2
 
     public function getDebugInfo()
     {
-        return array (  47 => 24,  44 => 23,  40 => 21,  38 => 15,  30 => 10,  19 => 1,);
+        return array (  47 => 23,  44 => 22,  40 => 20,  38 => 15,  30 => 10,  19 => 1,);
     }
 
     public function getSourceContext()
@@ -82,8 +82,7 @@ class __TwigTemplate_7c701d56b31396f962705ba2bc1c91c0a4c1ae59a2685f1e1fc28c88db2
     <link href=\"{{ [
         'assets/css/bootstrap.min.css',
         'assets/css/mdb.min.css',
-        'assets/css/style.css',
-        'assets/css/loginstyle.css',
+        'assets/css/style.css'
        
     ]|theme }}\" rel=\"stylesheet\">
     

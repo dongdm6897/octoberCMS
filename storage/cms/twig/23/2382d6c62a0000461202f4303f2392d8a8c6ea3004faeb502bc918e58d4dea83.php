@@ -25,14 +25,14 @@ class __TwigTemplate_8075dba0fde30db92351083a070e4d58009edaaeec869323798bfdfb90f
         unset($context['__cms_partial_params']);
         // line 3
         echo "
-
+<div class=\"container py-5\">
     
     ";
         // line 6
         echo $this->env->getExtension('Cms\Twig\Extension')->pageFunction();
         // line 7
         echo "    
-
+</div>
 
 ";
         // line 10
@@ -61,11 +61,11 @@ class __TwigTemplate_8075dba0fde30db92351083a070e4d58009edaaeec869323798bfdfb90f
         return new Twig_Source("{% partial 'site/head' %}
 {% partial 'site/nav' %}
 
-
+<div class=\"container py-5\">
     
     {% page %}
     
-
+</div>
 
 {% partial 'site/footer' %}", "C:\\xampp\\htdocs\\octoberCMS/themes/zanor-zanor-mdb-loaded/layouts/noSidebar.htm", "");
     }

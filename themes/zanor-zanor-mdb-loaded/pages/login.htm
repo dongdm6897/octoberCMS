@@ -3,6 +3,13 @@ url = "/login"
 layout = "login-layout"
 is_hidden = 0
 ==
+<?php
+function onStart()
+{
+    $this->addCss('assets/css/loginstyle.css');
+}
+?>
+==
 <div class="container-login">
   <div id="login" class="login">
     <div class="login-icon-field">
