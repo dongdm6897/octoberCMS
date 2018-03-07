@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-1520432008a:1:{s:21:"getBlogCategories.htm";a:8:{s:8:"fileName";s:21:"getBlogCategories.htm";s:7:"content";s:156:"description = "Blog Categories"
-=======
-1520417763a:1:{s:21:"getBlogCategories.htm";a:8:{s:8:"fileName";s:21:"getBlogCategories.htm";s:7:"content";s:156:"description = "Blog Categories"
->>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
+1520443307a:1:{s:21:"getBlogCategories.htm";a:8:{s:8:"fileName";s:21:"getBlogCategories.htm";s:7:"content";s:156:"description = "Blog Categories"
 
 [viewBag]
 

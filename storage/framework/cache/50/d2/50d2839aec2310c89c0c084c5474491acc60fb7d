@@ -1,4 +1,4 @@
-1520409314a:1:{s:15:"withSidebar.htm";a:7:{s:8:"fileName";s:15:"withSidebar.htm";s:7:"content";s:619:"description = "With Sidebar Column"
+1520439758a:1:{s:15:"withSidebar.htm";a:7:{s:8:"fileName";s:15:"withSidebar.htm";s:7:"content";s:619:"description = "With Sidebar Column"
 
 [staticPage]
 useContent = 1
@@ -23,7 +23,7 @@ default = 1
     </div>
 </div>
 
-{% partial 'site/footer' %}";s:5:"mtime";i:1519889065;s:6:"markup";s:539:"{% partial 'site/head' %}
+{% partial 'site/footer' %}";s:5:"mtime";i:1519923932;s:6:"markup";s:539:"{% partial 'site/head' %}
 {% partial 'site/nav' %}
 
 <div class="container mt-2 px-sm-3">

@@ -1,4 +1,4 @@
-1520433395a:1:{s:12:"site/nav.htm";a:8:{s:8:"fileName";s:12:"site/nav.htm";s:7:"content";s:2475:"description = "Nav with Dropdown"
+1520443361a:1:{s:12:"site/nav.htm";a:8:{s:8:"fileName";s:12:"site/nav.htm";s:7:"content";s:2492:"description = "Nav with Dropdown"
 
 [viewBag]
 
@@ -57,7 +57,7 @@ code = "mainmenu"
 
         <!-- Search form -->
        <div>
-           <a href="" style="color: white;text-decoration: none">Đăng nhập/Đăng ký</a>
+           <a href="/octoberCMS/login" style="color: white;text-decoration: none">Đăng nhập/Đăng ký</a>
            <br>
            <br>
            <br>
@@ -66,7 +66,7 @@ code = "mainmenu"
     <!-- Collapsible content -->
 
 </nav>
-<!--/.Navbar-->";s:5:"mtime";i:1520432464;s:6:"markup";s:2384:"<!--Navbar-->
+<!--/.Navbar-->";s:5:"mtime";i:1520442740;s:6:"markup";s:2401:"<!--Navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-green">
 
     <!-- Navbar brand -->
@@ -116,7 +116,7 @@ code = "mainmenu"
 
         <!-- Search form -->
        <div>
-           <a href="" style="color: white;text-decoration: none">Đăng nhập/Đăng ký</a>
+           <a href="/octoberCMS/login" style="color: white;text-decoration: none">Đăng nhập/Đăng ký</a>
            <br>
            <br>
            <br>
