@@ -1,4 +1,4 @@
-1520360237a:1:{s:22:"event/topic_detail.htm";a:5:{s:8:"fileName";s:22:"event/topic_detail.htm";s:7:"content";s:6628:"
+1520418064a:1:{s:22:"event/topic_detail.htm";a:5:{s:8:"fileName";s:22:"event/topic_detail.htm";s:7:"content";s:6853:"
 {% set imgTest = '/octoberCMS/storage/app/media/topic/subject.png' %}
 {% set content = 'This is Content' %}
 
@@ -46,7 +46,7 @@
                     </h4>
                     <!--Text-->
                     <p class="card-text">{{content}}</p>
-                    <a href="#" class="btn btn-blue btn-md">Read more</a>
+                    <a href="{{ 'event/event-details'|page({event_id:10})}}" class="btn btn-blue btn-md">Read more</a>
                 </div>
 
             </div>
@@ -71,7 +71,7 @@
                     </h4>
                     <!--Text-->
                     <p class="card-text">{{content}}</p>
-                    <a href="#" class="btn btn-blue btn-md">Read more</a>
+                    <a href="{{ 'event/event-details'|page({event_id:10})}}" class="btn btn-blue btn-md">Read more</a>
                 </div>
 
             </div>
@@ -99,7 +99,7 @@
                     </h4>
                     <!--Text-->
                     <p class="card-text">{{content}}</p>
-                    <a href="#" class="btn btn-blue btn-md">Read more</a>
+                    <a href="{{ 'event/event-details'|page({event_id:10})}}" class="btn btn-blue btn-md">Read more</a>
                 </div>
 
             </div>
@@ -123,7 +123,7 @@
                     </h4>
                     <!--Text-->
                     <p class="card-text">{{content}}</p>
-                    <a href="#" class="btn btn-blue btn-md">Read more</a>
+                    <a href="{{ 'event/event-details'|page({event_id:10})}}" class="btn btn-blue btn-md">Read more</a>
                 </div>
 
             </div>
@@ -148,7 +148,7 @@
                     </h4>
                     <!--Text-->
                     <p class="card-text">{{content}}</p>
-                    <a href="#" class="btn btn-blue btn-md">Read more</a>
+                    <a href="{{ 'event/event-details'|page({event_id:10})}}" class="btn btn-blue btn-md">Read more</a>
                 </div>
 
             </div>
@@ -199,7 +199,7 @@
     </div>
     <!--/Pagination dark grey-->
 </div>
-";s:5:"mtime";i:1520014144;s:6:"markup";s:6624:"{% set imgTest = '/octoberCMS/storage/app/media/topic/subject.png' %}
+";s:5:"mtime";i:1520413825;s:6:"markup";s:6849:"{% set imgTest = '/octoberCMS/storage/app/media/topic/subject.png' %}
 {% set content = 'This is Content' %}
 
 
@@ -246,7 +246,7 @@
                     </h4>
                     <!--Text-->
                     <p class="card-text">{{content}}</p>
-                    <a href="#" class="btn btn-blue btn-md">Read more</a>
+                    <a href="{{ 'event/event-details'|page({event_id:10})}}" class="btn btn-blue btn-md">Read more</a>
                 </div>
 
             </div>
@@ -271,7 +271,7 @@
                     </h4>
                     <!--Text-->
                     <p class="card-text">{{content}}</p>
-                    <a href="#" class="btn btn-blue btn-md">Read more</a>
+                    <a href="{{ 'event/event-details'|page({event_id:10})}}" class="btn btn-blue btn-md">Read more</a>
                 </div>
 
             </div>
@@ -299,7 +299,7 @@
                     </h4>
                     <!--Text-->
                     <p class="card-text">{{content}}</p>
-                    <a href="#" class="btn btn-blue btn-md">Read more</a>
+                    <a href="{{ 'event/event-details'|page({event_id:10})}}" class="btn btn-blue btn-md">Read more</a>
                 </div>
 
             </div>
@@ -323,7 +323,7 @@
                     </h4>
                     <!--Text-->
                     <p class="card-text">{{content}}</p>
-                    <a href="#" class="btn btn-blue btn-md">Read more</a>
+                    <a href="{{ 'event/event-details'|page({event_id:10})}}" class="btn btn-blue btn-md">Read more</a>
                 </div>
 
             </div>
@@ -348,7 +348,7 @@
                     </h4>
                     <!--Text-->
                     <p class="card-text">{{content}}</p>
-                    <a href="#" class="btn btn-blue btn-md">Read more</a>
+                    <a href="{{ 'event/event-details'|page({event_id:10})}}" class="btn btn-blue btn-md">Read more</a>
                 </div>
 
             </div>

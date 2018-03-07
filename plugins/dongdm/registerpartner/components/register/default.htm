@@ -1,49 +1,79 @@
-<form data-request="onSubmit" data-request-files data-request-flash>
-
-    <input type="hidden" name="_handler" value="onSave">
-    {{ form_token() }}
-    {{ form_sessionKey() }}
-
-    <p class="h5 text-center mb-4">Register</p>
-
-    <div class="md-form">
-        <i class="fa fa-book prefix grey-text" aria-hidden="true"></i>
-        <input type="text" id="orangeForm-name" class="form-control" name="name">
-        <label for="orangeForm-name">Corporation name</label>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <p class="h5 text-center mb-4">Register</p>
+        </div>
     </div>
-    <div class="md-form">
-        <i class="fa fa-address-card prefix grey-text" aria-hidden="true" ></i>
-        <input type="text" id="orangeForm-address" class="form-control" name="address">
-        <label for="orangeForm-address">Your address</label>
+    <div class="row">
+        <div class="col-sm-12 col-md-6" id="myForm">
+            <form data-request="onSubmit" data-request-files data-request-flash>
+
+                <input type="hidden" name="_handler" value="onSave">
+                {{ form_token() }}
+                {{ form_sessionKey() }}
+
+
+                <!--Tên nhà sản xuất-->
+                <div class="md-form">
+                    <i class="fa fa-book prefix grey-text" aria-hidden="true"></i>
+                    <input type="text" id="orangeForm-name" class="form-control" name="name">
+                    <label for="orangeForm-name">Corporation name</label>
+                </div>
+                <!--Đia chỉ-->
+                <div class="md-form">
+                    <i class="fa fa-address-card prefix grey-text" aria-hidden="true" ></i>
+                    <input type="text" id="orangeForm-address" class="form-control" name="address">
+                    <label for="orangeForm-address">Your address</label>
+                </div>
+                <!--Sản phẩm-->
+                <div class="md-form">
+
+                    <i class="fa fa-diamond prefix grey-text" ></i>
+                    <input type="text" id="orangeForm-product" class="form-control" name="product">
+                    <label for="orangeForm-product">Your product</label>
+                </div>
+                <!--Miêu tả về sản phẩm-->
+                <div class="md-form">
+                    <i class="fa fa-pencil prefix grey-text"></i>
+                    <input type="text" id="form8" class="md-textarea" style="height: 100px" name="description">
+                    <label for="form8">Your message</label>
+                </div>
+                <!--buuton-->
+                <div class="md-form">
+                    <i class="fa fa-upload prefix grey-text" ></i>
+                    <input type="file" name="avatarimage" accept="image/*" data-request="onImageUpload" data-request-files data-request-flash>
+
+                </div>
+
+                <br><br>
+
+
+
+                <div class="text-center">
+                    <button type="button" class="btn btn-danger">Send</button>
+                </div>
+
+
+            </form>
+        </div>
+        <div class="col-sm-12 col-md-6">
+
+            <!--google map-->
+            <div class="row" >
+                {%content 'googlemap/location' he=25 %}
+            </div>
+            <div class="row mt-2 ml-1">
+                <div id="imageResult"></div>
+            </div>
+            <!--&lt;!&ndash;get height div form&ndash;&gt;-->
+            <!--<script>-->
+                <!--$(document).ready(function{-->
+                    <!--$heightForm = $('#myForm').height();-->
+                    <!--$('#gmap').css('height',$heightForm/4);-->
+                <!--});-->
+            <!--</script>-->
+
+        </div>
+
     </div>
-
-
-    <div class="md-form">
-
-        <i class="fa fa-diamond prefix grey-text" ></i>
-        <input type="text" id="orangeForm-product" class="form-control" name="product">
-        <label for="orangeForm-product">Your product</label>
-    </div>
-
-    <div class="md-form">
-        <i class="fa fa-pencil prefix grey-text"></i>
-        <input type="text" id="form8" class="md-textarea" style="height: 100px" name="description">
-        <label for="form8">Your message</label>
-    </div>
-
-    <div class="md-form">
-        <i class="fa fa-upload prefix grey-text" ></i>
-        <input type="file" name="avatarimage" accept="image/*" data-request="onImageUpload" data-request-files data-request-flash>
-
-    </div>
-    <div id="imageResult">No image to preview!</div>
-    <br><br>
-
-
-
-    <div class="text-center">
-        <button class="btn btn-deep-orange">Send</button>
-    </div>
-
-
-</form>
+</div>

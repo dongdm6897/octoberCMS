@@ -80,7 +80,10 @@ class __TwigTemplate_634efd973196604435f4b261d6f340eb9e4a88d8c5dc48f171bd6545586
         // line 47
         echo twig_escape_filter($this->env, ($context["content"] ?? null), "html", null, true);
         echo "</p>
-                    <a href=\"#\" class=\"btn btn-blue btn-md\">Read more</a>
+                    <a href=\"";
+        // line 48
+        echo $this->env->getExtension('Cms\Twig\Extension')->pageFilter("event/event-details", array("event_id" => 10));
+        echo "\" class=\"btn btn-blue btn-md\">Read more</a>
                 </div>
 
             </div>
@@ -111,7 +114,10 @@ class __TwigTemplate_634efd973196604435f4b261d6f340eb9e4a88d8c5dc48f171bd6545586
         // line 72
         echo twig_escape_filter($this->env, ($context["content"] ?? null), "html", null, true);
         echo "</p>
-                    <a href=\"#\" class=\"btn btn-blue btn-md\">Read more</a>
+                    <a href=\"";
+        // line 73
+        echo $this->env->getExtension('Cms\Twig\Extension')->pageFilter("event/event-details", array("event_id" => 10));
+        echo "\" class=\"btn btn-blue btn-md\">Read more</a>
                 </div>
 
             </div>
@@ -145,7 +151,10 @@ class __TwigTemplate_634efd973196604435f4b261d6f340eb9e4a88d8c5dc48f171bd6545586
         // line 100
         echo twig_escape_filter($this->env, ($context["content"] ?? null), "html", null, true);
         echo "</p>
-                    <a href=\"#\" class=\"btn btn-blue btn-md\">Read more</a>
+                    <a href=\"";
+        // line 101
+        echo $this->env->getExtension('Cms\Twig\Extension')->pageFilter("event/event-details", array("event_id" => 10));
+        echo "\" class=\"btn btn-blue btn-md\">Read more</a>
                 </div>
 
             </div>
@@ -175,7 +184,10 @@ class __TwigTemplate_634efd973196604435f4b261d6f340eb9e4a88d8c5dc48f171bd6545586
         // line 124
         echo twig_escape_filter($this->env, ($context["content"] ?? null), "html", null, true);
         echo "</p>
-                    <a href=\"#\" class=\"btn btn-blue btn-md\">Read more</a>
+                    <a href=\"";
+        // line 125
+        echo $this->env->getExtension('Cms\Twig\Extension')->pageFilter("event/event-details", array("event_id" => 10));
+        echo "\" class=\"btn btn-blue btn-md\">Read more</a>
                 </div>
 
             </div>
@@ -206,7 +218,10 @@ class __TwigTemplate_634efd973196604435f4b261d6f340eb9e4a88d8c5dc48f171bd6545586
         // line 149
         echo twig_escape_filter($this->env, ($context["content"] ?? null), "html", null, true);
         echo "</p>
-                    <a href=\"#\" class=\"btn btn-blue btn-md\">Read more</a>
+                    <a href=\"";
+        // line 150
+        echo $this->env->getExtension('Cms\Twig\Extension')->pageFilter("event/event-details", array("event_id" => 10));
+        echo "\" class=\"btn btn-blue btn-md\">Read more</a>
                 </div>
 
             </div>
@@ -271,7 +286,7 @@ class __TwigTemplate_634efd973196604435f4b261d6f340eb9e4a88d8c5dc48f171bd6545586
 
     public function getDebugInfo()
     {
-        return array (  207 => 149,  195 => 140,  176 => 124,  164 => 115,  146 => 100,  134 => 91,  112 => 72,  100 => 63,  81 => 47,  69 => 38,  52 => 24,  48 => 23,  36 => 14,  23 => 3,  21 => 2,  19 => 1,);
+        return array (  223 => 150,  219 => 149,  207 => 140,  189 => 125,  185 => 124,  173 => 115,  156 => 101,  152 => 100,  140 => 91,  119 => 73,  115 => 72,  103 => 63,  85 => 48,  81 => 47,  69 => 38,  52 => 24,  48 => 23,  36 => 14,  23 => 3,  21 => 2,  19 => 1,);
     }
 
     public function getSourceContext()
@@ -323,7 +338,7 @@ class __TwigTemplate_634efd973196604435f4b261d6f340eb9e4a88d8c5dc48f171bd6545586
                     </h4>
                     <!--Text-->
                     <p class=\"card-text\">{{content}}</p>
-                    <a href=\"#\" class=\"btn btn-blue btn-md\">Read more</a>
+                    <a href=\"{{ 'event/event-details'|page({event_id:10})}}\" class=\"btn btn-blue btn-md\">Read more</a>
                 </div>
 
             </div>
@@ -348,7 +363,7 @@ class __TwigTemplate_634efd973196604435f4b261d6f340eb9e4a88d8c5dc48f171bd6545586
                     </h4>
                     <!--Text-->
                     <p class=\"card-text\">{{content}}</p>
-                    <a href=\"#\" class=\"btn btn-blue btn-md\">Read more</a>
+                    <a href=\"{{ 'event/event-details'|page({event_id:10})}}\" class=\"btn btn-blue btn-md\">Read more</a>
                 </div>
 
             </div>
@@ -376,7 +391,7 @@ class __TwigTemplate_634efd973196604435f4b261d6f340eb9e4a88d8c5dc48f171bd6545586
                     </h4>
                     <!--Text-->
                     <p class=\"card-text\">{{content}}</p>
-                    <a href=\"#\" class=\"btn btn-blue btn-md\">Read more</a>
+                    <a href=\"{{ 'event/event-details'|page({event_id:10})}}\" class=\"btn btn-blue btn-md\">Read more</a>
                 </div>
 
             </div>
@@ -400,7 +415,7 @@ class __TwigTemplate_634efd973196604435f4b261d6f340eb9e4a88d8c5dc48f171bd6545586
                     </h4>
                     <!--Text-->
                     <p class=\"card-text\">{{content}}</p>
-                    <a href=\"#\" class=\"btn btn-blue btn-md\">Read more</a>
+                    <a href=\"{{ 'event/event-details'|page({event_id:10})}}\" class=\"btn btn-blue btn-md\">Read more</a>
                 </div>
 
             </div>
@@ -425,7 +440,7 @@ class __TwigTemplate_634efd973196604435f4b261d6f340eb9e4a88d8c5dc48f171bd6545586
                     </h4>
                     <!--Text-->
                     <p class=\"card-text\">{{content}}</p>
-                    <a href=\"#\" class=\"btn btn-blue btn-md\">Read more</a>
+                    <a href=\"{{ 'event/event-details'|page({event_id:10})}}\" class=\"btn btn-blue btn-md\">Read more</a>
                 </div>
 
             </div>

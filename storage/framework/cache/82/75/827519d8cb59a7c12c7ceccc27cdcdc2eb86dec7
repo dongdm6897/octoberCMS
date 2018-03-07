@@ -1,5 +1,6 @@
-1520360240a:1:{s:22:"googlemap/location.htm";a:6:{s:8:"fileName";s:22:"googlemap/location.htm";s:7:"content";s:560:"<div class="container">
-    <div id="map" style="width: 100%;height: 400px"></div>
+1520418064a:1:{s:22:"googlemap/location.htm";a:6:{s:8:"fileName";s:22:"googlemap/location.htm";s:7:"content";s:562:"
+<div class="container">
+    <div id="map" style="width: 100%;height: {he}%"></div>
 
     <script>
         function myMap() {
@@ -18,8 +19,8 @@
 </div>
 
 <br>
-<hr class="hr-red">";s:5:"mtime";i:1520011604;s:6:"markup";s:560:"<div class="container">
-    <div id="map" style="width: 100%;height: 400px"></div>
+<hr class="hr-red">";s:5:"mtime";i:1520413119;s:6:"markup";s:560:"<div class="container">
+    <div id="map" style="width: 100%;height: {he}%"></div>
 
     <script>
         function myMap() {
@@ -39,7 +40,7 @@
 
 <br>
 <hr class="hr-red">";s:4:"code";N;s:12:"parsedMarkup";s:560:"<div class="container">
-    <div id="map" style="width: 100%;height: 400px"></div>
+    <div id="map" style="width: 100%;height: {he}%"></div>
 
     <script>
         function myMap() {

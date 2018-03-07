@@ -73,7 +73,7 @@ class Register extends ComponentBase{
         $file = (new File())->fromPost($image['avatarimage']);
 
         return[
-            '#imageResult' => '<img src="' . $file->getThumb(200, 200, ['mode' => 'crop']) . '" >'
+            '#imageResult' => '<img src="' . $file->getThumb(300, 200, ['mode' => 'crop']) . '" >'
         ];
     }
 }

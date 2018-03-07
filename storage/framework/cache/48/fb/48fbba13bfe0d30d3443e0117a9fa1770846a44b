@@ -1,15 +1,22 @@
-1520363330a:1:{s:12:"site/nav.htm";a:8:{s:8:"fileName";s:12:"site/nav.htm";s:7:"content";s:2272:"description = "Nav with Dropdown"
+1520418149a:1:{s:12:"site/nav.htm";a:8:{s:8:"fileName";s:12:"site/nav.htm";s:7:"content";s:2407:"description = "Nav with Dropdown"
 
 [viewBag]
 
 [staticMenu]
 code = "mainmenu"
 ==
+
+
 <!--Navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-green">
 
     <!-- Navbar brand -->
-    <a class="navbar-brand" href="#">Farm Up</a>
+    <a class="navbar-brand" href="#">
+        <img src='/octoberCMS/storage/app/media/topic/vegetable.png' height="35px" width="49px">
+        ViFarm Shop
+    </a>
+
+
     
     <!-- Collapse button -->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -49,18 +56,26 @@ code = "mainmenu"
         <!-- Links -->
 
         <!-- Search form -->
-        <form class="form-inline">
-            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-        </form>
+       <div>
+           <a href="" style="color: white;text-decoration: none">Đăng nhập/Đăng ký</a>
+           <br>
+           <br>
+           <br>
+       </div>
     </div>
     <!-- Collapsible content -->
 
 </nav>
-<!--/.Navbar-->";s:5:"mtime";i:1519971873;s:6:"markup";s:2192:"<!--Navbar-->
+<!--/.Navbar-->";s:5:"mtime";i:1520417534;s:6:"markup";s:2325:"<!--Navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-green">
 
     <!-- Navbar brand -->
-    <a class="navbar-brand" href="#">Farm Up</a>
+    <a class="navbar-brand" href="#">
+        <img src='/octoberCMS/storage/app/media/topic/vegetable.png' height="35px" width="49px">
+        ViFarm Shop
+    </a>
+
+
     
     <!-- Collapse button -->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -100,9 +115,12 @@ code = "mainmenu"
         <!-- Links -->
 
         <!-- Search form -->
-        <form class="form-inline">
-            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-        </form>
+       <div>
+           <a href="" style="color: white;text-decoration: none">Đăng nhập/Đăng ký</a>
+           <br>
+           <br>
+           <br>
+       </div>
     </div>
     <!-- Collapsible content -->
 

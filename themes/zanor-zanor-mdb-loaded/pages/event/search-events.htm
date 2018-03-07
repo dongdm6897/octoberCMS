@@ -11,8 +11,13 @@ function onStart()
 ?>
 ==
 <main>
+    <form class="form-inline">
+        <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success btn-sm my-0" type="submit">Search</button>
+    </form>
+
     <!--google map-->
-      {% content 'googlemap/location.htm'%}
+      {% content 'googlemap/location.htm' he=50 %}
     <!--Filter-->
         <div>
             <ul class="list-group-horizontal">
