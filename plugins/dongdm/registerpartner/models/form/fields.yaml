@@ -1,0 +1,29 @@
+fields:
+    name:
+        label: 'dongdm.registerpartner::lang.RegiterPartner.name'
+        span: auto
+        type: text
+    address:
+        label: 'dongdm.registerpartner::lang.RegiterPartner.address'
+        span: auto
+        type: text
+    product:
+        label: 'dongdm.registerpartner::lang.RegiterPartner.product'
+        span: left
+        type: text
+    description:
+        label: 'dongdm.registerpartner::lang.RegiterPartner.description'
+        size: large
+        span: left
+        type: richeditor
+    avatarimage:
+        label: Avatar
+        mode: image
+        imageWidth: '100'
+        imageHeight: '100'
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload

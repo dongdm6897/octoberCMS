@@ -17,7 +17,7 @@ class __TwigTemplate_9753729c6358f26ae917a8a4b040c7e5432ac86c891e45904ba9396fe24
     {
         // line 1
         echo "<!--Footer-->
-<footer class=\"page-footer center-on-small-only\">
+<footer class=\"page-footer center-on-small-only stylish-color-dark\">
 
     <!--Footer links-->
     <div class=\"container-fluid\">
@@ -84,7 +84,7 @@ class __TwigTemplate_9753729c6358f26ae917a8a4b040c7e5432ac86c891e45904ba9396fe24
             © ";
         // line 41
         echo twig_escape_filter($this->env, twig_date_format_filter($this->env, "now", "Y"), "html", null, true);
-        echo " Copyright: <a href=\"https://www.MDBootstrap.com/?utm_source=4e323a&utm_id=4e323a\"> MDBootstrap.com </a>
+        echo " Copyright: <a href=\"#\"> ViFarm Shop </a>
 
         </div>
     </div>
@@ -112,7 +112,7 @@ class __TwigTemplate_9753729c6358f26ae917a8a4b040c7e5432ac86c891e45904ba9396fe24
     public function getSourceContext()
     {
         return new Twig_Source("<!--Footer-->
-<footer class=\"page-footer center-on-small-only\">
+<footer class=\"page-footer center-on-small-only stylish-color-dark\">
 
     <!--Footer links-->
     <div class=\"container-fluid\">
@@ -151,7 +151,7 @@ class __TwigTemplate_9753729c6358f26ae917a8a4b040c7e5432ac86c891e45904ba9396fe24
     <!--Copyright-->
     <div class=\"footer-copyright\">
         <div class=\"container-fluid\">
-            © {{ 'now'|date('Y') }} Copyright: <a href=\"https://www.MDBootstrap.com/?utm_source=4e323a&utm_id=4e323a\"> MDBootstrap.com </a>
+            © {{ 'now'|date('Y') }} Copyright: <a href=\"#\"> ViFarm Shop </a>
 
         </div>
     </div>

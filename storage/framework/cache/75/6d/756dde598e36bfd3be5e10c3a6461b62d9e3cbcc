@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520432971a:1:{s:13:"site/head.htm";a:7:{s:8:"fileName";s:13:"site/head.htm";s:7:"content";s:650:"description = "Head"
+=======
+1520418063a:1:{s:13:"site/head.htm";a:7:{s:8:"fileName";s:13:"site/head.htm";s:7:"content";s:627:"description = "Head"
+>>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
 
 [viewBag]
 ==

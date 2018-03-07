@@ -1,0 +1,62 @@
+1520418064a:1:{s:22:"googlemap/location.htm";a:6:{s:8:"fileName";s:22:"googlemap/location.htm";s:7:"content";s:562:"
+<div class="container">
+    <div id="map" style="width: 100%;height: {he}%"></div>
+
+    <script>
+        function myMap() {
+            var mapOptions = {
+                center: new google.maps.LatLng(20.993099, 105.849653),
+                zoom: 13
+
+            };
+            var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
+        }
+    </script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqOZsc-3AlMLBbpBW5uLFfEmDyq1XLtMs&callback=myMap"></script>
+
+</div>
+
+<br>
+<hr class="hr-red">";s:5:"mtime";i:1520413119;s:6:"markup";s:560:"<div class="container">
+    <div id="map" style="width: 100%;height: {he}%"></div>
+
+    <script>
+        function myMap() {
+            var mapOptions = {
+                center: new google.maps.LatLng(20.993099, 105.849653),
+                zoom: 13
+
+            };
+            var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
+        }
+    </script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqOZsc-3AlMLBbpBW5uLFfEmDyq1XLtMs&callback=myMap"></script>
+
+</div>
+
+<br>
+<hr class="hr-red">";s:4:"code";N;s:12:"parsedMarkup";s:560:"<div class="container">
+    <div id="map" style="width: 100%;height: {he}%"></div>
+
+    <script>
+        function myMap() {
+            var mapOptions = {
+                center: new google.maps.LatLng(20.993099, 105.849653),
+                zoom: 13
+
+            };
+            var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
+        }
+    </script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqOZsc-3AlMLBbpBW5uLFfEmDyq1XLtMs&callback=myMap"></script>
+
+</div>
+
+<br>
+<hr class="hr-red">";}}

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520432008a:1:{s:16:"blog/3column.htm";a:7:{s:8:"fileName";s:16:"blog/3column.htm";s:7:"content";s:1145:"description = "3 Column Blog"
+=======
+1520417763a:1:{s:16:"blog/3column.htm";a:7:{s:8:"fileName";s:16:"blog/3column.htm";s:7:"content";s:1145:"description = "3 Column Blog"
+>>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
 
 [viewBag]
 ==

@@ -1,116 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/location.htm" line="2" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1e979570-3570-4022-a621-dd2d3a4b87be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/css/list_group_horizotal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/event-details/details.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/details.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.htm" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/4a/b6/calcresult.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/58/a2/default.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/69/e7/footer.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/6d/8d/header.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/73/63/404.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/81/44/ajax.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/b0/38/ajax.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/b0/54/fullImageBg.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/d7/47/scrollingNavbar.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/cache/f7/f6/home.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/0d/0d02216965e89c7586e50fd1091cf1e2558cdd640bd1302e068951136eafa433.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/17/170c239281cd6042852823ca3fe5b462c118cf5776d48a12f4a1cd3fc88eec99.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/18/186064207374c71e40a996bdab2ba48ff039eb1c60743be0061c59f27d2172ed.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/33/332f9e2147d9e59597f93ea5dd925fc40298600ef63e535b572df3b248e91c95.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/3f/3f913a22658e2c03e12b1d5759512f98c609986d792569b97c2f8ddc574f435c.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/4f/4fd1c2c33a8c2f5b93ed00bba7241f5c203ced4c75d1f57fdbc80fb768b6a06c.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/5e/5ef2257bdb6a07bebf7e0f9950cc692c3e23b0a500a222c33a619361019ad4ba.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/77/77aa6daebf90c20a4b3a9caa61e5e9eb1ee8cb28edb6ce2c9bbf068e680f7e22.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/80/8008f18dd932c5b0cfe2bb331bdfc618f620da2965ceb2658c3a04bd58e5c0d6.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/8b/8be95c9b97155ecd646537d584a577fdfade67eb5e20cecbb40c05f5dbe7d4ed.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/8e/8e666bd57b8ef7658db6bcd1a743e470ce810b19ea372be36c97f32826d6b999.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/94/94af46b4be5a164d7c2600ff04226d91457214a2d12cc5aa7a83bde1aa5dd216.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/9c/9c2b968522767dd93a7eca17a3642276523e244cc3573eb9a2832d1ec5c38bf7.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/b4/b47ac7f166bcc769251552cc642c000c0f31b6b518dcb27034c405cf5298c358.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/d9/d9c7acbe2c80f5c7fbcfc6b682d15b905bf4befc1414d8c9d035d962f12416a6.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cms/twig/ec/ec825010c2be596838f7bcc9e8d0aa6d982a72a2ff087fce3b2aa125f9a2f772.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/02/11/0211ee5aff8992c9a09004beca37806d1b0f4b50" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/05/39/053953baf568029fdaa75cd8630359aa60c2b9aa" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/06/b8/06b8b74dd1f138698279de2e118e869d4cc60f55" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/08/df/08dfdfd922681bba7ab5215d56b7da8dd8d64c53" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/13/76/1376de90187b78c36a9372fe74ecbb465ca70934" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/1a/a0/1aa0570f66530441fd59d66297135cf78ef031d7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/22/3f/223f3228859b36252603ca771a7e09fce69c3bf3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/22/b0/22b0d9e117a997e766b8f9c88ee949640f7d2e49" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/29/67/296738e849c64ad3a4b39a6e8ff991e4aeb74cf2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/2d/c7/2dc78e0834877b5464113c071f4cbf8aacd29cb3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/44/c1/44c123acaf24e8b9e1ef8cb691944c55034404df" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/46/f9/46f913c9ca1e8e085c1ea1b4f6a1bc20ff2ad263" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/51/05/510594a3e6b5c6be5b81e5c997775a6365121f0a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/5b/67/5b67aa377911aa89f4008920395e153715b3abc5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/66/33/663395027cbca7aba61878b6ff61126d64771faa" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/67/2b/672b06ce5209cce5ab1a223f54a25ce61c978d99" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/6a/ac/6aac5fcf1fb6191f5443ec309cec9f3e6f4fd8be" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/74/39/7439de67fdd61b968518378f80941af578d80bbf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/79/90/7990a9a5f9ffc6e6b42de4119e09b0f68c20eb95" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/7f/a5/7fa5d8bfe9ac7df01bf9b5557beb2f38f4506d61" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/81/08/81088ee972be9acbd8e1be71ecc4b3b3a0d95aaf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/8d/95/8d95fe9ddf0ed76756982b6268c1da79ffd91246" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/8d/c7/8dc7ebe2d1d5bff05f5158a60149436bdba6f02c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/99/01/9901f87c69b4762a9d0d943d44bef647f5e91837" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/9a/45/9a459dac31266a215db8d1f71e4705e1b2865c29" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/9c/06/9c06cc3bd064641c11c37a45da033319bbf9ee73" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/aa/2c/aa2cac6904ab1dd2062785fd8c9f099604c8c206" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/af/e9/afe9f8ef649cf11c33c87becf1ca327a9142caba" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/b1/37/b13757c184c971433c04601f02f1180a1d94b21b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/b6/ff/b6ff1af8338e676f1a1a5d8157974928fa56b53e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/b9/71/b97106d741e6cb7b0641ddffc1c9a1830a0d143e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/bd/f6/bdf6ee3a074a5b276b0a74b9f09bb6b2ee3ad674" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/be/5a/be5a46ae15ae1d2ec0158fe627794a7d92d0873f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/c2/2b/c22be3cfe67550ee70c22afa03f95e7f6abee464" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/d0/5f/d05f5b1dd441c0a94c6f3296e4cdab2cc7fda771" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/d3/61/d361a34b3cb1411c720dd85d4a94a160cbd854c1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/d9/06/d906a5597504713894cb6a6a3ffa5ecc434fe9f4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/da/fa/dafa84ce99f5f6e8ac10a0cc5e8f5b0c912558ab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/dd/59/dd5937628eaf5312e674468d52060da742c20024" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/eb/74/eb741258505ed78e38225640a7a3d4d6626bb9ba" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/ee/a9/eea9b46bb82098131d4f5b8df319c0f50f58a036" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/ef/f6/eff678004f5d9e1f8eda4497b128f310118da7c3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/f4/e1/f4e1b782f701632e7e6c89fa3050e46015240ced" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/f8/30/f8303e0cbe36663f9daabc27c4e4693bef758f96" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/fc/9b/fc9bebdb3e3fc74bcc9ec3d66e6413540d0bf142" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/fd/b6/fdb6fa521aec177d9ddf01d2e470c12785417be9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/fd/d9/fdd95f73e8a7b38da98ce16df1b7dca5a86fc03a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/fd/d9/fdd98bfa259ec9d70c6efd5bf38239e8644c4f0a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/cache/fd/da/fdda5d6aa5c2defd762747caa96ef794f478d143" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/AXXvCqNYNB4TAogVHEdOs3gU6pQgQG37EA2sj2hq" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/dieu-khoan.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/tao-hoat-dong.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/tim-kiem-hoat-dong.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/tro-thanh-doi-tac.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/ve-chung-toi.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/HalfpageCarousel.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/basicLandingPage.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/corporate.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/fullImageBg.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/fullImageCarousel.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/menus/subpages.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/zysSnWBeLpQGNr5RNE5bz6EDVk9pVB5UV8IBYl6t" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/test.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/Test.htm" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/dongdm/registerpartner/components/register.php" afterPath="$PROJECT_DIR$/plugins/dongdm/registerpartner/components/register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/dongdm/registerpartner/components/register/default.htm" afterPath="$PROJECT_DIR$/plugins/dongdm/registerpartner/components/register/default.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/04/9a/4-column.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/04/9a/4-column.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/15/9c/topic_detail.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/15/9c/topic_detail.htm.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/20/bb/nav.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/20/bb/nav.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/46/28/footer.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/46/28/footer.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/4f/cd/noSidebar.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/4f/cd/noSidebar.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/69/78/head.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/69/78/head.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/8c/f3/withSidebar.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/8c/f3/withSidebar.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/98/40/jumbotron.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/98/40/jumbotron.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/99/99/sideMenu.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/99/99/sideMenu.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/c2/a7/sidebar.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/c2/a7/sidebar.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/f6/35/pages.php" afterPath="$PROJECT_DIR$/storage/cms/cache/f6/35/pages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/50/2e/search-events.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/50/2e/search-events.htm.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/17/17e115b28bf544ca31f40bbe2275b711dd13d89a3b3e66181b693e2c22bd9a3c.php" afterPath="$PROJECT_DIR$/storage/cms/twig/17/17e115b28bf544ca31f40bbe2275b711dd13d89a3b3e66181b693e2c22bd9a3c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/24/24908f34b43666cb1f9423df03659ca509324af29a45b80451bde14a57cf0ea8.php" afterPath="$PROJECT_DIR$/storage/cms/twig/24/24908f34b43666cb1f9423df03659ca509324af29a45b80451bde14a57cf0ea8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/28/2871042ebc67e54b8c95a796bd03eacfd5522271d6c51c65eead5dae992d6f50.php" afterPath="$PROJECT_DIR$/storage/cms/twig/28/2871042ebc67e54b8c95a796bd03eacfd5522271d6c51c65eead5dae992d6f50.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/46/46064e36808e305b9bcf465588854841c68573bc9089057fbb10fbd4c0b4e7ba.php" afterPath="$PROJECT_DIR$/storage/cms/twig/46/46064e36808e305b9bcf465588854841c68573bc9089057fbb10fbd4c0b4e7ba.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/bd/bde5c776c9a574e87df168eadb848ba90c841a4c11e42a73dd370840664ec35f.php" afterPath="$PROJECT_DIR$/storage/cms/twig/bd/bde5c776c9a574e87df168eadb848ba90c841a4c11e42a73dd370840664ec35f.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/01/ef/01efd809b432ac62594b82d7e0d32633994a4ba1" afterPath="$PROJECT_DIR$/storage/framework/cache/01/ef/01efd809b432ac62594b82d7e0d32633994a4ba1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/02/f2/02f209bf2ef7c7864e8697ba1c3d973da1c71a23" afterPath="$PROJECT_DIR$/storage/framework/cache/02/f2/02f209bf2ef7c7864e8697ba1c3d973da1c71a23" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" afterPath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/2a/c0/2ac042b542926eb7dab3afb5bcc90f8c18f406ec" afterPath="$PROJECT_DIR$/storage/framework/cache/2a/c0/2ac042b542926eb7dab3afb5bcc90f8c18f406ec" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/2d/77/2d776c59a42b9592073b789ae2eb1928dc03c9ba" afterPath="$PROJECT_DIR$/storage/framework/cache/2d/77/2d776c59a42b9592073b789ae2eb1928dc03c9ba" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/38/0d/380dd56477bb1f6608e1be557713f49f92d1c4df" afterPath="$PROJECT_DIR$/storage/framework/cache/38/0d/380dd56477bb1f6608e1be557713f49f92d1c4df" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/3a/52/3a5252326f53a76e3851a69eb1ea4954647d9465" afterPath="$PROJECT_DIR$/storage/framework/cache/3a/52/3a5252326f53a76e3851a69eb1ea4954647d9465" />
@@ -118,44 +30,58 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/47/38/47383e1eb2e94dcabb5d1b2c7dddb2e32e952d89" afterPath="$PROJECT_DIR$/storage/framework/cache/47/38/47383e1eb2e94dcabb5d1b2c7dddb2e32e952d89" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/48/fb/48fbba13bfe0d30d3443e0117a9fa1770846a44b" afterPath="$PROJECT_DIR$/storage/framework/cache/48/fb/48fbba13bfe0d30d3443e0117a9fa1770846a44b" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/4b/81/4b819bb0c6bbc95791a497652cd66a2a3a738ad0" afterPath="$PROJECT_DIR$/storage/framework/cache/4b/81/4b819bb0c6bbc95791a497652cd66a2a3a738ad0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/4c/3a/4c3aa4dd36cd046e3c848f72594f7dcabce821ff" afterPath="$PROJECT_DIR$/storage/framework/cache/4c/3a/4c3aa4dd36cd046e3c848f72594f7dcabce821ff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/50/d2/50d2839aec2310c89c0c084c5474491acc60fb7d" afterPath="$PROJECT_DIR$/storage/framework/cache/50/d2/50d2839aec2310c89c0c084c5474491acc60fb7d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/50/ec/50ec21f4bbab26a237b1d0d71058a482c942ca66" afterPath="$PROJECT_DIR$/storage/framework/cache/50/ec/50ec21f4bbab26a237b1d0d71058a482c942ca66" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/56/78/56789dede0bc67785fbfd49a553e020014d63146" afterPath="$PROJECT_DIR$/storage/framework/cache/56/78/56789dede0bc67785fbfd49a553e020014d63146" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/59/68/59688d39a242246da748a6d1c8f35ba2f7820d87" afterPath="$PROJECT_DIR$/storage/framework/cache/59/68/59688d39a242246da748a6d1c8f35ba2f7820d87" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" afterPath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/67/5e/675e15d310ea43103280e9e5bf21637d21187c30" afterPath="$PROJECT_DIR$/storage/framework/cache/67/5e/675e15d310ea43103280e9e5bf21637d21187c30" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/68/14/681441af38ac2f05a56d7118130f932163789338" afterPath="$PROJECT_DIR$/storage/framework/cache/68/14/681441af38ac2f05a56d7118130f932163789338" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/6c/76/6c76788ac414b41c8899796d64aafca0519caae0" afterPath="$PROJECT_DIR$/storage/framework/cache/6c/76/6c76788ac414b41c8899796d64aafca0519caae0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterPath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/75/6d/756dde598e36bfd3be5e10c3a6461b62d9e3cbcc" afterPath="$PROJECT_DIR$/storage/framework/cache/75/6d/756dde598e36bfd3be5e10c3a6461b62d9e3cbcc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" afterPath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/7a/23/7a236aba283f8373ed5620a3242c8123e44b22bc" afterPath="$PROJECT_DIR$/storage/framework/cache/7a/23/7a236aba283f8373ed5620a3242c8123e44b22bc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/7c/be/7cbe508e78ccf6f473c7d00d6859093bec1f32ba" afterPath="$PROJECT_DIR$/storage/framework/cache/7c/be/7cbe508e78ccf6f473c7d00d6859093bec1f32ba" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/81/6c/816cbd6fa419c48c913d547148af63e60b762ef1" afterPath="$PROJECT_DIR$/storage/framework/cache/81/6c/816cbd6fa419c48c913d547148af63e60b762ef1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/82/75/827519d8cb59a7c12c7ceccc27cdcdc2eb86dec7" afterPath="$PROJECT_DIR$/storage/framework/cache/82/75/827519d8cb59a7c12c7ceccc27cdcdc2eb86dec7" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/83/25/8325d89d1bf1c5b34be23c411ebb9a18138fd8c0" afterPath="$PROJECT_DIR$/storage/framework/cache/83/25/8325d89d1bf1c5b34be23c411ebb9a18138fd8c0" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/85/b2/85b2db75c221b06f4d792680327386ecbfa073b1" afterPath="$PROJECT_DIR$/storage/framework/cache/85/b2/85b2db75c221b06f4d792680327386ecbfa073b1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/88/40/884008a61f8edcec424bc97f5b4b75ac7cea6c92" afterPath="$PROJECT_DIR$/storage/framework/cache/88/40/884008a61f8edcec424bc97f5b4b75ac7cea6c92" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/8a/ce/8ace6ae15fcbb632dd222dbc5ff3124f036b329d" afterPath="$PROJECT_DIR$/storage/framework/cache/8a/ce/8ace6ae15fcbb632dd222dbc5ff3124f036b329d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/8d/61/8d6179a92166aeb80ab736315b8b3674cd86b7ce" afterPath="$PROJECT_DIR$/storage/framework/cache/8d/61/8d6179a92166aeb80ab736315b8b3674cd86b7ce" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterPath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" afterPath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/99/01/9901f87c69b4762a9d0d943d44bef647f5e91837" afterPath="$PROJECT_DIR$/storage/framework/cache/99/01/9901f87c69b4762a9d0d943d44bef647f5e91837" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" afterPath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/a0/8f/a08fbda2b3b98c4f2db6593ceb47e25eacb0d945" afterPath="$PROJECT_DIR$/storage/framework/cache/a0/8f/a08fbda2b3b98c4f2db6593ceb47e25eacb0d945" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" afterPath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/a7/16/a7161124b686b7414e4e418f7a6a38f42af6f6c1" afterPath="$PROJECT_DIR$/storage/framework/cache/a7/16/a7161124b686b7414e4e418f7a6a38f42af6f6c1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/ad/57/ad57760f7a2b826ec6e43aaac983bb636c0de57c" afterPath="$PROJECT_DIR$/storage/framework/cache/ad/57/ad57760f7a2b826ec6e43aaac983bb636c0de57c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/b2/bc/b2bc30f9a4c98b09c7a70a6c0cb5b87245d7cd28" afterPath="$PROJECT_DIR$/storage/framework/cache/b2/bc/b2bc30f9a4c98b09c7a70a6c0cb5b87245d7cd28" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/b4/56/b456099d3e35a414f654e8e7f2878d2a8443cc76" afterPath="$PROJECT_DIR$/storage/framework/cache/b4/56/b456099d3e35a414f654e8e7f2878d2a8443cc76" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/b4/99/b4990f20762dd52b6b7324e8fdde4af852bdc037" afterPath="$PROJECT_DIR$/storage/framework/cache/b4/99/b4990f20762dd52b6b7324e8fdde4af852bdc037" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/c1/70/c1706ebc39f73942e71835975e9ba147f792371c" afterPath="$PROJECT_DIR$/storage/framework/cache/c1/70/c1706ebc39f73942e71835975e9ba147f792371c" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/c2/2f/c22fcd5ed4b68982a89905dcd96bd6c8da500845" afterPath="$PROJECT_DIR$/storage/framework/cache/c2/2f/c22fcd5ed4b68982a89905dcd96bd6c8da500845" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/c2/50/c250b92df1eb8e4181ca655b83e473d5025c7138" afterPath="$PROJECT_DIR$/storage/framework/cache/c2/50/c250b92df1eb8e4181ca655b83e473d5025c7138" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/c9/9f/c99fe345db40abb183f6bcc5388417eae55f6385" afterPath="$PROJECT_DIR$/storage/framework/cache/c9/9f/c99fe345db40abb183f6bcc5388417eae55f6385" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" afterPath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d1/7d/d17d4ccdbb8cf6f0a492e319aad7ceed3207f1e9" afterPath="$PROJECT_DIR$/storage/framework/cache/d1/7d/d17d4ccdbb8cf6f0a492e319aad7ceed3207f1e9" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" afterPath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d4/a6/d4a62c7111d87c4575519ac847b025c769c52d64" afterPath="$PROJECT_DIR$/storage/framework/cache/d4/a6/d4a62c7111d87c4575519ac847b025c769c52d64" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d6/67/d6670647561aa458f48e0d78f0ffa18d049dc5b5" afterPath="$PROJECT_DIR$/storage/framework/cache/d6/67/d6670647561aa458f48e0d78f0ffa18d049dc5b5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/dc/84/dc84d29d4535f5fb548bd20337df368cc0087b52" afterPath="$PROJECT_DIR$/storage/framework/cache/dc/84/dc84d29d4535f5fb548bd20337df368cc0087b52" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/e3/79/e37936b091628624990cffbf27904797330d02a9" afterPath="$PROJECT_DIR$/storage/framework/cache/e3/79/e37936b091628624990cffbf27904797330d02a9" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/e6/b2/e6b28dffaee36052c117d048c0790fb444aaab3b" afterPath="$PROJECT_DIR$/storage/framework/cache/e6/b2/e6b28dffaee36052c117d048c0790fb444aaab3b" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/e8/2b/e82b01395a74fa4ea0cf213e08c4052f20f8ca2c" afterPath="$PROJECT_DIR$/storage/framework/cache/e8/2b/e82b01395a74fa4ea0cf213e08c4052f20f8ca2c" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/f9/e5/f9e5168d279fd77a125fef3aa387927a81a19996" afterPath="$PROJECT_DIR$/storage/framework/cache/f9/e5/f9e5168d279fd77a125fef3aa387927a81a19996" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/classes.php" afterPath="$PROJECT_DIR$/storage/framework/classes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/services.php" afterPath="$PROJECT_DIR$/storage/framework/services.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/CTA.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/CTA.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column1.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column1.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column2.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column2.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column3.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column3.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column4.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column4.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/location.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/location.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/menus/mainmenu.yaml" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/menus/mainmenu.yaml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/static-pages.yaml" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/static-pages.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/search-events.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/search-events.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/event/topic_detail.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/event/topic_detail.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/footer/4-column.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/footer/4-column.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/nav.htm" afterPath="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/nav.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -165,33 +91,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="search-events.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/search-events.htm">
+      <file leaf-file-name="details.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/event/details.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="51" column="40" lean-forward="false" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="topic_detail.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="event-details.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event-details.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -200,68 +117,99 @@
       <file leaf-file-name="4-column.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/footer/4-column.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="748">
+              <caret line="44" column="71" lean-forward="false" selection-start-line="44" selection-start-column="71" selection-end-line="44" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getBlogCategories.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/getBlogCategories.htm">
+      <file leaf-file-name="CTA.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/CTA.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding>
+                <element signature="e#158#164#0" expanded="true" />
+                <element signature="e#165#171#0" expanded="true" />
+                <element signature="e#172#178#0" expanded="true" />
+                <element signature="e#242#248#0" expanded="true" />
+                <element signature="e#249#255#0" expanded="true" />
+                <element signature="e#256#262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/nav.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="62" column="15" lean-forward="false" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search-events.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/search-events.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sideMenu.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/sideMenu.htm">
+      <file leaf-file-name="column1.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column1.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="92" lean-forward="false" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/sidebar.htm">
+      <file leaf-file-name="column2.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column2.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog2.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog2.htm">
+      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/dongdm/registerpartner/components/register/default.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="205">
+              <caret line="52" column="69" lean-forward="false" selection-start-line="52" selection-start-column="69" selection-end-line="52" selection-end-column="69" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="column3.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column3.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog-homepage.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog-homepage.htm">
+      <file leaf-file-name="column4.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column4.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog3.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog3.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -281,10 +229,12 @@
     <findStrings>
       <find>btn btn-blue-grey</find>
       <find>Chương trình tham quan</find>
+      <find>actor</find>
     </findStrings>
     <replaceStrings>
       <replace>btn btn-blue</replace>
       <replace>{{content}}</replace>
+      <replace>form</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -293,27 +243,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/partner.html" />
-        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/partner.htm" />
-        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/footer/4-column.htm" />
-        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/tao-hoat-dong.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/menus/mainmenu.yaml" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/blog/1column.htm" />
-        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/css/list_group_horizotal.css" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/jumbotron.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/static-pages.yaml" />
-        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/nav.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.html" />
-        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/search-events.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/event-details/details.html" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/simpleScrollingNav.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/event-details/details.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/Edetails.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/details.htm.html" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/envent-details.htm" />
-        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.htm" />
         <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event-details.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/googlemap.html" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/googlemap.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/css/list_group_horizotal.css" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/search-events.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/details.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/form/regiter-info.html" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/create-event.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/event-details.htm" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/models/Events.php" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/controllers/Events.php" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/components/EventForm/default.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/create-event.htm" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/demo/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/october/event/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/october/event/components/EventForm.php" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/resgiterpartner/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/components/eventform/default.html" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/components/eventform/default.htm" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/components/EventForm.php" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/books.htm" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/event/Plugin.php" />
+        <option value="$PROJECT_DIR$/modules/cms/routes.php" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/registerpartner/components/register/default.html" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/registerpartner/Plugin.php" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/registerpartner/models/Form.php" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/location.htm" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/registerpartner/components/Register.php" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/event/topic_detail.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column3.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column2.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column4.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column1.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/footer/4-column.htm" />
+        <option value="$PROJECT_DIR$/plugins/dongdm/registerpartner/components/register/default.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/CTA.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/nav.htm" />
+        <option value="$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/search-events.htm" />
       </list>
     </option>
   </component>
@@ -326,9 +306,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-2" />
-    <option name="y" value="2" />
+    <option name="y" value="3" />
     <option name="width" value="1378" />
-    <option name="height" value="780" />
+    <option name="height" value="779" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -346,8 +326,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -358,6 +336,11 @@
             <path>
               <item name="octoberCMS" type="b2602c69:ProjectViewProjectNode" />
               <item name="octoberCMS" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="octoberCMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="octoberCMS" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -365,6 +348,28 @@
               <item name="octoberCMS" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="zanor-zanor-mdb-loaded" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="octoberCMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="octoberCMS" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zanor-zanor-mdb-loaded" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="octoberCMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="octoberCMS" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zanor-zanor-mdb-loaded" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="octoberCMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="octoberCMS" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zanor-zanor-mdb-loaded" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="event" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="octoberCMS" type="b2602c69:ProjectViewProjectNode" />
@@ -372,28 +377,30 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="zanor-zanor-mdb-loaded" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="octoberCMS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="octoberCMS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="zanor-zanor-mdb-loaded" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="footer" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../octoberCMSs" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\octoberCMS\plugins\october" />
+      <recent name="C:\xampp\htdocs\octoberCMS\plugins\dongdm" />
+      <recent name="C:\xampp\htdocs\octoberCMS\plugins\s" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\octoberCMS\themes\zanor-zanor-mdb-loaded\pages\event" />
       <recent name="C:\xampp\htdocs\octoberCMS\themes\zanor-zanor-mdb-loaded\content\event-details" />
       <recent name="C:\xampp\htdocs\octoberCMS\themes\zanor-zanor-mdb-loaded\assets\img\topic" />
     </key>
@@ -423,22 +430,30 @@
       <workItem from="1519900514795" duration="1862000" />
       <workItem from="1519908737349" duration="13877000" />
       <workItem from="1519959278897" duration="14781000" />
-      <workItem from="1519997271192" duration="2728000" />
+      <workItem from="1519997271192" duration="13361000" />
+      <workItem from="1520044519946" duration="1667000" />
+      <workItem from="1520069903179" duration="768000" />
+      <workItem from="1520086920398" duration="5608000" />
+      <workItem from="1520147234784" duration="9708000" />
+      <workItem from="1520308767085" duration="4155000" />
+      <workItem from="1520320788929" duration="2385000" />
+      <workItem from="1520331254824" duration="2170000" />
+      <workItem from="1520341076952" duration="11823000" />
+      <workItem from="1520408971618" duration="8528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33248000" />
+    <option name="totallyTimeSpent" value="90693000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="2" width="1378" height="780" extended-state="0" />
-    <editor active="true" />
+    <frame x="-2" y="3" width="1378" height="779" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26100153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30500758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -467,302 +482,63 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/overlays/06.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/../laravel/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/overlays/07.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/overlays/08.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/overlays/09.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/overlays/01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/lightbox/default-skin.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/lightbox/default-skin.svg">
+    <entry file="file://$PROJECT_DIR$/plugins/s/movies/lang/en/lang.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/test/movies/components/actorform/default.htm" />
+    <entry file="file://$PROJECT_DIR$/plugins/october/demo/components/todo/default.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/img/lightbox/preloader.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/dashboard-icon.svg">
+    <entry file="file://$PROJECT_DIR$/plugins/test/movies/Plugin.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/test/movies/components/actors/default.htm" />
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/create-event.htm" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/models/Events.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/pages/Plugin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/favicon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/october-logo.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cms/assets/images/default-theme-preview.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cms/assets/images/cms-icon.svg">
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Container/Container.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/treeview-icons.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/treeview-submenu-tabs.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/backend/assets/images/october-logo-text.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/images/theme-preview.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/assets/images/subject.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/app/media/topic/subject.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/menus/mainmenu.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/meta/static-pages.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/blog/pagination.htm">
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/resgiterpartner/components/EventForm.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/demo/updates/version.yaml" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/demo/Plugin.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/october/event/lang/en/lang.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/october/demo/Plugin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/post.htm">
+    <entry file="file://$PROJECT_DIR$/plugins/october/event/components/EventForm.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/october/event/Plugin.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/resgiterpartner/Plugin.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/components/eventform/default.html" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/components/eventform/default.htm" />
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/books.htm" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/components/EventForm.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/event/Plugin.php" />
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/create-event.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/blog/1column.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/blogCategories/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/blog/post.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-253">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/simpleNav.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/simpleScrollingNav.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="95" lean-forward="false" selection-start-line="24" selection-start-column="95" selection-end-line="24" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/head.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/footer.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/event-details/Edetails.htm" />
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/static-pages/test.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/nav.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="24" lean-forward="false" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/event-details/details.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/Edetails.htm" />
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column1.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/layouts/jumbotron.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="48" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/envent-details.htm" />
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/details.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/topic/topic_detail.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/search-events.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="40" lean-forward="false" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog-homepage.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog2.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/blog3.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event-details.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/footer/4-column.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -770,11 +546,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/sideMenu.htm">
+    <entry file="file://$PROJECT_DIR$/modules/cms/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -782,10 +557,212 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/sidebar.htm">
+    <entry file="file://$PROJECT_DIR$/modules/cms/ServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/october/demo/components/Todo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#42#72#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/components/Categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/event-details/details.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/registerpartner/components/register/default.html" />
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/registerpartner/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/registerpartner/models/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/head.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/registerpartner/components/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="75" column="64" lean-forward="false" selection-start-line="75" selection-start-column="64" selection-end-line="75" selection-end-column="64" />
+          <folding>
+            <element signature="e#140#170#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/register-partner.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/googlemap/location.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="50" lean-forward="false" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/event/topic_detail.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="150" column="75" lean-forward="false" selection-start-line="150" selection-start-column="75" selection-end-line="150" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/event-details.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/form/register-info.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column3.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column2.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column4.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/column1.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="92" lean-forward="false" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dongdm/registerpartner/components/register/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="52" column="69" lean-forward="false" selection-start-line="52" selection-start-column="69" selection-end-line="52" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/footer/4-column.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="71" lean-forward="false" selection-start-line="44" selection-start-column="71" selection-end-line="44" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/content/footer/CTA.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#158#164#0" expanded="true" />
+            <element signature="e#165#171#0" expanded="true" />
+            <element signature="e#172#178#0" expanded="true" />
+            <element signature="e#242#248#0" expanded="true" />
+            <element signature="e#249#255#0" expanded="true" />
+            <element signature="e#256#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/event/details.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/partials/site/nav.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="62" column="15" lean-forward="false" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/zanor-zanor-mdb-loaded/pages/event/search-events.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>

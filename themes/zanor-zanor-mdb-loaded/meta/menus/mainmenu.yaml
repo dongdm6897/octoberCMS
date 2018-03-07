@@ -14,80 +14,36 @@ items:
             cssClass: ''
             isExternal: '0'
     -
-        title: 'Blog Pages'
+        title: 'Tìm kiếm'
         nesting: ''
         type: cms-page
         url: ''
         code: ''
-        reference: blog-homepage
+        reference: event/search-events
         cmsPage: ''
         replace: ''
         viewBag:
             isHidden: '0'
             cssClass: ''
             isExternal: '0'
-        items:
-            -
-                title: 'Blog Homepage'
-                nesting: ''
-                type: cms-page
-                url: ''
-                code: ''
-                reference: blog-homepage
-                cmsPage: ''
-                replace: ''
-                viewBag:
-                    isHidden: '0'
-                    cssClass: ''
-                    isExternal: '0'
-            -
-                title: '1 Column'
-                nesting: ''
-                type: cms-page
-                url: ''
-                code: ''
-                reference: blog
-                cmsPage: ''
-                replace: ''
-                viewBag:
-                    isHidden: '0'
-                    cssClass: ''
-                    isExternal: '0'
-            -
-                title: '2 Column'
-                nesting: ''
-                type: cms-page
-                url: ''
-                code: ''
-                reference: blog2
-                cmsPage: ''
-                replace: ''
-                viewBag:
-                    isHidden: '0'
-                    cssClass: ''
-                    isExternal: '0'
-            -
-                title: '3 Column'
-                nesting: ''
-                type: cms-page
-                url: ''
-                code: ''
-                reference: blog3
-                cmsPage: ''
-                replace: ''
-                viewBag:
-                    isHidden: '0'
-                    cssClass: ''
-                    isExternal: '0'
     -
-        title: 'Tìm Kiếm Hoạt Động'
+        title: RegisterPartner
         nesting: ''
         type: cms-page
         url: ''
         code: ''
-        reference: search-events
+        reference: register-partner
         cmsPage: ''
         replace: ''
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Blog
+        type: cms-page
+        code: ''
+        reference: blog-homepage
         viewBag:
             isHidden: '0'
             cssClass: ''

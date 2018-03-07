@@ -16,6 +16,6 @@
     border-bottom-left-radius:0;
     border-right-width: 1px;
 }
-hr{
+.hr-red{
     border-top: 1px solid red;
 }

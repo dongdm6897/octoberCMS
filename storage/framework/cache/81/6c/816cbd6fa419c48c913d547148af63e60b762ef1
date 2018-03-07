@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520432971a:1:{s:13:"noSidebar.htm";a:7:{s:8:"fileName";s:13:"noSidebar.htm";s:7:"content";s:212:"description = "No Sidebar"
+=======
+1520418064a:1:{s:13:"noSidebar.htm";a:7:{s:8:"fileName";s:13:"noSidebar.htm";s:7:"content";s:212:"description = "No Sidebar"
+>>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
 
 [staticPage]
 useContent = 1

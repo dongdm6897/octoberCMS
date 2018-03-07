@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520432008a:1:{s:24:"site/scrollingNavbar.htm";a:8:{s:8:"fileName";s:24:"site/scrollingNavbar.htm";s:7:"content";s:2294:"description = "Scrolling Nav with Dropdown"
+=======
+1520417763a:1:{s:24:"site/scrollingNavbar.htm";a:8:{s:8:"fileName";s:24:"site/scrollingNavbar.htm";s:7:"content";s:2294:"description = "Scrolling Nav with Dropdown"
+>>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
 
 [viewBag]
 
