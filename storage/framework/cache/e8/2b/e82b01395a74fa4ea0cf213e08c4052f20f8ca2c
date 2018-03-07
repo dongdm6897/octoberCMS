@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-1520432971a:1:{s:18:"footer/column3.htm";a:6:{s:8:"fileName";s:18:"footer/column3.htm";s:7:"content";s:272:"<h5 class="title mb-3"><strong>Column Three</strong></h5>
-=======
-1520418039a:1:{s:18:"footer/column3.htm";a:6:{s:8:"fileName";s:18:"footer/column3.htm";s:7:"content";s:252:"<h5 class="title mb-3"><strong>Chính sách</strong></h5>
->>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
+1520433395a:1:{s:18:"footer/column3.htm";a:6:{s:8:"fileName";s:18:"footer/column3.htm";s:7:"content";s:266:"<h5 class="title mb-3"><strong>Chính sách</strong></h5>
 <ul>
     <li>
         <a href="#!">1</a>
@@ -16,11 +12,7 @@
     <li>
         <a href="#!">4</a>
     </li>
-<<<<<<< HEAD
-</ul>";s:5:"mtime";i:1519923932;s:6:"markup";s:272:"<h5 class="title mb-3"><strong>Column Three</strong></h5>
-=======
-</ul>";s:5:"mtime";i:1520414348;s:6:"markup";s:252:"<h5 class="title mb-3"><strong>Chính sách</strong></h5>
->>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
+</ul>";s:5:"mtime";i:1520432464;s:6:"markup";s:266:"<h5 class="title mb-3"><strong>Chính sách</strong></h5>
 <ul>
     <li>
         <a href="#!">1</a>
@@ -34,7 +26,7 @@
     <li>
         <a href="#!">4</a>
     </li>
-</ul>";s:4:"code";N;s:12:"parsedMarkup";s:252:"<h5 class="title mb-3"><strong>Chính sách</strong></h5>
+</ul>";s:4:"code";N;s:12:"parsedMarkup";s:266:"<h5 class="title mb-3"><strong>Chính sách</strong></h5>
 <ul>
     <li>
         <a href="#!">1</a>

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-1520432971a:1:{s:19:"footer/4-column.htm";a:7:{s:8:"fileName";s:19:"footer/4-column.htm";s:7:"content";s:1516:"description = "4 Column Footer"
-=======
-1520418063a:1:{s:19:"footer/4-column.htm";a:7:{s:8:"fileName";s:19:"footer/4-column.htm";s:7:"content";s:1472:"description = "4 Column Footer"
->>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
+1520433395a:1:{s:19:"footer/4-column.htm";a:7:{s:8:"fileName";s:19:"footer/4-column.htm";s:7:"content";s:1523:"description = "4 Column Footer"
 
 [viewBag]
 ==
@@ -53,13 +49,8 @@
     <!--/.Copyright-->
 
 </footer>
-<<<<<<< HEAD
-<!--/.Footer-->";s:5:"mtime";i:1519923932;s:6:"markup";s:1470:"<!--Footer-->
-<footer class="page-footer center-on-small-only">
-=======
-<!--/.Footer-->";s:5:"mtime";i:1520414868;s:6:"markup";s:1426:"<!--Footer-->
+<!--/.Footer-->";s:5:"mtime";i:1520432464;s:6:"markup";s:1473:"<!--Footer-->
 <footer class="page-footer center-on-small-only stylish-color-dark">
->>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
 
     <!--Footer links-->
     <div class="container-fluid">

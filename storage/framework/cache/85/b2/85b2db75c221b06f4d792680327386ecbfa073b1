@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-1520432971a:1:{s:9:"blog3.htm";a:10:{s:8:"fileName";s:9:"blog3.htm";s:7:"content";s:399:"title = "Blog3"
-=======
-1520418063a:1:{s:9:"blog3.htm";a:10:{s:8:"fileName";s:9:"blog3.htm";s:7:"content";s:381:"title = "Blog3"
->>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
+1520433395a:1:{s:9:"blog3.htm";a:10:{s:8:"fileName";s:9:"blog3.htm";s:7:"content";s:399:"title = "Blog3"
 url = "/blog3/:category/:page?"
 layout = "noSidebar"
 is_hidden = 0
@@ -20,11 +16,7 @@ postPage = "post"
 
 {% partial 'blog/3column' %}
 
-<<<<<<< HEAD
 {% partial 'blog/pagination' %}";s:5:"mtime";i:1520431243;s:6:"markup";s:100:"{% set posts = blogPosts.posts %}
-=======
-{% partial 'blog/pagination' %}";s:5:"mtime";i:1519889065;s:6:"markup";s:96:"{% set posts = blogPosts.posts %}
->>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
 
 {% partial 'blog/3column' %}
 

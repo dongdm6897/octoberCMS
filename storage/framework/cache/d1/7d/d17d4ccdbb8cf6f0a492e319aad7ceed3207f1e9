@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-1520432971a:1:{s:14:"footer/CTA.htm";a:6:{s:8:"fileName";s:14:"footer/CTA.htm";s:7:"content";s:576:"<!--Call to action-->
-=======
-1520418039a:1:{s:14:"footer/CTA.htm";a:6:{s:8:"fileName";s:14:"footer/CTA.htm";s:7:"content";s:367:"<!--Call to action-->
->>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
+1520433395a:1:{s:14:"footer/CTA.htm";a:6:{s:8:"fileName";s:14:"footer/CTA.htm";s:7:"content";s:378:"<!--Call to action-->
 <div class="call-to-action">
     <h4 class="mb-5">Liên hệ với chúng tôi</h4>
 
@@ -13,11 +9,7 @@
             <i class="fa fa-envelope-open">ViFarms@web.com</i>
 
 </div>
-<<<<<<< HEAD
-<!--/.Call to action-->";s:5:"mtime";i:1519923932;s:6:"markup";s:576:"<!--Call to action-->
-=======
-<!--/.Call to action-->";s:5:"mtime";i:1520415780;s:6:"markup";s:367:"<!--Call to action-->
->>>>>>> 9a44dc2ebae5a9058dec355166ca6586c2306a5f
+<!--/.Call to action-->";s:5:"mtime";i:1520432464;s:6:"markup";s:378:"<!--Call to action-->
 <div class="call-to-action">
     <h4 class="mb-5">Liên hệ với chúng tôi</h4>
 
@@ -28,7 +20,7 @@
             <i class="fa fa-envelope-open">ViFarms@web.com</i>
 
 </div>
-<!--/.Call to action-->";s:4:"code";N;s:12:"parsedMarkup";s:367:"<!--Call to action-->
+<!--/.Call to action-->";s:4:"code";N;s:12:"parsedMarkup";s:378:"<!--Call to action-->
 <div class="call-to-action">
     <h4 class="mb-5">Liên hệ với chúng tôi</h4>
 
