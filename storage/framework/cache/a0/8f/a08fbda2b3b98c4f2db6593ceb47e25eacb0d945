@@ -1,15 +1,7 @@
-<<<<<<< HEAD
-1520589649a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:101:"[viewBag]
-=======
-1520592508a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:107:"[viewBag]
->>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
+1520596721a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:107:"[viewBag]
 title = "Trang Chủ"
 url = "/"
 layout = "jumbotron"
 is_hidden = 0
 navigation_hidden = 0
-<<<<<<< HEAD
-==";s:5:"mtime";i:1520445836;s:6:"markup";s:0:"";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:11:"Trang Chủ";s:3:"url";s:1:"/";s:6:"layout";s:9:"jumbotron";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:0:"";}}
-=======
-==";s:5:"mtime";i:1520528624;s:6:"markup";s:0:"";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:11:"Trang Chủ";s:3:"url";s:1:"/";s:6:"layout";s:9:"jumbotron";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:0:"";}}
->>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
+==";s:5:"mtime";i:1520596023;s:6:"markup";s:0:"";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:11:"Trang Chủ";s:3:"url";s:1:"/";s:6:"layout";s:9:"jumbotron";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:0:"";}}

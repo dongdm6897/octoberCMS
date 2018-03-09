@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-1520589649a:1:{s:19:"blog/pagination.htm";a:7:{s:8:"fileName";s:19:"blog/pagination.htm";s:7:"content";s:1387:"description = "Blog Pagination"
-=======
-1520592508a:1:{s:19:"blog/pagination.htm";a:7:{s:8:"fileName";s:19:"blog/pagination.htm";s:7:"content";s:1419:"description = "Blog Pagination"
->>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
+1520596721a:1:{s:19:"blog/pagination.htm";a:7:{s:8:"fileName";s:19:"blog/pagination.htm";s:7:"content";s:1387:"description = "Blog Pagination"
 
 [viewBag]
 ==
@@ -34,11 +30,7 @@
             {% endif %}
         </ul>
     </nav>
-<<<<<<< HEAD
 {% endif %}";s:5:"mtime";i:1520445836;s:6:"markup";s:1341:"{% if posts.lastPage > 1 %}
-=======
-{% endif %}";s:5:"mtime";i:1520526730;s:6:"markup";s:1369:"{% if posts.lastPage > 1 %}
->>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
     <nav class="my-4 d-flex justify-content-center wow fadeIn" data-wow-delay="0.2s">
         <ul class="pagination">
             {% if posts.currentPage > 1 %}

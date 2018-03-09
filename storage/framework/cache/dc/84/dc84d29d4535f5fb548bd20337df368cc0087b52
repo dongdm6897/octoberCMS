@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-1520589649a:1:{s:22:"form/register-info.htm";a:6:{s:8:"fileName";s:22:"form/register-info.htm";s:7:"content";s:12:"[viewBag]
-==";s:5:"mtime";i:1520445836;s:6:"markup";s:0:"";s:4:"code";N;s:7:"viewBag";a:0:{}}}
-=======
-1520592508a:1:{s:22:"form/register-info.htm";a:6:{s:8:"fileName";s:22:"form/register-info.htm";s:7:"content";s:13:"[viewBag]
-==";s:5:"mtime";i:1520528624;s:6:"markup";s:0:"";s:4:"code";N;s:7:"viewBag";a:0:{}}}
->>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
+1520596721a:1:{s:22:"form/register-info.htm";a:6:{s:8:"fileName";s:22:"form/register-info.htm";s:7:"content";s:13:"[viewBag]
+==";s:5:"mtime";i:1520596023;s:6:"markup";s:0:"";s:4:"code";N;s:7:"viewBag";a:0:{}}}

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-1520589649a:1:{s:13:"jumbotron.htm";a:7:{s:8:"fileName";s:13:"jumbotron.htm";s:7:"content";s:9313:"description = "Jumbotron"
-=======
-1520592508a:1:{s:13:"jumbotron.htm";a:7:{s:8:"fileName";s:13:"jumbotron.htm";s:7:"content";s:9562:"description = "Jumbotron"
->>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
+1520596721a:1:{s:13:"jumbotron.htm";a:7:{s:8:"fileName";s:13:"jumbotron.htm";s:7:"content";s:9313:"description = "Jumbotron"
 
 [staticPage]
 useContent = 1
@@ -251,11 +247,7 @@ function onStart()
     <!--/.Main layout-->
 </main>
 
-<<<<<<< HEAD
 {% partial 'site/footer' %}";s:5:"mtime";i:1520445836;s:6:"markup";s:9161:"{% partial 'site/head' %}
-=======
-{% partial 'site/footer' %}";s:5:"mtime";i:1520526730;s:6:"markup";s:9397:"{% partial 'site/head' %}
->>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 {% partial 'site/nav' %}
 
 <main>
@@ -491,7 +483,7 @@ function onStart()
     <!--/.Main layout-->
 </main>
 
-{% partial 'site/footer' %}";s:4:"code";s:72:"function onStart()
+{% partial 'site/footer' %}";s:4:"code";s:69:"function onStart()
 {
     $this->addCss('assets/css/jumbotron.css');
 }";s:11:"description";s:9:"Jumbotron";s:10:"staticPage";a:2:{s:10:"useContent";s:1:"1";s:7:"default";s:1:"0";}}}
