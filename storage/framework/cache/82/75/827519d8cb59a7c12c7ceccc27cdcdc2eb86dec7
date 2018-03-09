@@ -1,4 +1,4 @@
-1520418064a:1:{s:22:"googlemap/location.htm";a:6:{s:8:"fileName";s:22:"googlemap/location.htm";s:7:"content";s:562:"
+1520590203a:1:{s:22:"googlemap/location.htm";a:6:{s:8:"fileName";s:22:"googlemap/location.htm";s:7:"content";s:541:"
 <div class="container">
     <div id="map" style="width: 100%;height: {he}%"></div>
 
@@ -19,7 +19,7 @@
 </div>
 
 <br>
-<hr class="hr-red">";s:5:"mtime";i:1520413119;s:6:"markup";s:560:"<div class="container">
+<hr class="hr-red">";s:5:"mtime";i:1520445836;s:6:"markup";s:540:"<div class="container">
     <div id="map" style="width: 100%;height: {he}%"></div>
 
     <script>
@@ -39,7 +39,7 @@
 </div>
 
 <br>
-<hr class="hr-red">";s:4:"code";N;s:12:"parsedMarkup";s:560:"<div class="container">
+<hr class="hr-red">";s:4:"code";N;s:12:"parsedMarkup";s:540:"<div class="container">
     <div id="map" style="width: 100%;height: {he}%"></div>
 
     <script>

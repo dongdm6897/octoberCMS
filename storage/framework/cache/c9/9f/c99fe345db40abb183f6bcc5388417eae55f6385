@@ -1,4 +1,4 @@
-1520418186a:1:{s:23:"event/search-events.htm";a:9:{s:8:"fileName";s:23:"event/search-events.htm";s:7:"content";s:1158:"title = "Search Events"
+1520589649a:1:{s:23:"event/search-events.htm";a:9:{s:8:"fileName";s:23:"event/search-events.htm";s:7:"content";s:1122:"title = "Search Events"
 url = "/search-events"
 layout = "noSidebar"
 is_hidden = 0
@@ -34,7 +34,7 @@ function onStart()
 
     <!--Card-->
         {% partial 'event/topic_detail' %}
-</main>";s:5:"mtime";i:1520417584;s:6:"markup";s:968:"<main>
+</main>";s:5:"mtime";i:1520445836;s:6:"markup";s:944:"<main>
     <form class="form-inline">
         <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success btn-sm my-0" type="submit">Search</button>
@@ -58,7 +58,7 @@ function onStart()
 
     <!--Card-->
         {% partial 'event/topic_detail' %}
-</main>";s:4:"code";s:83:"function onStart()
+</main>";s:4:"code";s:80:"function onStart()
 {
     $this->addCss('assets/css/list_group_horizotal.css');
 }";s:5:"title";s:13:"Search Events";s:3:"url";s:14:"/search-events";s:6:"layout";s:9:"noSidebar";s:9:"is_hidden";s:1:"0";}}

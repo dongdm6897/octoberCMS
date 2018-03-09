@@ -1,4 +1,4 @@
-1520418063a:1:{s:13:"site/head.htm";a:7:{s:8:"fileName";s:13:"site/head.htm";s:7:"content";s:627:"description = "Head"
+1520589649a:1:{s:13:"site/head.htm";a:7:{s:8:"fileName";s:13:"site/head.htm";s:7:"content";s:938:"description = "Head"
 
 [viewBag]
 ==
@@ -7,6 +7,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="google-signin-client_id" content="99613043205-6fen8km2e2b77ft7erj7t68m2emijmfg.apps.googleusercontent.com">
+        <script src="https://apis.google.com/js/platform.js" async defer></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     
     <title>{{ this.page.title }}</title>
 
@@ -16,16 +19,20 @@
     <link href="{{ [
         'assets/css/bootstrap.min.css',
         'assets/css/mdb.min.css',
-        'assets/css/style.css',
+        'assets/css/style.css'
+       
     ]|theme }}" rel="stylesheet">
     
     {% styles %}
 </head>
-<body>";s:5:"mtime";i:1519889065;s:6:"markup";s:592:"<html lang="en">
+<body>";s:5:"mtime";i:1520445836;s:6:"markup";s:903:"<html lang="en">
 <head>  
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="google-signin-client_id" content="99613043205-6fen8km2e2b77ft7erj7t68m2emijmfg.apps.googleusercontent.com">
+        <script src="https://apis.google.com/js/platform.js" async defer></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     
     <title>{{ this.page.title }}</title>
 
@@ -35,7 +42,8 @@
     <link href="{{ [
         'assets/css/bootstrap.min.css',
         'assets/css/mdb.min.css',
-        'assets/css/style.css',
+        'assets/css/style.css'
+       
     ]|theme }}" rel="stylesheet">
     
     {% styles %}

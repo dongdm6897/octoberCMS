@@ -132,7 +132,7 @@ class __TwigTemplate_bc2d344962152c79493648d0aa2c7e97b72c83e6777f463c7de4965c99a
 
         <!-- Search form -->
        <div>
-           <a href=\"\" style=\"color: white;text-decoration: none\">Đăng nhập/Đăng ký</a>
+           <a href=\"/octoberCMS/login\" style=\"color: white;text-decoration: none\">Đăng nhập/Đăng ký</a>
            <br>
            <br>
            <br>
@@ -211,7 +211,7 @@ class __TwigTemplate_bc2d344962152c79493648d0aa2c7e97b72c83e6777f463c7de4965c99a
 
         <!-- Search form -->
        <div>
-           <a href=\"\" style=\"color: white;text-decoration: none\">Đăng nhập/Đăng ký</a>
+           <a href=\"/octoberCMS/login\" style=\"color: white;text-decoration: none\">Đăng nhập/Đăng ký</a>
            <br>
            <br>
            <br>
