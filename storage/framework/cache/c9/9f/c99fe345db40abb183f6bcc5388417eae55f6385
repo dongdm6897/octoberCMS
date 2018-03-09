@@ -1,4 +1,4 @@
-1520446103a:1:{s:23:"event/search-events.htm";a:9:{s:8:"fileName";s:23:"event/search-events.htm";s:7:"content";s:1158:"title = "Search Events"
+1520592508a:1:{s:23:"event/search-events.htm";a:9:{s:8:"fileName";s:23:"event/search-events.htm";s:7:"content";s:1158:"title = "Search Events"
 url = "/search-events"
 layout = "noSidebar"
 is_hidden = 0
@@ -34,7 +34,7 @@ function onStart()
 
     <!--Card-->
         {% partial 'event/topic_detail' %}
-</main>";s:5:"mtime";i:1520437756;s:6:"markup";s:968:"<main>
+</main>";s:5:"mtime";i:1520528624;s:6:"markup";s:968:"<main>
     <form class="form-inline">
         <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success btn-sm my-0" type="submit">Search</button>

@@ -1,4 +1,4 @@
-1520446103a:1:{s:22:"event/create-event.htm";a:9:{s:8:"fileName";s:22:"event/create-event.htm";s:7:"content";s:363:"title = "create-event"
+1520592508a:1:{s:22:"event/create-event.htm";a:9:{s:8:"fileName";s:22:"event/create-event.htm";s:7:"content";s:363:"title = "create-event"
 url = "/create-event"
 layout = "noSidebar"
 is_hidden = 0
@@ -10,7 +10,7 @@ is_hidden = 0
                     <img class="img-fluid" alt="Quy trình" src="/octoberCMS/storage/app/media/topic/create_event.png">
                 </div>
         </div>
-</main>";s:5:"mtime";i:1520437756;s:6:"markup";s:275:"<main>
+</main>";s:5:"mtime";i:1520528624;s:6:"markup";s:275:"<main>
         <div class="container">
             <!--quy trình-->
                 <div class="row">

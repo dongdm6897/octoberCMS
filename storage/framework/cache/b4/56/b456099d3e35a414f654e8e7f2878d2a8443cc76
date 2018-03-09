@@ -1,4 +1,4 @@
-1520446103a:1:{s:18:"site/simpleNav.htm";a:8:{s:8:"fileName";s:18:"site/simpleNav.htm";s:7:"content";s:1438:"description = "Simple Nav - No Dropdown"
+1520592508a:1:{s:18:"site/simpleNav.htm";a:8:{s:8:"fileName";s:18:"site/simpleNav.htm";s:7:"content";s:1478:"description = "Simple Nav - No Dropdown"
 
 [viewBag]
 
@@ -38,7 +38,7 @@ code = "mainmenu"
     <!-- Collapsible content -->
 
 </nav>
-<!--/.Navbar-->";s:5:"mtime";i:1520155968;s:6:"markup";s:1351:"<!--Navbar-->
+<!--/.Navbar-->";s:5:"mtime";i:1520526730;s:6:"markup";s:1384:"<!--Navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark nav-blue">
 
     <!-- Navbar brand -->
