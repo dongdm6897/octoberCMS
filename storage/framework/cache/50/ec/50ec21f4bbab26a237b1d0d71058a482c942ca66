@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520589649a:1:{s:17:"event/details.htm";a:5:{s:8:"fileName";s:17:"event/details.htm";s:7:"content";s:2951:"
+=======
+1520592508a:1:{s:17:"event/details.htm";a:5:{s:8:"fileName";s:17:"event/details.htm";s:7:"content";s:3032:"
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 {% set imgTest = '/octoberCMS/storage/app/media/topic/'~'test.png' %}
 {% set arrayImg = ['/octoberCMS/storage/app/media/topic/test1.png','/octoberCMS/storage/app/media/topic/test1.png','/octoberCMS/storage/app/media/topic/test1.png'] %}
 {% set icon_cor = '/octoberCMS/storage/app/media/topic/icon_cor.png' %}
@@ -79,7 +83,11 @@
         </div>
 
     </div>
+<<<<<<< HEAD
 </main>";s:5:"mtime";i:1520445836;s:6:"markup";s:2950:"{% set imgTest = '/octoberCMS/storage/app/media/topic/'~'test.png' %}
+=======
+</main>";s:5:"mtime";i:1520528624;s:6:"markup";s:3030:"{% set imgTest = '/octoberCMS/storage/app/media/topic/'~'test.png' %}
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 {% set arrayImg = ['/octoberCMS/storage/app/media/topic/test1.png','/octoberCMS/storage/app/media/topic/test1.png','/octoberCMS/storage/app/media/topic/test1.png'] %}
 {% set icon_cor = '/octoberCMS/storage/app/media/topic/icon_cor.png' %}
 

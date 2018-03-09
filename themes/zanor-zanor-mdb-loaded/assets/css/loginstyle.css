@@ -2,26 +2,42 @@
   box-sizing: border-box;
 }
 
+<<<<<<< HEAD
 html, body {
   height: 100%;
   width: 100%;
   overflow: hidden;
 }
+=======
+
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 
 .container-login {
   padding: 1px 0;
   height: 100%;
   width: 100%;
+<<<<<<< HEAD
   background-image: url("https://images8.alphacoders.com/361/thumb-1920-361036.jpg");
+=======
+  background-image: url(" https://images8.alphacoders.com/361/thumb-1920-361036.jpg");
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
   background-size: cover;
   color: #fff;
   font-family: "Comfortaa", "Helvetica", sans-serif;
 }
 
 .login {
+<<<<<<< HEAD
   max-width: 20%;
   min-height: 75%;
   margin: 30px auto;
+=======
+ 
+  max-width: 70%;
+  min-height: 70%;
+
+  
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
   background-color: rgba(10,10,10,.68);
 }
 
@@ -33,6 +49,10 @@ html, body {
 
 .login-icon {
   margin: 50px 65px;
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 }
 
 .login-form {
@@ -49,16 +69,25 @@ html, body {
 }
 
 
+<<<<<<< HEAD
 .row {
   display: block;
 }
+=======
+
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 
 .username-row {
   position: relative;
   height: 40px;
   /*background-color: pink;*/
   border-bottom: 1px solid;
+<<<<<<< HEAD
   margin-bottom: 10px;
+=======
+  margin-bottom: 15px;
+ 
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 }
 
 .password-row {
@@ -96,7 +125,11 @@ input {
   position: absolute;
   width: 195px;
   height: 30px;
+<<<<<<< HEAD
   margin: 5px 0;
+=======
+  margin: 5px 35px  ;
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
   background: transparent;
   border: none;
 }
@@ -118,7 +151,11 @@ input::-moz-placeholder {
   margin: 22px 0;
   height: 130px;
   width: 100%;
+<<<<<<< HEAD
   /*background-color: blue;*/
+=======
+  /*background-color: blue; */
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 }
 .fb-login{
     margin-left: 10%;

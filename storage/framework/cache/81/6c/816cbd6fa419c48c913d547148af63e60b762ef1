@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520590203a:1:{s:13:"noSidebar.htm";a:7:{s:8:"fileName";s:13:"noSidebar.htm";s:7:"content";s:212:"description = "No Sidebar"
+=======
+1520591096a:1:{s:13:"noSidebar.htm";a:7:{s:8:"fileName";s:13:"noSidebar.htm";s:7:"content";s:227:"description = "No Sidebar"
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 
 [staticPage]
 useContent = 1
@@ -13,7 +17,11 @@ default = 0
     
 </div>
 
+<<<<<<< HEAD
 {% partial 'site/footer' %}";s:5:"mtime";i:1520445836;s:6:"markup";s:141:"{% partial 'site/head' %}
+=======
+{% partial 'site/footer' %}";s:5:"mtime";i:1520526730;s:6:"markup";s:150:"{% partial 'site/head' %}
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 {% partial 'site/nav' %}
 
 <div class="container py-5">

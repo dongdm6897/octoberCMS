@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520589649a:1:{s:26:"blogCategories/default.htm";a:7:{s:8:"fileName";s:26:"blogCategories/default.htm";s:7:"content";s:874:"description = "Blog Categories"
+=======
+1520592508a:1:{s:26:"blogCategories/default.htm";a:7:{s:8:"fileName";s:26:"blogCategories/default.htm";s:7:"content";s:897:"description = "Blog Categories"
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 
 [viewBag]
 ==
@@ -21,7 +25,11 @@
         {% endfor %}
     </div>
 </div>
+<<<<<<< HEAD
 {% endif %}";s:5:"mtime";i:1520445836;s:6:"markup";s:828:"{% if __SELF__.categories %}
+=======
+{% endif %}";s:5:"mtime";i:1520526730;s:6:"markup";s:847:"{% if __SELF__.categories %}
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 <div class="widget-wrapper wow fadeIn" data-wow-delay="0.4s">
     <h4 class="font-bold dark-grey-text">Categories:</h4>
     <br>

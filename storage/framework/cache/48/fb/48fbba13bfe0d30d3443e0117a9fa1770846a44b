@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520589649a:1:{s:12:"site/nav.htm";a:8:{s:8:"fileName";s:12:"site/nav.htm";s:7:"content";s:2424:"description = "Nav with Dropdown"
+=======
+1520592508a:1:{s:12:"site/nav.htm";a:8:{s:8:"fileName";s:12:"site/nav.htm";s:7:"content";s:2492:"description = "Nav with Dropdown"
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 
 [viewBag]
 
@@ -66,7 +70,11 @@ code = "mainmenu"
     <!-- Collapsible content -->
 
 </nav>
+<<<<<<< HEAD
 <!--/.Navbar-->";s:5:"mtime";i:1520445836;s:6:"markup";s:2342:"<!--Navbar-->
+=======
+<!--/.Navbar-->";s:5:"mtime";i:1520528624;s:6:"markup";s:2401:"<!--Navbar-->
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 <nav class="navbar navbar-expand-lg navbar-dark bg-green">
 
     <!-- Navbar brand -->

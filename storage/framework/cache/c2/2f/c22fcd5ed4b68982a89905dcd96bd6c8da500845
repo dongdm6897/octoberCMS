@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520589649a:1:{s:16:"blog/1column.htm";a:7:{s:8:"fileName";s:16:"blog/1column.htm";s:7:"content";s:1082:"description = "1 Column Blog"
+=======
+1520592508a:1:{s:16:"blog/1column.htm";a:7:{s:8:"fileName";s:16:"blog/1column.htm";s:7:"content";s:1113:"description = "1 Column Blog"
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 
 [viewBag]
 ==
@@ -29,7 +33,11 @@
     </div>
     <!--/.Post excerpt-->
 </div>
+<<<<<<< HEAD
 {% endfor %}";s:5:"mtime";i:1520445836;s:6:"markup";s:1038:"{% for post in posts %}
+=======
+{% endfor %}";s:5:"mtime";i:1520526730;s:6:"markup";s:1065:"{% for post in posts %}
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 <div class="row mt-5 wow fadeIn" data-wow-delay="0.2s">
     <!--Featured image-->
     {% set image = post.featured_images.first %}

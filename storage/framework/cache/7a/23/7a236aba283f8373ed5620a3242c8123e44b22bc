@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520589649a:1:{s:11:"sidebar.htm";a:7:{s:8:"fileName";s:11:"sidebar.htm";s:7:"content";s:328:"description = "The Sidebar"
+=======
+1520592508a:1:{s:11:"sidebar.htm";a:7:{s:8:"fileName";s:11:"sidebar.htm";s:7:"content";s:342:"description = "The Sidebar"
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 
 [viewBag]
 ==
@@ -12,7 +16,11 @@
     {# Other side bar components #}
     {# can be added here as well #}
     {# Add as many as you like #}
+<<<<<<< HEAD
 </div>";s:5:"mtime";i:1520445836;s:6:"markup";s:286:"<div id="sidebar" class="p-2">
+=======
+</div>";s:5:"mtime";i:1520526730;s:6:"markup";s:296:"<div id="sidebar" class="p-2">
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
     {% if this.page.id == 'post' %}
         {% partial 'getBlogCategories' %}
     {% else %}

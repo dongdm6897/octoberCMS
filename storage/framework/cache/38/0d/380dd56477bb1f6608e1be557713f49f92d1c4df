@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520589649a:1:{s:18:"footer/column2.htm";a:6:{s:8:"fileName";s:18:"footer/column2.htm";s:7:"content";s:256:"<h5 class="title mb-3"><strong>Về chúng tôi</strong></h5>
+=======
+1520592508a:1:{s:18:"footer/column2.htm";a:6:{s:8:"fileName";s:18:"footer/column2.htm";s:7:"content";s:270:"<h5 class="title mb-3"><strong>Về chúng tôi</strong></h5>
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 <ul>
     <li>
         <a href="#!">1</a>
@@ -12,7 +16,11 @@
     <li>
         <a href="#!">4</a>
     </li>
+<<<<<<< HEAD
 </ul>";s:5:"mtime";i:1520445836;s:6:"markup";s:256:"<h5 class="title mb-3"><strong>Về chúng tôi</strong></h5>
+=======
+</ul>";s:5:"mtime";i:1520528624;s:6:"markup";s:270:"<h5 class="title mb-3"><strong>Về chúng tôi</strong></h5>
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 <ul>
     <li>
         <a href="#!">1</a>
@@ -26,7 +34,7 @@
     <li>
         <a href="#!">4</a>
     </li>
-</ul>";s:4:"code";N;s:12:"parsedMarkup";s:256:"<h5 class="title mb-3"><strong>Về chúng tôi</strong></h5>
+</ul>";s:4:"code";N;s:12:"parsedMarkup";s:270:"<h5 class="title mb-3"><strong>Về chúng tôi</strong></h5>
 <ul>
     <li>
         <a href="#!">1</a>

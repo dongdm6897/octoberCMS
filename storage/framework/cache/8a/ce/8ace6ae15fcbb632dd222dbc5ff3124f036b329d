@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520589649a:1:{s:22:"event/topic_detail.htm";a:5:{s:8:"fileName";s:22:"event/topic_detail.htm";s:7:"content";s:6652:"
+=======
+1520592508a:1:{s:22:"event/topic_detail.htm";a:5:{s:8:"fileName";s:22:"event/topic_detail.htm";s:7:"content";s:6853:"
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 {% set imgTest = '/octoberCMS/storage/app/media/topic/subject.png' %}
 {% set content = 'This is Content' %}
 
@@ -199,7 +203,11 @@
     </div>
     <!--/Pagination dark grey-->
 </div>
+<<<<<<< HEAD
 ";s:5:"mtime";i:1520445836;s:6:"markup";s:6650:"{% set imgTest = '/octoberCMS/storage/app/media/topic/subject.png' %}
+=======
+";s:5:"mtime";i:1520528624;s:6:"markup";s:6849:"{% set imgTest = '/octoberCMS/storage/app/media/topic/subject.png' %}
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 {% set content = 'This is Content' %}
 
 

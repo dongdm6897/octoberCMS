@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520589649a:1:{s:19:"footer/4-column.htm";a:7:{s:8:"fileName";s:19:"footer/4-column.htm";s:7:"content";s:1472:"description = "4 Column Footer"
+=======
+1520592508a:1:{s:19:"footer/4-column.htm";a:7:{s:8:"fileName";s:19:"footer/4-column.htm";s:7:"content";s:1523:"description = "4 Column Footer"
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 
 [viewBag]
 ==
@@ -49,7 +53,11 @@
     <!--/.Copyright-->
 
 </footer>
+<<<<<<< HEAD
 <!--/.Footer-->";s:5:"mtime";i:1520445836;s:6:"markup";s:1426:"<!--Footer-->
+=======
+<!--/.Footer-->";s:5:"mtime";i:1520528624;s:6:"markup";s:1473:"<!--Footer-->
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 <footer class="page-footer center-on-small-only stylish-color-dark">
 
     <!--Footer links-->

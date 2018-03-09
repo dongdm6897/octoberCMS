@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1520589649a:1:{s:13:"blog/post.htm";a:7:{s:8:"fileName";s:13:"blog/post.htm";s:7:"content";s:1555:"description = "Blog Post"
+=======
+1520592508a:1:{s:13:"blog/post.htm";a:7:{s:8:"fileName";s:13:"blog/post.htm";s:7:"content";s:1599:"description = "Blog Post"
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
 
 [viewBag]
 ==
@@ -42,7 +46,11 @@
         </div>
     </div>
     <!--/.row-->
+<<<<<<< HEAD
 </div>";s:5:"mtime";i:1520445836;s:6:"markup";s:1515:"<div class="container">
+=======
+</div>";s:5:"mtime";i:1520526730;s:6:"markup";s:1555:"<div class="container">
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
     <!--row-->
     <div class="row wow fadeIn" data-wow-delay="0.2s">
         <div class="col-md-12">
