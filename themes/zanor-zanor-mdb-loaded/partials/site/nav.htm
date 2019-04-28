@@ -5,12 +5,19 @@ description = "Nav with Dropdown"
 [staticMenu]
 code = "mainmenu"
 ==
+
+
 <!--Navbar-->
-<nav class="navbar navbar-expand-lg navbar-dark nav-blue">
+<nav class="navbar navbar-expand-lg navbar-dark bg-green">
 
     <!-- Navbar brand -->
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="#">
+        <img src='/octoberCMS/storage/app/media/topic/vegetable.png' height="35px" width="49px">
+        ViFarm Shop
+    </a>
 
+
+    
     <!-- Collapse button -->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
         aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -22,6 +29,7 @@ code = "mainmenu"
         <!-- Links -->
         <ul class="navbar-nav mr-auto">
             {% for item in items %}
+
                 <li class="nav-item {{ item.isActive or item.isChildActive ? 'active' : '' }}
                     {{ item.items ? 'dropdown btn-group' : '' }}"
                 >
@@ -48,9 +56,12 @@ code = "mainmenu"
         <!-- Links -->
 
         <!-- Search form -->
-        <form class="form-inline">
-            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-        </form>
+       <div>
+           <a href="/octoberCMS/login" style="color: white;text-decoration: none">Đăng nhập/Đăng ký</a>
+           <br>
+           <br>
+           <br>
+       </div>
     </div>
     <!-- Collapsible content -->
 

@@ -1,0 +1,10 @@
+name: Register
+form: $/dongdm/registerpartner/models/form/fields.yaml
+modelClass: Dongdm\Registerpartner\Models\Form
+defaultRedirect: dongdm/registerpartner/register
+create:
+    redirect: 'dongdm/registerpartner/register/update/:id'
+    redirectClose: dongdm/registerpartner/register
+update:
+    redirect: dongdm/registerpartner/register
+    redirectClose: dongdm/registerpartner/register

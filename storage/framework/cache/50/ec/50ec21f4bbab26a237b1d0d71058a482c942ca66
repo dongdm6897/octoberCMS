@@ -1,0 +1,162 @@
+1520596721a:1:{s:17:"event/details.htm";a:5:{s:8:"fileName";s:17:"event/details.htm";s:7:"content";s:3032:"
+{% set imgTest = '/octoberCMS/storage/app/media/topic/'~'test.png' %}
+{% set arrayImg = ['/octoberCMS/storage/app/media/topic/test1.png','/octoberCMS/storage/app/media/topic/test1.png','/octoberCMS/storage/app/media/topic/test1.png'] %}
+{% set icon_cor = '/octoberCMS/storage/app/media/topic/icon_cor.png' %}
+
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <img class="img-fluid" src="{{imgTest}}"  width="100%"  alt="Title">
+            </div>
+        </div>
+        <div class="row mt-4 ">
+                {% for img in arrayImg %}
+                    <div class="col">
+                        <img src="{{img}}" alt="content" class="img-fluid">
+                    </div>
+                {% endfor%}
+        </div>
+
+        <br>
+        <hr />
+        <!--media object-->
+        <div class="media">
+            <img class="d-flex align-self-start mr-3" src="{{icon_cor}}" alt="Generic placeholder image">
+            <div class="media-body">
+                <div>
+                    <h5 class="mt-0">ViFarm Up</h5>
+
+                </div>
+                <p>Người tổ chức: công ty Vifarms</p>
+                <p>Time: 2018/02/15 18:00 (còn 10 ngày nữa)</p>
+                <p>Số người cần thiết: 50 người</p>
+                <p>Số người đã đăng kí tham gia: 10 người</p>
+                <p>Địa điểm xuất phát: Hà Nội</p>
+                <p>Đích đến: Mộc Châu</p>
+                <p>Cách thức di chuyển: đi tập trung, theo bus</p>
+                <p>Chi phí tham gia: 100.000đ</p>
+                <p>Chi phí hủy chuyến (trước 1 ngày): 40%</p>
+            </div>
+        </div>
+
+        <br>
+        <!-- Tag -->
+        <div>
+            <ul class="list-group-horizontal">
+                <li class="list-group-item">Phượt</li>
+                <li class="list-group-item">Học hỏi</li>
+                <li class="list-group-item">Tình Nguyện</li>
+                <li class="list-group-item">Du lich</li>
+                <li class="list-group-item">WorkShop</li>
+                <li class="list-group-item">Filter</li>
+            </ul>
+            <hr >
+        </div>
+        <!--google map-->
+        {% content 'googlemap/location.htm'%}
+
+        <!--mô tả chương trình-->
+        <h3>Mô tả chương trình</h3>
+        <div class="row">
+            <div class="col-12" style="background-color: #FF0000;height: 10rem" >
+            </div>
+        </div>
+
+
+        <!--comment-->
+        <h3>Comment</h3>
+        <div class="row">
+            <div class="col-12" style="background-color: #00A000;height: 10rem">
+            </div>
+        </div>
+
+        <!--các hoạt động -->
+        <h3>Các hoạt động</h3>
+        <div class="row">
+            <div class="col-12" style="background-color: yellowgreen;height: 10rem">
+            </div>
+        </div>
+
+    </div>
+</main>";s:5:"mtime";i:1520596023;s:6:"markup";s:3030:"{% set imgTest = '/octoberCMS/storage/app/media/topic/'~'test.png' %}
+{% set arrayImg = ['/octoberCMS/storage/app/media/topic/test1.png','/octoberCMS/storage/app/media/topic/test1.png','/octoberCMS/storage/app/media/topic/test1.png'] %}
+{% set icon_cor = '/octoberCMS/storage/app/media/topic/icon_cor.png' %}
+
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <img class="img-fluid" src="{{imgTest}}"  width="100%"  alt="Title">
+            </div>
+        </div>
+        <div class="row mt-4 ">
+                {% for img in arrayImg %}
+                    <div class="col">
+                        <img src="{{img}}" alt="content" class="img-fluid">
+                    </div>
+                {% endfor%}
+        </div>
+
+        <br>
+        <hr />
+        <!--media object-->
+        <div class="media">
+            <img class="d-flex align-self-start mr-3" src="{{icon_cor}}" alt="Generic placeholder image">
+            <div class="media-body">
+                <div>
+                    <h5 class="mt-0">ViFarm Up</h5>
+
+                </div>
+                <p>Người tổ chức: công ty Vifarms</p>
+                <p>Time: 2018/02/15 18:00 (còn 10 ngày nữa)</p>
+                <p>Số người cần thiết: 50 người</p>
+                <p>Số người đã đăng kí tham gia: 10 người</p>
+                <p>Địa điểm xuất phát: Hà Nội</p>
+                <p>Đích đến: Mộc Châu</p>
+                <p>Cách thức di chuyển: đi tập trung, theo bus</p>
+                <p>Chi phí tham gia: 100.000đ</p>
+                <p>Chi phí hủy chuyến (trước 1 ngày): 40%</p>
+            </div>
+        </div>
+
+        <br>
+        <!-- Tag -->
+        <div>
+            <ul class="list-group-horizontal">
+                <li class="list-group-item">Phượt</li>
+                <li class="list-group-item">Học hỏi</li>
+                <li class="list-group-item">Tình Nguyện</li>
+                <li class="list-group-item">Du lich</li>
+                <li class="list-group-item">WorkShop</li>
+                <li class="list-group-item">Filter</li>
+            </ul>
+            <hr >
+        </div>
+        <!--google map-->
+        {% content 'googlemap/location.htm'%}
+
+        <!--mô tả chương trình-->
+        <h3>Mô tả chương trình</h3>
+        <div class="row">
+            <div class="col-12" style="background-color: #FF0000;height: 10rem" >
+            </div>
+        </div>
+
+
+        <!--comment-->
+        <h3>Comment</h3>
+        <div class="row">
+            <div class="col-12" style="background-color: #00A000;height: 10rem">
+            </div>
+        </div>
+
+        <!--các hoạt động -->
+        <h3>Các hoạt động</h3>
+        <div class="row">
+            <div class="col-12" style="background-color: yellowgreen;height: 10rem">
+            </div>
+        </div>
+
+    </div>
+</main>";s:4:"code";N;}}

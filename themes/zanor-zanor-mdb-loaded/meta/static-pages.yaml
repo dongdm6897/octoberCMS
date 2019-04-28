@@ -10,7 +10,3 @@ static-pages:
         layouts-half-page-carousel: {  }
         layouts-jumbotron: {  }
         layouts-team-profiles: {  }
-    subpages:
-        subpages-child-one: {  }
-        subpages-child-two: {  }
-        subpages-child-three: {  }

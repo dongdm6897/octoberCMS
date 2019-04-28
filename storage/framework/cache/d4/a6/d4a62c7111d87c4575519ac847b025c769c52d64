@@ -1,4 +1,4 @@
-1519890317a:1:{s:13:"jumbotron.htm";a:7:{s:8:"fileName";s:13:"jumbotron.htm";s:7:"content";s:9313:"description = "Jumbotron"
+1520596721a:1:{s:13:"jumbotron.htm";a:7:{s:8:"fileName";s:13:"jumbotron.htm";s:7:"content";s:9313:"description = "Jumbotron"
 
 [staticPage]
 useContent = 1
@@ -247,7 +247,7 @@ function onStart()
     <!--/.Main layout-->
 </main>
 
-{% partial 'site/footer' %}";s:5:"mtime";i:1519889065;s:6:"markup";s:9161:"{% partial 'site/head' %}
+{% partial 'site/footer' %}";s:5:"mtime";i:1520445836;s:6:"markup";s:9161:"{% partial 'site/head' %}
 {% partial 'site/nav' %}
 
 <main>

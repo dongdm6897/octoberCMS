@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+1520589652a:1:{s:16:"login-layout.htm";a:5:{s:8:"fileName";s:16:"login-layout.htm";s:7:"content";s:92:"{% partial 'site/head' %}
+=======
+1520592714a:1:{s:16:"login-layout.htm";a:5:{s:8:"fileName";s:16:"login-layout.htm";s:7:"content";s:100:"{% partial 'site/head' %}
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
+{% partial 'site/nav' %} 
+<div >
+    
+    {% page %}
+    
+</div>
+
+<<<<<<< HEAD
+";s:5:"mtime";i:1520445836;s:6:"markup";s:90:"{% partial 'site/head' %}
+=======
+";s:5:"mtime";i:1520528624;s:6:"markup";s:96:"{% partial 'site/head' %}
+>>>>>>> 9bc31b14620cb03f449368af29a8eafdfe5abfdb
+{% partial 'site/nav' %} 
+<div >
+    
+    {% page %}
+    
+</div>";s:4:"code";N;}}
